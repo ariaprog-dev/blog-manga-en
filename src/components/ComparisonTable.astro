@@ -35,13 +35,13 @@ const { title = "掲載作品・関連アイテム 徹底比較", products } = A
 					</tr>
 				</thead>
 				<tbody>
-					<!-- 画像行 -->
+					<!-- Image Row -->
 					<tr>
-						<td class="td-label">表紙/外観</td>
+						<td class="td-label">Cover / Edition</td>
 						{products.map((p, idx) => (
 							<td class={`td-cell ${idx === 0 ? 'highlight-col' : ''}`}>
 								{p.imageUrl ? (
-									<a href={p.url} target="_blank" rel="nofollow noopener noreferrer" class="img-link">
+									<a href={p.url} target="_blank" rel="sponsored noopener noreferrer" class="img-link">
 										<img src={p.imageUrl} alt={p.title} class="prod-thumb" loading="lazy" />
 									</a>
 								) : (
@@ -50,22 +50,22 @@ const { title = "掲載作品・関連アイテム 徹底比較", products } = A
 							</td>
 						))}
 					</tr>
-					<!-- 価格行 -->
+					<!-- Price Row -->
 					<tr>
-						<td class="td-label">価格 / 巻数</td>
+						<td class="td-label">Ref. Price / Format</td>
 						{products.map((p, idx) => (
 							<td class={`td-cell price-cell ${idx === 0 ? 'highlight-col' : ''}`}>
 								{p.price ? (
-									<span class="price-val">{p.price.toLocaleString()}円</span>
+									<span class="price-val">¥{p.price.toLocaleString()}</span>
 								) : (
-									<span>詳細確認</span>
+									<span>Check Store</span>
 								)}
 							</td>
 						))}
 					</tr>
-					<!-- 評価行 -->
+					<!-- Rating Row -->
 					<tr>
-						<td class="td-label">おすすめ度</td>
+						<td class="td-label">Editorial Score</td>
 						{products.map((p, idx) => {
 							const stars = p.rating || 4.5;
 							return (
@@ -78,10 +78,10 @@ const { title = "掲載作品・関連アイテム 徹底比較", products } = A
 							);
 						})}
 					</tr>
-					<!-- 主な見どころ -->
+					<!-- Highlights -->
 					{products.some(p => p.features && p.features.length > 0) && (
 						<tr>
-							<td class="td-label">見どころ</td>
+							<td class="td-label">Highlights</td>
 							{products.map((p, idx) => (
 								<td class={`td-cell text-left-cell ${idx === 0 ? 'highlight-col' : ''}`}>
 									{p.features && (
@@ -93,10 +93,10 @@ const { title = "掲載作品・関連アイテム 徹底比較", products } = A
 							))}
 						</tr>
 					)}
-					<!-- こんな人におすすめ -->
+					<!-- Target Reader -->
 					{products.some(p => p.targetUser) && (
 						<tr>
-							<td class="td-label">こんな人向け</td>
+							<td class="td-label">Best For</td>
 							{products.map((p, idx) => (
 								<td class={`td-cell target-cell ${idx === 0 ? 'highlight-col' : ''}`}>
 									{p.targetUser && <p>{p.targetUser}</p>}
@@ -104,13 +104,13 @@ const { title = "掲載作品・関連アイテム 徹底比較", products } = A
 							))}
 						</tr>
 					)}
-					<!-- 公式・販売ボタン -->
+					<!-- Merchant Link -->
 					<tr>
-						<td class="td-label">詳細リンク</td>
+						<td class="td-label">Details</td>
 						{products.map((p, idx) => (
 							<td class={`td-cell action-cell ${idx === 0 ? 'highlight-col' : ''}`}>
-								<a href={p.url} target="_blank" rel="nofollow noopener noreferrer" class="btn-compare-cta">
-									今すぐ読む・確認 ➔
+								<a href={p.url} target="_blank" rel="sponsored noopener noreferrer" class="btn-compare-cta">
+									View Edition & Price ➔
 								</a>
 							</td>
 						))}
