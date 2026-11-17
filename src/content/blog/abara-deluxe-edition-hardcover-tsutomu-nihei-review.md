@@ -110,7 +110,7 @@ The English digital edition, on the other hand, offers unparalleled convenience.
 Acquiring the *Abara: Deluxe Edition* hardcover is straightforward for international buyers, primarily through online retailers.
 
 *   **Global Online Retailers:** The Viz Media *Abara: Deluxe Edition* is widely available through various global online retailers and specialty manga stores. Searching for "Abara Deluxe Edition Viz Media" will typically yield the correct English-language hardcover. Collectors should compare prices and shipping options, being mindful of potential import duties, which vary by country.
-*   **Other Online Bookstores:** Retailers like Book Depository (known for free worldwide shipping, though shipping times can be longer) or Right Stuf Anime (now part of Crunchyroll Store, primarily US-focused but ships internationally) are also excellent sources for this edition.
+*   **Other Online Bookstores:** Specialty storefronts like Crunchyroll Store (shipping broadly across North America and select international regions), Barnes & Noble, and Blackwell's are also reliable options for English print editions alongside Amazon.co.jp and Rakuten Japan.
 *   **Digital Editions:** The English digital edition is available globally via various digital storefronts. This is the quickest and most direct way to get instant access to the series digitally.
 *   **Japanese Editions via Amazon.co.jp and Rakuten Japan:** For collectors interested in the original Japanese editions or other Japanese-language Nihei works, **Amazon.co.jp** and **Rakuten Japan** are excellent resources. Both platforms support English interfaces and offer reliable international shipping. These are the recommended channels for authentic Japanese collector items.
 

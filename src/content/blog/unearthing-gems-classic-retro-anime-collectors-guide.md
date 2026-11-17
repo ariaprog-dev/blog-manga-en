@@ -125,7 +125,7 @@ For the international collector, deciding between physical and digital formats i
 **Where to Buy:**
 *   **Amazon.co.jp:** Your go-to for many Japanese-exclusive editions, figures, and artbooks. Their English interface and worldwide shipping make it incredibly convenient. Look for "Ships from Amazon Japan" for reliable service.
 *   **Rakuten Japan:** Another excellent platform for authentic Japanese editions, figures, and collectibles, often offering competitive pricing and international shipping options.
-*   **Local Retailers:** Check major online retailers in your region (e.g., Crunchyroll Store, Right Stuf Anime in North America, Zavvi in Europe) for localized Blu-ray releases and manga.
+*   **Local Retailers:** Check major online retailers in your region (e.g., Crunchyroll Store in North America, Zavvi in Europe) for localized Blu-ray releases and manga.
 
 ### Instant Digital Availability: For Convenience and Portability
 

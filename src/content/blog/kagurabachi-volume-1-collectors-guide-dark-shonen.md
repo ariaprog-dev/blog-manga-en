@@ -113,7 +113,7 @@ For the English digital version, simply head to your local Amazon store or Amazo
 
 ### Local Booksellers & Online Retailers: English Physical
 
-For the English physical *tankobon* from Viz Media, check your preferred local online bookseller (like Book Depository, Right Stuf Anime, or your local Amazon store) or visit a brick-and-mortar comic shop. These options offer the most convenient and often cheapest way to acquire the English version without dealing with international shipping or customs complexities.
+For the English physical *tankobon* from Viz Media, check your preferred local online bookseller (like Barnes & Noble, Blackwell's, Crunchyroll Store, or your local Amazon store) or visit a brick-and-mortar comic shop. These options offer the most convenient and often cheapest way to acquire the English version without dealing with international shipping or customs complexities.
 
 **Key Takeaway for Readers:** Prioritize 'Pros for Global Buyers' to align your purchasing decision with your preferences for language, speed, and cost-effectiveness when acquiring *Kagurabachi Volume 1*.
 
@@ -121,7 +121,7 @@ For the English physical *tankobon* from Viz Media, check your preferred local o
 | :------------------------------ | :---------------------- | :-------- | :---------------------------------------------- | :----------------------------------------------------- | :--------------------------------------------------- |
 | Amazon.co.jp                    | Japanese Tankobon       | Japanese  | Ships worldwide, English interface, customs handled. | Direct access to original, reliable international shipping. | Higher overall cost (shipping + potential customs), language barrier. |
 | Local Amazon stores, Amazon.co.jp (English Kindle) | English Digital         | English   | Instant download, accessible globally.          | Immediate reading, no shipping costs, portable.        | No physical item, digital rights restrictions.       |
-| Local Booksellers (e.g., local Amazon stores, Barnes & Noble, Book Depository) | English Tankobon | English | Local shipping, often free/low cost. | Most convenient, cheapest for physical English, supports local retailers. | Not the original Japanese, may have slight delays post-JP release. |
+| Local Booksellers (e.g., local Amazon stores, Barnes & Noble, Crunchyroll Store) | English Tankobon | English | Local shipping, often free/low cost. | Most convenient, cheapest for physical English, supports local retailers. | Not the original Japanese, may have slight delays post-JP release. |
 
 ## Who Should Add Kagurabachi Volume 1 to Their Collection?
 

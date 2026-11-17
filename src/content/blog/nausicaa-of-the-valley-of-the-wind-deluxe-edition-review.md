@@ -113,7 +113,7 @@ While VIZ Media publishes the English Deluxe Edition, competitive pricing or spe
 
 ### Local Retailers and Other Online Stores
 
-Of course, the English *Nausicaä of the Valley of the Wind Deluxe Edition* is also widely available through major booksellers like Barnes & Noble, Book Depository, and independent comic shops, as well as via Amazon.co.jp for international shipping. These options might offer faster shipping within a specific region and potentially avoid international customs complexities. Comparing prices, shipping costs, and availability across these platforms is always recommended to find the best deal.
+Of course, the English *Nausicaä of the Valley of the Wind Deluxe Edition* is also widely available through major booksellers like Barnes & Noble, Blackwell's, Crunchyroll Store, and independent comic shops, as well as via Amazon.co.jp for international shipping. These options might offer faster shipping within a specific region and potentially avoid international customs complexities. Comparing prices, shipping costs, and availability across these platforms is always recommended to find the best deal.
 
 ## Who Should Buy This?
 

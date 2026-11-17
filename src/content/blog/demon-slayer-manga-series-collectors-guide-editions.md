@@ -143,7 +143,7 @@ For global collectors, understanding where and how to purchase *Demon Slayer* is
 ### For English Readers:
 
 *   **Major Certified Retailers**: For English editions, individual Viz Media paperback volumes and complete box sets are widely available through major online bookstores and certified retailers. Search for "Demon Slayer manga" or "Demon Slayer box set" on your preferred platform. Shipping costs and times will vary by region.
-*   **Book Depository / Blackwell's**: These online bookstores often offer free international shipping, which can be a significant advantage for physical volumes, though their stock might fluctuate.
+*   **Blackwell's / Online Specialist Stores**: Retailers like Blackwell's often include international shipping options for English volumes, though box set stock can fluctuate.
 *   **Barnes & Noble / Indigo / Waterstones**: If you're in a region with these physical bookstores, you can often find individual volumes in-store or order online for local pickup or delivery.
 *   **Kindle Store**: Official English Kindle E-Book translations are available globally through your Amazon account. Simply search for "Demon Slayer Kindle" to find all 23 volumes and purchase them instantly. This is the fastest way to read the series without any shipping hassles.
 
