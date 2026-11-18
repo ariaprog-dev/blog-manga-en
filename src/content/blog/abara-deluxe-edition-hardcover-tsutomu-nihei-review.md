@@ -16,7 +16,6 @@ sidebarProducts:
   price: 2178
   microCopy: View on Rakuten
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 For international collectors and connoisseurs of dark, atmospheric sci-fi manga, Tsutomu Nihei's name is synonymous with sprawling, industrial landscapes, body horror, and an inimitable sense of scale. While *Blame!* and *Knights of Sidonia* might be his most recognized epics, the standalone work *Abara* offers a concentrated dose of his genius, a brutalist ballet of transformation and survival. The *Abara: Deluxe Edition* hardcover by Viz Media is the definitive way for English-speaking fans to experience this cult classic, presenting Nihei's intricate, often terrifying artwork in a format it truly deserves.
@@ -132,6 +131,11 @@ This *Abara: Deluxe Edition* is not just another manga; it's a statement piece, 
 *Abara* is a raw, uncompromising vision from Tsutomu Nihei, a creator whose work consistently pushes the boundaries of manga as an art form. The *Abara: Deluxe Edition* hardcover is the definitive way to experience this cult masterpiece. Its premium physical construction—oversized pages, high-quality paper, and durable binding—ensures that Nihei's intricate, terrifying, and awe-inspiring artwork is presented with the reverence it deserves.
 
 For international collectors, this edition is more than just a book; it's an investment in a unique artistic experience, a tangible piece of a desolate, beautiful world crafted by a master. While digital options offer convenience, the physical Deluxe Edition is essential for truly appreciating the visual depth and immersive atmosphere of *Abara*. Add this monument to monochrome mayhem to your shelf; you won't regret diving into its unsettling depths.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 ABARA</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DABARA%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DABARA%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FABARA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions (FAQ)
 

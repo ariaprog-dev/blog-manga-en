@@ -18,7 +18,6 @@ sidebarProducts:
   price: 4356
   microCopy: View on Rakuten
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 For nearly three decades, Eiichiro Oda's *One Piece* has sailed the high seas of popular culture, capturing the hearts of millions worldwide. What began as a whimsical tale of a rubber-limbed boy aspiring to be the Pirate King has evolved into an epic saga of unparalleled scope, emotional depth, and relentless adventure. For global collectors, *One Piece* isn't just a manga; it's a monumental journey, and owning the physical series is a badge of honor. This guide dives deep into the allure of the *One Piece* Manga Box Sets, comparing them against digital alternatives and offering practical advice for international fans looking to add this legendary series to their collection.
@@ -155,6 +154,11 @@ Rakuten Japan is another significant online retailer for *One Piece* manga, offe
 *One Piece* stands as a monumental achievement in storytelling, a grand adventure that has captivated generations. The Manga Box Sets offer the definitive physical experience for collectors, providing a beautiful, robust, and comprehensive way to own this legendary series. While digital options like Kindle offer unparalleled convenience, nothing quite matches the satisfaction of holding these volumes, admiring Oda's art, and witnessing the Straw Hats' journey unfold on display.
 
 Whether a seasoned pirate or a fresh recruit to the Grand Line, investing in the *One Piece* Manga Box Sets is an investment in a timeless saga that will continue to inspire and entertain for years to come. Prepare to laugh, cry, and cheer as Luffy and his crew chase their dreams across the vast, wondrous world of *One Piece*.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 One Piece Box Set</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DOne%2520Piece%2520Box%2520Set%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DOne%2520Piece%2520Box%2520Set%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOne%20Piece%20Box%20Set%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions
 

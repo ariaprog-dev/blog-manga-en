@@ -18,7 +18,6 @@ sidebarProducts:
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 Step into the chaotic, captivating world of *Dorohedoro*, a manga series that defies easy categorization and leaves an indelible mark on every reader. From the visionary mind of Q Hayashida, this 23-volume saga is a gritty, hilarious, and surprisingly heartwarming journey through a post-apocalyptic landscape where magic and mayhem collide. For international collectors and new fans alike, *Dorohedoro* offers a unique experience, whether you're seeking the tactile pleasure of physical volumes or the instant gratification of digital editions.
@@ -127,5 +126,10 @@ The English editions published by Viz Media are widely distributed. Collectors c
 *Dorohedoro* is more than just a manga; it's an experience. Its unparalleled art, bizarre yet endearing characters, and captivating story create a world that collectors will want to revisit again and again. For international collectors, the choice between the tangible satisfaction of Viz Media's English physical volumes (or the original Japanese imports via Amazon.co.jp and Rakuten Japan) and the instant, portable convenience of Kindle digital editions offers flexibility to suit any preference.
 
 No matter which format is chosen, owning the complete *Dorohedoro* manga means possessing a truly unique piece of modern manga history. It's a series that challenges conventions, delights with its originality, and solidifies its place as a dark fantasy masterpiece. Dive into the Hole – it won't be regretted.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Dorohedoro</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDorohedoro%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDorohedoro%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDorohedoro%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions

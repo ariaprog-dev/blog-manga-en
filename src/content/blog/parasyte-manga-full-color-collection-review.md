@@ -18,7 +18,6 @@ sidebarProducts:
   price: 3960
   microCopy: View on Rakuten
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 For decades, Hitoshi Iwaaki’s *Parasyte* has stood as a towering achievement in manga, a chilling blend of body horror, sci-fi thrills, and profound philosophical inquiry. Its narrative, exploring humanity's place in the ecosystem through the symbiotic, often violent, relationship between a high school student and an alien hand, has resonated deeply with readers worldwide. While the original black-and-white serialization is legendary, the release of the *Parasyte Manga Full Color Collection* from Japan offers an entirely new, breathtaking way to experience this seminal work. This isn't just a re-release; it's a re-imagining, a vibrant revival that demands the attention of every serious manga collector and fan of dark fantasy.
@@ -154,6 +153,11 @@ The *Parasyte Manga Full Color Collection* is not just another manga release; it
 In the ever-expanding landscape of manga, some series stand the test of time, proving their brilliance across generations. *Parasyte* is unequivocally one such series. The *Parasyte Manga Full Color Collection* is more than just a re-release; it's a celebration of Hitoshi Iwaaki's genius, offering a rich, vibrant, and deeply immersive way to engage with a story that continues to provoke thought and stir emotion.
 
 Whether you choose to pursue the exquisite physical volumes from Japan for their unparalleled visual splendor and collector appeal, or opt for the convenient and accessible official English Kindle releases, the journey into Shinichi and Migi's world is one that promises to be unforgettable. For the discerning collector, however, the full-color Japanese edition represents the pinnacle of presentation for this timeless masterpiece, a vibrant gem truly worthy of a prime spot in your Midnight Manga Vault.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Parasyte</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DParasyte%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DParasyte%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FParasyte%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions
 

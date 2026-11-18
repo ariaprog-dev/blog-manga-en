@@ -13,7 +13,6 @@ sidebarProducts:
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 For decades, *Blade of the Immortal* has stood as a towering achievement in manga, a sprawling samurai epic that blends historical grit with supernatural horror and a unique artistic vision. Hiroaki Samura's magnum opus captivated readers with its brutal action, philosophical undertones, and unforgettable characters. Now, with the release of the *Blade of the Immortal Deluxe Edition* from Dark Horse, international collectors have the definitive way to experience this legendary series.
@@ -152,5 +151,10 @@ While Amazon.co.jp is a key source, collectors may also find physical Deluxe Edi
 *Blade of the Immortal* is more than just a manga; it's a cultural touchstone, a brutal yet beautiful exploration of humanity, revenge, and the burden of eternal life. The *Blade of the Immortal Deluxe Edition* takes this already incredible work and elevates it to its rightful place as a premium collector's item.
 
 Whether collectors opt for the stunning physical hardcovers for their bookshelf, cherishing every oversized page of Samura's unparalleled artwork, or choose the instant gratification and portability of the official English Kindle releases, experiencing Manji and Rin's journey is a must. For international collectors seeking a definitive edition of a timeless classic, the Deluxe Edition of *Blade of the Immortal* is an essential acquisition that will stand proudly in any manga library.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Blade of the Immortal Deluxe</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlade%20of%20the%20Immortal%20Deluxe%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions

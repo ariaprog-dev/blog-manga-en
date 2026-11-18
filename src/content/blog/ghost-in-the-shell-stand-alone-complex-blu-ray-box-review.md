@@ -18,7 +18,6 @@ sidebarProducts:
 heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0977/4934569360977.jpg?_ex=600x600
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 This analysis delves into *Ghost in the Shell: Stand Alone Complex* (GITS: SAC), focusing on its Blu-ray Box release. For collectors considering an upgrade or new viewers exploring this seminal work, this review offers an in-depth look at one of anime's most intelligent, visually stunning, and philosophically rich series.
@@ -138,6 +137,11 @@ In a world saturated with ephemeral streaming content, owning a physical copy of
 Whether pondering the nature of one's own ghost in the machine, marveling at the intricate plot twists, or simply enjoying the unparalleled action, this series delivers on every front. The Blu-ray Box ensures that this legacy is preserved and presented in the best possible quality, making it an indispensable addition to any serious anime collection.
 
 Don't miss out on revisiting (or discovering) this essential piece of cyberpunk history. Authentic editions of the *Ghost in the Shell Stand Alone Complex Blu-ray Box* are available for purchase via **Amazon.co.jp** and **Rakuten Japan**, which offer English navigation and international shipping. Collectors will find this a rewarding addition to their library.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Ghost in the Shell</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13400887%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17617070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions
 

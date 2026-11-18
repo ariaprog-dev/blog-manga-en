@@ -16,7 +16,6 @@ sidebarProducts:
   price: 6864
   microCopy: View on Rakuten
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 Every now and then, a new series bursts onto the scene, capturing the global manga community's attention with an undeniable buzz. *Kagurabachi* is precisely one such phenomenon. From its debut in Weekly Shonen Jump, Takeru Hokazono's dark fantasy action series has been on an explosive trajectory, quickly becoming a talking point for its gritty art style, compelling revenge narrative, and potential to become a future classic. For international collectors, acquiring the inaugural volume of such a hyped series is more than just buying a manga; it's investing in the ground floor of a potential legacy.
@@ -138,6 +137,11 @@ For the English physical *tankobon* from Viz Media, check your preferred local o
 *Kagurabachi Volume 1* is more than just the start of a new manga series; it's the beginning of a cultural phenomenon in the making. Its unique blend of dark fantasy, intense action, and compelling character work has quickly cemented its place as one of the most talked-about new titles in recent memory. For international collectors, the choice between the authentic Japanese *tankobon*, the accessible English physical release, or the instant gratification of the English Kindle edition depends on individual priorities.
 
 Whether you prioritize the original language and potential collector's value of the Japanese edition, the comfort of reading in English on your bookshelf, or the immediate, portable convenience of digital, *Kagurabachi Volume 1* is a worthy addition to any collection. Don't miss the chance to get in on the ground floor of what promises to be a legendary journey. Secure your copy and witness the blade's dance unfold from its thrilling inception.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Kagurabachi Volume 1</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKagurabachi%2520Volume%25201%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKagurabachi%2520Volume%25201%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKagurabachi%20Volume%201%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ### Frequently Asked Questions
 

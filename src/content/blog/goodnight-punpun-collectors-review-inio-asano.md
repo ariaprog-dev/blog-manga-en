@@ -18,7 +18,6 @@ sidebarProducts:
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600osgk04937/b600osgk04937pl.jpg
 ---
-
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
 For discerning manga collectors, certain titles demand a prominent place in their curated libraries, not just for their storytelling prowess but for their sheer artistic ambition and profound impact. Inio Asano's *Goodnight Punpun* (Goodnight Punpun, *Oyasumi Punpun*) is undeniably one of these works. It's a sprawling, often uncomfortable, yet ultimately breathtaking epic that defies easy categorization, leaving an indelible mark on anyone who dares to delve into its pages. If you're an international fan looking to add a truly unique and critically acclaimed series to your collection, understanding the various ways to experience Punpun is essential.
@@ -134,6 +133,11 @@ Deciding whether *Goodnight Punpun* is right for your collection involves unders
 *Goodnight Punpun* stands as a towering achievement in modern manga. It's a series that will challenge you, move you, and stay with you long after you've turned the final page. For international collectors, the choice between the well-produced Viz Media English omnibus editions (especially the complete box set for display and protection) and the convenient, instantly accessible Kindle digital versions depends on your personal collecting philosophy.
 
 Whether you prioritize the tactile experience and visual grandeur of physical books or the portability and immediacy of digital, *Goodnight Punpun* is a series that undeniably earns its place in any serious manga collection. It's a testament to the power of sequential art to explore the most complex and uncomfortable facets of human existence, making it a timeless classic that continues to resonate with fans across the globe.
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Goodnight Punpun</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGoodnight%2520Punpun%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGoodnight%2520Punpun%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGoodnight%20Punpun%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+</div>
 
 ## Collector's Q&A: Goodnight Punpun
 

@@ -1232,6 +1232,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					width: 100%;
 					box-sizing: border-box;
 				}
+			}
 			/* Reading Progress Bar (Scroll Indicator) */
 			.reading-progress-bar {
 				position: fixed;
@@ -1592,6 +1593,43 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 											<div class="faq-answer">{item.answer}</div>
 										</details>
 									))}
+								</div>
+							</section>
+						)}
+
+						<!-- モバイル用関連商品表示セクション（読後離脱前に配置） -->
+						{products && products.length > 0 && (
+							<section class="mobile-related-products" aria-label="Recommended Items">
+								<h3 class="mobile-section-title">Recommended Items</h3>
+								<div class="mobile-products-grid">
+									{products.map((prod) => {
+										const isRakuten = prod.url && prod.url.includes('rakuten');
+										const isDmm = prod.url && prod.url.includes('dmm.');
+										return (
+											<div class="mobile-product-card">
+												<span class="ad-label">PR</span>
+												{prod.imageUrl && (
+													<a href={prod.url} target="_blank" rel="sponsored noopener noreferrer" class="mobile-product-image-link">
+														<img src={prod.imageUrl} alt={prod.title} class="mobile-product-image" loading="lazy" />
+													</a>
+												)}
+												<div class="mobile-product-info">
+													<span class={`mobile-platform-badge ${isRakuten ? 'mobile-platform-rakuten' : 'mobile-platform-dmm'}`}>
+														{isRakuten ? 'Rakuten' : (isDmm ? 'DMM' : 'Official Shop')}
+													</span>
+													<a href={prod.url} target="_blank" rel="sponsored noopener noreferrer" class="mobile-product-title-link">
+														{prod.title}
+													</a>
+													{prod.price && (
+														<div class="mobile-product-price">¥{prod.price.toLocaleString()}</div>
+													)}
+													<a href={prod.url} target="_blank" rel="sponsored noopener noreferrer" class="mobile-banner-button">
+														{prod.microCopy || 'View Details'}
+													</a>
+												</div>
+											</div>
+										);
+									})}
 								</div>
 							</section>
 						)}
