@@ -47,7 +47,7 @@ This review dives deep into what makes *Abara* a unique entry in Nihei's bibliog
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
 </div>
 
 ## The Architect of Despair: Tsutomu Nihei's Vision in *Abara*
@@ -133,8 +133,9 @@ This *Abara: Deluxe Edition* is not just another manga; it's a statement piece, 
 For international collectors, this edition is more than just a book; it's an investment in a unique artistic experience, a tangible piece of a desolate, beautiful world crafted by a master. While digital options offer convenience, the physical Deluxe Edition is essential for truly appreciating the visual depth and immersive atmosphere of *Abara*. Add this monument to monochrome mayhem to your shelf; you won't regret diving into its unsettling depths.
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 ABARA</div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ABARA</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DABARA%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DABARA%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FABARA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
 </div>
 
 ### Frequently Asked Questions (FAQ)

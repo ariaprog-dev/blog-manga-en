@@ -42,7 +42,7 @@ This guide will navigate the vibrant landscape of classic retro anime, highlight
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
 </div>
 
 ## What Makes an Anime "Retro" and "Worth Watching"?
@@ -155,8 +155,9 @@ For the international collector, deciding between physical and digital formats i
 Collecting classic retro anime is more than just accumulating media; it's about preserving and appreciating pivotal moments in animation history. These works are not just "worth watching"; they are essential viewing, offering profound experiences that continue to inspire and entertain. Whether you opt for the immersive experience of a 4K Blu-ray box set, the tactile joy of a deluxe manga hardcover, or the convenience of a digital release, the journey into retro anime is a rewarding one for any global collector. Start exploring these timeless treasures today, and discover the roots of modern anime's incredible success.
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 Cowboy Bebop Blu-ray</div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Cowboy Bebop Blu-ray</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2520Blu-ray%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2520Blu-ray%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCowboy%20Bebop%20Blu-ray%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
 </div>
 
 ### Frequently Asked Questions

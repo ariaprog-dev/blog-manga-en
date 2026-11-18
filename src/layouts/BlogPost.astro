@@ -45,8 +45,11 @@ const defaultProducts = [
 	}
 ];
 
-const rawProducts = sidebarProducts && sidebarProducts.length > 0
-	? sidebarProducts.slice(0, 3)
+const validSidebarProducts = (sidebarProducts || []).filter(
+	(p) => p && typeof p.url === 'string' && p.url.trim().length > 0
+);
+const rawProducts = validSidebarProducts.length > 0
+	? validSidebarProducts.slice(0, 3)
 	: defaultProducts;
 
 // 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
@@ -1566,15 +1569,15 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 
 						<!-- E-E-A-T Author Profile Card -->
 						<section class="author-card" aria-label="About the author">
-							<img src="/images/profile-manga.jpg" alt="Midnight Manga Vault Editorial Team" class="author-avatar" loading="lazy" />
+							<img src="/images/profile-manga.jpg" alt="Manga Sommelier (Midnight Manga Vault)" class="author-avatar" loading="lazy" />
 							<div class="author-info">
 								<div class="author-header">
 									<span class="author-label">WRITTEN BY</span>
-									<h4 class="author-name">Midnight Manga Vault Editorial Team</h4>
-									<span class="author-role">Manga Studies & Edition Specifications</span>
+									<h4 class="author-name">Manga Sommelier (Midnight Manga Vault)</h4>
+									<span class="author-role">30+ Years of Manga Reading · Narrative &amp; Edition Analysis</span>
 								</div>
 								<p class="author-bio">
-									Analyzing classic and cult-favorite manga from literary themes and panel composition alongside verified edition specifications (hardcover bindings, omnibus releases, and official English digital availability) for global collectors.
+									Lifelong Japanese manga reader raised on classics like <em>Doraemon</em>. Combining decades of reading experience across seinen, sci-fi, and thriller series with verified publisher specifications, binding comparisons, and official release details for global collectors.
 								</p>
 								<a href="/about/" class="author-link">
 									Read Our Full Story & Review Standards ➔
