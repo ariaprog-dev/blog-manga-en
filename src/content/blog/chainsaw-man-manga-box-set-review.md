@@ -149,9 +149,11 @@ While *Chainsaw Man* was serialized in a teenage demographic magazine, its psych
 * <strong>Heavy Themes of Trauma and Manipulation</strong>: Themes of childhood neglect, mental coercion, gaslighting, and severe grief are deeply interwoven into the narrative core.
 * <strong>Eccentric Humor and Irreverence</strong>: If you prefer dignified, stoic protagonists who deliver passionate speeches about justice, Denji’s unhinged and dirty sense of humor may initially prove jarring.
 
-However, if you appreciate works like *Neon Genesis Evangelion*, *Dorohedoro*, *Jujutsu Kaisen*, or the films of Quentin Tarantino and David Cronenberg, *Chainsaw Man* will feel like an absolute revelation.
+However, if you appreciate works like *Neon Genesis Evangelion*, *Dorohedoro*, *[Jujutsu Kaisen](/blog/jujutsu-kaisen-manga-collection-review-collectors-guide/)*, or the films of Quentin Tarantino and David Cronenberg, *Chainsaw Man* will feel like an absolute revelation.
 
 ---
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/spy-x-family-manga-review-buying-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">SPY×FAMILY Manga</a> · <a href="/blog/space-brothers-uchuu-kyoudai-manga-anime-review-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Space Brothers: A Collector&#x27;s Guide to the Manga &amp; Anime</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Chainsaw Man</strong></div>

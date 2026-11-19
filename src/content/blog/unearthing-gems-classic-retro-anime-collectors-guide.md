@@ -63,7 +63,7 @@ No discussion of retro anime is complete without *Akira*. Katsuhiro Otomo's magn
 
 **Collector's Editions:**
 *   **4K UHD Blu-ray:** The definitive way to experience *Akira*. The recent 4K restoration brings out incredible detail and vibrant colors previously unseen, making the hand-drawn animation truly shine. These editions often come with extensive bonus features, art cards, and premium packaging. Available globally, including through **Amazon.co.jp** (which ships worldwide with English interface support) or local distributors like Funimation/Crunchyroll.
-*   **Manga Deluxe Editions:** The original *Akira* manga by Katsuhiro Otomo is a sprawling epic that delves even deeper into the lore and characters. Kodansha has released beautiful oversized hardcover editions in English, which are a must-have for any manga enthusiast. These volumes showcase Otomo's intricate artwork in stunning detail. Find them on **Amazon.co.jp** (Kindle for instant access or physical copies) or other major book retailers.
+*   **Manga Deluxe Editions:** The original *Akira* manga by Katsuhiro Otomo is a sprawling epic that delves even deeper into the lore and characters. Kodansha has released beautiful oversized hardcover editions in English, which are a must-have for any manga enthusiast. These volumes showcase Otomo's detailed artwork in stunning detail. Find them on **Amazon.co.jp** (Kindle for instant access or physical copies) or other major book retailers.
 
 ### Neon Genesis Evangelion (1995): A Psychological Odyssey That Still Resonates
 
@@ -74,11 +74,11 @@ Hideaki Anno's *Neon Genesis Evangelion* redefined the mecha genre, transforming
 **Collector's Editions:**
 *   **Blu-ray Box Sets:** GKIDS has released fantastic collector's editions of the original series and films in North America, often featuring stunning art books, bonus discs, and premium packaging. These are often region-locked, so international collectors should check compatibility or explore region-free players. **Amazon.co.jp** also frequently offers Japanese Blu-ray box sets (often with English subtitles) that are highly coveted for their exclusivity and quality.
 *   **Manga & Artbooks:** Yoshiyuki Sadamoto's manga adaptation offers a different perspective on the story and is available in deluxe hardcover editions. Official artbooks are also abundant, showcasing the iconic character and mecha designs. Look for these on **Amazon.co.jp** and specialized hobby sites. The **Kindle** versions of the manga provide instant access.
-*   **Figures & Merchandise:** *Evangelion* boasts an unparalleled range of high-end figures (from Kotobukiya, Good Smile Company, Bandai Spirits) and collectibles. From detailed EVA units to Rei and Asuka scale figures, the merchandising is extensive and highly sought after by collectors. **Rakuten Japan** and other specialized Japanese retailers are excellent sources for these.
+*   **Figures & Merchandise:** *Evangelion* boasts an unmatched range of high-end figures (from Kotobukiya, Good Smile Company, Bandai Spirits) and collectibles. From detailed EVA units to Rei and Asuka scale figures, the merchandising is extensive and highly sought after by collectors. **Rakuten Japan** and other specialized Japanese retailers are excellent sources for these.
 
 ### Cowboy Bebop (1998): Jazz, Space, and Undeniable Style
 
-Shinichirō Watanabe's *Cowboy Bebop* is a masterclass in cool. Blending genres from neo-noir to Western, with a legendary jazz soundtrack by Yoko Kanno, it follows a ragtag group of bounty hunters across a solar system filled with unforgettable characters and standalone adventures. Its stylish animation, witty dialogue, and profound emotional core make it a timeless classic.
+Shinichirō Watanabe's *Cowboy Bebop* is a masterclass in cool. Blending genres from neo-noir to Western, with a legendary jazz soundtrack by Yoko Kanno, it follows a ragtag group of bounty hunters across a solar system filled with unforgettable characters and standalone adventures. Its stylish animation, witty dialogue, and deep emotional core make it a timeless classic.
 
 **Why it's essential for collectors:** *Cowboy Bebop* is pure cinematic swagger. It's a series that appeals to both anime veterans and newcomers, offering a perfect blend of action, humor, and melancholy.
 
@@ -113,7 +113,7 @@ For the international collector, deciding between physical and digital formats i
 
 **Pros:**
 *   **Tangible Value:** There's an undeniable joy in owning a beautifully crafted physical edition – the artwork, the feel of a deluxe hardcover, the bonus materials.
-*   **Superior A/V Quality:** Blu-ray (especially 4K UHD) often offers the highest possible audio and video fidelity, crucial for appreciating the intricate animation and sound design of retro anime.
+*   **Superior A/V Quality:** Blu-ray (especially 4K UHD) often offers the highest possible audio and video fidelity, crucial for appreciating the layered animation and sound design of retro anime.
 *   **Collectibility:** Limited editions, box sets, and rare prints can appreciate in value and make for impressive display pieces.
 
 **Cons:**
@@ -140,7 +140,7 @@ For the international collector, deciding between physical and digital formats i
 *   **Ownership Concerns:** You often license, rather than truly own, digital content.
 
 **Where to Buy:**
-*   **Kindle via Amazon.co.jp:** For official English digital manga releases, **Kindle** via **Amazon.co.jp** is unparalleled. Most major manga publishers offer their back catalogs here.
+*   **Kindle via Amazon.co.jp:** For official English digital manga releases, **Kindle** via **Amazon.co.jp** is exceptional. Most major manga publishers offer their back catalogs here.
 *   **Streaming Services:** Crunchyroll, Netflix, Hulu, and HIDIVE offer a growing selection of classic anime for streaming, though availability varies by region.
 
 ## Who Should Dive into Retro Anime?
@@ -152,7 +152,9 @@ For the international collector, deciding between physical and digital formats i
 
 ## The Lasting Legacy
 
-Collecting classic retro anime is more than just accumulating media; it's about preserving and appreciating pivotal moments in animation history. These works are not just "worth watching"; they are essential viewing, offering profound experiences that continue to inspire and entertain. Whether you opt for the immersive experience of a 4K Blu-ray box set, the tactile joy of a deluxe manga hardcover, or the convenience of a digital release, the journey into retro anime is a rewarding one for any global collector. Start exploring these timeless treasures today, and discover the roots of modern anime's incredible success.
+Collecting classic retro anime is more than just accumulating media; it's about preserving and appreciating pivotal moments in animation history. These works are not just "worth watching"; they are essential viewing, offering lasting experiences that continue to inspire and entertain. Whether you opt for the immersive experience of a 4K Blu-ray box set, the tactile joy of a deluxe manga hardcover, or the convenience of a digital release, the journey into retro anime is a rewarding one for any global collector. Start exploring these timeless treasures today, and discover the roots of modern anime's incredible success.
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/best-classic-90s-anime-movies-collectors-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Ghost in the Shell &amp; 90s Anime</a> · <a href="/blog/parasyte-manga-full-color-collection-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Parasyte Full Color Collection</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Cowboy Bebop Blu-ray</strong></div>

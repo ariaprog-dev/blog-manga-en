@@ -165,9 +165,11 @@ The *Death Note All-in-One Edition* is a fantastic product, but it caters to a v
 *   Prioritize the highest possible print quality and larger artwork.
 *   Prefer the aesthetic of individual volume covers or the *Black Edition*.
 
-Ultimately, the *Death Note All-in-One Edition* is a testament to the series' enduring popularity. It's a bold, ambitious package that offers an unparalleled binge-reading experience for one of manga's greatest intellectual thrillers. Just be prepared for its sheer size – it's a commitment, both to the story and to the reader's biceps!
+Ultimately, the *Death Note All-in-One Edition* is a tribute to the series' enduring popularity. It's a bold, ambitious package that offers an unmatched binge-reading experience for one of manga's greatest intellectual thrillers. Just be prepared for its sheer size – it's a commitment, both to the story and to the reader's biceps!
 
 Whether a long-time fan or a curious newcomer, the *Death Note All-in-One Edition* offers a unique and memorable way to own and revisit this classic tale of justice, power, and the darkness within humanity.
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/20th-century-boys-perfect-edition-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">20th Century Boys Perfect Edition</a> · <a href="/blog/spy-x-family-manga-review-buying-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">SPY×FAMILY Manga</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Death Note</strong></div>
