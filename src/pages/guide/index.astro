@@ -1,0 +1,113 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import '../../styles/guide.css';
+import { GUIDE_HUB, GUIDE_PAGES } from '../../data/guides';
+---
+
+<Layout
+	title={GUIDE_HUB.title}
+	description={GUIDE_HUB.description}
+	pubDate={new Date('2026-11-22')}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				Collecting Japanese manga and anime overseas involves far more than picking a highly rated series. Understanding <strong>Japanese magazine demographics versus genre, English collector bindings (Omnibus, Perfect, Master, and leatherette Deluxe), Blu-ray and 4K UHD region compatibility, and global print sourcing</strong> protects both your shelf space and your budget. Built from more than 30 years of reading Japanese comics, these four foundational guides give you a practical decision framework before buying.
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="In this hub">
+			<p class="guide-toc-title">📑 Guide Hub Directory</p>
+			<ol>
+				<li><a href="#themes">Four Essential Collector Pillars</a></li>
+				<li><a href="#roadmap">Recommended Reading Path by Goal</a></li>
+				<li><a href="#philosophy">Curator Philosophy: World-Building &amp; Physical Shelves</a></li>
+				<li><a href="#policy">Verification Standards &amp; Editorial Independence</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="themes">1. Four Essential Collector Pillars</h2>
+		<p>
+			Whether you are upgrading classic paperbacks to oversized hardcovers, checking if a Japanese anime Blu-ray includes English subtitles and works on North American players, or searching for bold Sci-Fi and Dark Fantasy concepts, start with the guide matching your question below.
+		</p>
+
+		<div class="guide-hub-grid">
+			{GUIDE_PAGES.map((guide) => (
+				<a href={guide.href} class="guide-hub-card">
+					<div class="guide-hub-card-top">
+						<span class="guide-hub-icon">{guide.icon}</span>
+						<span class="guide-hub-badge">{guide.badge} · {guide.readingMinutes} min read</span>
+					</div>
+					<h3>{guide.title}</h3>
+					<p>{guide.summary}</p>
+					<div class="guide-hub-card-footer">
+						<span>Read Collector Guide</span>
+						<span>→</span>
+					</div>
+				</a>
+			))}
+		</div>
+
+		<h2 id="roadmap">2. Recommended Reading Path by Goal</h2>
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>Your Collector Goal</th>
+						<th>Start Here</th>
+						<th>Next Step</th>
+						<th>Key Decision Outcome</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>Choosing between Shonen, Seinen &amp; hidden classics</strong></td>
+						<td><a href="/guide/demographics/">Shonen vs Seinen &amp; Classics</a></td>
+						<td><a href="/guide/editions/">Manga Editions Guide</a></td>
+						<td>Separate publisher age targets from high-concept Sci-Fi and Fantasy storytelling</td>
+					</tr>
+					<tr>
+						<td><strong>Deciding between Tankobon, Deluxe &amp; Box Sets</strong></td>
+						<td><a href="/guide/editions/">Manga Editions: Deluxe vs Box Sets</a></td>
+						<td><a href="/guide/buying-care/#shelf-care">Shelf Preservation Care</a></td>
+						<td>Match artwork density, shelf height, and weight tolerance to the right binding</td>
+					</tr>
+					<tr>
+						<td><strong>Checking anime disc compatibility before buying</strong></td>
+						<td><a href="/guide/bluray-regions/">Anime Blu-ray, 4K UHD &amp; Regions</a></td>
+						<td><a href="/guide/buying-care/#sourcing">Cross-Border Ordering Notes</a></td>
+						<td>Verify Region A lock, 4K UHD HDR players, and English subtitle inclusion</td>
+					</tr>
+					<tr>
+						<td><strong>Building a lasting print shelf without wasted space</strong></td>
+						<td><a href="/guide/buying-care/">How to Import &amp; Preserve Manga</a></td>
+						<td><a href="/guide/demographics/#imagination">Curator Reading Picks</a></td>
+						<td>Balance digital sampling for long runs with physical print sets for true favorites</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="philosophy">3. Curator Philosophy: World-Building &amp; Physical Shelves</h2>
+		<div class="guide-callout guide-callout-tip">
+			<p class="guide-callout-title">🌙 What Guides Midnight Manga Vault Selections</p>
+			<p>
+				After three decades reading Japanese manga—starting with childhood classics like <em>Doraemon</em> (the series that first taught me kanji) and being stunned as a teenager by Ryu Fujisaki's short-story craftsmanship—two personal principles shape every guide on this site. First, I am drawn most strongly to <strong>high-imagination Sci-Fi and Fantasy where a creator invents startling world rules from scratch</strong>, whether in short speculative classics like <em>Doraemon</em> or the boundary-breaking cosmic momentum of <em>Dragon Ball</em>.
+			</p>
+			<p>
+				Second, while digital storefronts make sampling dozens of ongoing series effortless, <strong>any work I genuinely love and want to reread for years belongs on my physical shelf in cohesive print volumes</strong>. These guides translate that collector mindset into clear, fact-checked buying specs for international readers.
+			</p>
+		</div>
+
+		<h2 id="policy">4. Verification Standards &amp; Editorial Independence</h2>
+		<div class="guide-callout guide-callout-warn">
+			<p class="guide-callout-title">📋 Objective Spec Checks &amp; Non-Fabrication Standard</p>
+			<p>
+				Trim measurements, binding styles, disc region codes, and regional storefront caveats in these guides reflect verified publisher announcements and official catalog records from Japanese and international imprints. Midnight Manga Vault never fabricates hands-on shelf tests for unowned releases or makes unfounded performance claims.
+			</p>
+			<p>
+				Review our editorial background, Japanese-to-English sourcing policy, and affiliate disclosures on <a href="/about/">Editorial Profile &amp; About</a>.
+			</p>
+		</div>
+	</div>
+</Layout>

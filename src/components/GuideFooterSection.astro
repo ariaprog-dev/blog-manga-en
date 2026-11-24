@@ -1,0 +1,65 @@
+---
+import { getCollection } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+import { filterPostsForGuide, GUIDE_PAGES, type GuideId } from '../data/guides';
+
+interface Props {
+	currentGuideId: GuideId;
+	sectionTitle?: string;
+}
+
+const { currentGuideId, sectionTitle = 'Recommended Collector Reviews & Deep Dives' } = Astro.props;
+
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const matchedPosts = filterPostsForGuide(currentGuideId, allPosts, 6);
+const siblingGuides = GUIDE_PAGES.filter((g) => g.id !== currentGuideId);
+---
+
+<section class="guide-footer-section" aria-label={sectionTitle}>
+	{matchedPosts.length > 0 && (
+		<>
+			<h2 class="guide-footer-heading">{sectionTitle}</h2>
+			<p class="guide-footer-sub">
+				Apply these collector fundamentals to our edition breakdowns, box set comparisons, and anime Blu-ray reviews below.
+			</p>
+			<div class="guide-related-grid">
+				{matchedPosts.map((post) => (
+					<a href={`/blog/${post.id}/`} class="guide-related-card">
+						<div class="guide-related-thumb">
+							{post.data.heroImage ? (
+								<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+							) : (
+								<span>RECOMMEND</span>
+							)}
+						</div>
+						<div class="guide-related-body">
+							<span class="guide-related-date">
+								<FormattedDate date={post.data.pubDate} />
+							</span>
+							<h3 class="guide-related-title">{post.data.title}</h3>
+						</div>
+					</a>
+				))}
+			</div>
+		</>
+	)}
+
+	<div class="guide-sibling-box">
+		<h2 class="guide-footer-heading" style="font-size: 1.05rem; margin-bottom: 0.25rem;">
+			Explore Other Collector Guides
+		</h2>
+		<p class="guide-footer-sub" style="margin-bottom: 0;">
+			Continue building your reference shelf across demographics, hardcover specs, region compatibility, and shelf care (<a href="/guide/">Back to Guide Hub</a>).
+		</p>
+		<div class="guide-sibling-grid">
+			{siblingGuides.map((g) => (
+				<a href={g.href} class="guide-sibling-card">
+					<span class="guide-sibling-label">{g.icon} {g.badge}</span>
+					<h3 class="guide-sibling-title">{g.title}</h3>
+				</a>
+			))}
+		</div>
+	</div>
+</section>

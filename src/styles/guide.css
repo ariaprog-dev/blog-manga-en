@@ -1,0 +1,421 @@
+/* Shared styles for Collector Guide Hub and Subpages (Midnight Manga Vault - Purple Theme) */
+.guide-article {
+	color: #1e293b;
+	line-height: 1.85;
+}
+
+.guide-article h2 {
+	font-size: 1.45rem;
+	font-weight: 800;
+	color: #0f172a;
+	margin: 2.5rem 0 1rem;
+	padding: 0 0 0.45rem 0;
+	background: transparent;
+	border-left: none;
+	border-bottom: 2px solid #6d28d9;
+	border-radius: 0;
+	text-transform: none;
+}
+
+.guide-article h3 {
+	font-size: 1.15rem;
+	font-weight: 700;
+	color: #4c1d95;
+	margin: 1.75rem 0 0.65rem;
+	text-transform: none;
+}
+
+.guide-article ul,
+.guide-article ol {
+	margin: 0.75rem 0 1.25rem;
+	padding-left: 1.35rem;
+}
+
+.guide-article li {
+	margin-bottom: 0.45rem;
+}
+
+/* Lead introduction card */
+.guide-lead {
+	background: linear-gradient(135deg, #faf5ff 0%, #f3e8ff 100%);
+	border: 1px solid #d8b4fe;
+	border-left: 5px solid #6d28d9;
+	border-radius: 10px;
+	padding: 1.25rem 1.4rem;
+	margin: 0 0 1.75rem;
+	font-size: 1rem;
+	color: #1e293b;
+}
+
+.guide-lead p {
+	margin: 0;
+}
+
+/* In-page table of contents */
+.guide-toc {
+	background: #f8fafc;
+	border: 1px solid #cbd5e1;
+	border-radius: 10px;
+	padding: 1.1rem 1.35rem;
+	margin: 0 0 2rem;
+}
+
+.guide-toc-title {
+	font-size: 0.92rem;
+	font-weight: 700;
+	color: #0f172a;
+	margin: 0 0 0.6rem;
+	display: flex;
+	align-items: center;
+	gap: 0.4rem;
+}
+
+.guide-toc ol {
+	margin: 0;
+	padding-left: 1.25rem;
+}
+
+.guide-toc li {
+	margin-bottom: 0.35rem;
+	font-size: 0.94rem;
+}
+
+.guide-toc a {
+	color: #5b21b6;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.guide-toc a:hover {
+	text-decoration: underline;
+	color: #4c1d95;
+}
+
+/* Comparison tables */
+.guide-table-wrap {
+	width: 100%;
+	max-width: 100%;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+	margin: 1.25rem 0 1.75rem;
+	border: 1px solid #cbd5e1;
+	border-radius: 10px;
+	background: #ffffff;
+	box-sizing: border-box;
+}
+
+.guide-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 0;
+	font-size: 0.92rem;
+	line-height: 1.6;
+}
+
+.guide-table thead th {
+	background: #f5f3ff;
+	color: #2e1065;
+	font-weight: 700;
+	text-align: left;
+	padding: 0.75rem 0.9rem;
+	border-bottom: 2px solid #ddd6fe;
+	white-space: nowrap;
+}
+
+.guide-table tbody td {
+	padding: 0.75rem 0.9rem;
+	border-bottom: 1px solid #e2e8f0;
+	vertical-align: top;
+	color: #1e293b;
+}
+
+.guide-table tbody tr:last-child td {
+	border-bottom: none;
+}
+
+.guide-table tbody tr:nth-child(even) {
+	background: #fafaf9;
+}
+
+/* Callout boxes */
+.guide-callout {
+	border-radius: 10px;
+	padding: 1.1rem 1.3rem;
+	margin: 1.35rem 0;
+	border: 1px solid #cbd5e1;
+	background: #f8fafc;
+}
+
+.guide-callout-tip {
+	background: #faf5ff;
+	border-color: #d8b4fe;
+	border-left: 4px solid #6d28d9;
+}
+
+.guide-callout-warn {
+	background: #fef2f2;
+	border-color: #fecaca;
+	border-left: 4px solid #dc2626;
+}
+
+.guide-callout-title {
+	font-weight: 800;
+	font-size: 0.96rem;
+	margin: 0 0 0.45rem;
+	color: #0f172a;
+}
+
+.guide-callout p:last-child {
+	margin-bottom: 0;
+}
+
+/* Hub card grid (/guide/) */
+.guide-hub-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1.2rem;
+	margin: 1.5rem 0 2.25rem;
+}
+
+.guide-hub-card {
+	display: flex;
+	flex-direction: column;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 12px;
+	padding: 1.35rem;
+	text-decoration: none;
+	color: inherit;
+	transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+	box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
+}
+
+.guide-hub-card:hover {
+	transform: translateY(-2px);
+	border-color: #6d28d9;
+	box-shadow: 0 10px 22px rgba(109, 40, 217, 0.12);
+	text-decoration: none;
+}
+
+.guide-hub-card:hover h3 {
+	color: #5b21b6;
+}
+
+.guide-hub-card-top {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 0.5rem;
+	margin-bottom: 0.7rem;
+}
+
+.guide-hub-icon {
+	font-size: 1.55rem;
+	line-height: 1;
+}
+
+.guide-hub-badge {
+	display: inline-block;
+	font-size: 0.75rem;
+	font-weight: 700;
+	color: #5b21b6;
+	background: #f3e8ff;
+	border: 1px solid #d8b4fe;
+	padding: 0.18rem 0.6rem;
+	border-radius: 9999px;
+}
+
+.guide-hub-card h3 {
+	font-size: 1.1rem;
+	font-weight: 800;
+	color: #0f172a;
+	margin: 0 0 0.5rem;
+	line-height: 1.4;
+}
+
+.guide-hub-card p {
+	font-size: 0.9rem;
+	color: #475569;
+	line-height: 1.65;
+	margin: 0 0 0.95rem;
+	flex-grow: 1;
+}
+
+.guide-hub-card-footer {
+	font-size: 0.85rem;
+	font-weight: 700;
+	color: #6d28d9;
+	display: flex;
+	align-items: center;
+	gap: 0.3rem;
+}
+
+/* Guide footer: related reviews and sibling guides */
+.guide-footer-section {
+	margin-top: 2.75rem;
+	padding-top: 2rem;
+	border-top: 2px solid #e2e8f0;
+}
+
+.guide-footer-heading {
+	font-size: 1.25rem;
+	font-weight: 800;
+	color: #0f172a;
+	margin: 0 0 0.45rem;
+	padding: 0;
+	background: none;
+	border: none;
+	text-transform: none;
+}
+
+.guide-footer-sub {
+	font-size: 0.9rem;
+	color: #475569;
+	margin: 0 0 1.2rem;
+}
+
+.guide-related-grid {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 1rem;
+	margin-bottom: 2.25rem;
+}
+
+.guide-related-card {
+	display: flex;
+	flex-direction: column;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 10px;
+	overflow: hidden;
+	text-decoration: none;
+	color: inherit;
+	transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.guide-related-card:hover {
+	transform: translateY(-2px);
+	border-color: #6d28d9;
+	box-shadow: 0 8px 18px rgba(109, 40, 217, 0.1);
+	text-decoration: none;
+}
+
+.guide-related-card:hover .guide-related-title {
+	color: #5b21b6;
+}
+
+.guide-related-thumb {
+	aspect-ratio: 16 / 9;
+	background: #f5f3ff;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.guide-related-thumb img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
+}
+
+.guide-related-body {
+	padding: 0.85rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.35rem;
+	flex-grow: 1;
+}
+
+.guide-related-date {
+	font-size: 0.74rem;
+	color: #64748b;
+	font-weight: 600;
+}
+
+.guide-related-title {
+	font-size: 0.88rem;
+	font-weight: 700;
+	color: #0f172a;
+	line-height: 1.45;
+	margin: 0;
+	background: none;
+	border: none;
+	padding: 0;
+	text-transform: none;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.guide-sibling-box {
+	background: #f8fafc;
+	border: 1px solid #cbd5e1;
+	border-radius: 12px;
+	padding: 1.25rem;
+}
+
+.guide-sibling-grid {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 0.85rem;
+	margin-top: 0.85rem;
+}
+
+.guide-sibling-card {
+	display: flex;
+	flex-direction: column;
+	background: #ffffff;
+	border: 1px solid #cbd5e1;
+	border-radius: 8px;
+	padding: 0.9rem;
+	text-decoration: none;
+	color: inherit;
+	transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.guide-sibling-card:hover {
+	border-color: #6d28d9;
+	transform: translateY(-1px);
+	text-decoration: none;
+}
+
+.guide-sibling-card:hover .guide-sibling-title {
+	color: #5b21b6;
+}
+
+.guide-sibling-label {
+	font-size: 0.72rem;
+	font-weight: 700;
+	color: #5b21b6;
+	margin-bottom: 0.25rem;
+}
+
+.guide-sibling-title {
+	font-size: 0.9rem;
+	font-weight: 700;
+	color: #0f172a;
+	line-height: 1.4;
+	margin: 0;
+	background: none;
+	border: none;
+	padding: 0;
+	text-transform: none;
+}
+
+@media (max-width: 760px) {
+	.guide-hub-grid,
+	.guide-related-grid,
+	.guide-sibling-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.guide-table thead th,
+	.guide-table tbody td {
+		min-width: 112px;
+		padding: 0.65rem 0.7rem;
+		font-size: 0.85rem;
+	}
+}

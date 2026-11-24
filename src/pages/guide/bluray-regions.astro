@@ -1,0 +1,121 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import GuideFooterSection from '../../components/GuideFooterSection.astro';
+import '../../styles/guide.css';
+
+const faq = [
+	{
+		question: 'Will Japanese Blu-ray anime discs play on a US or Canadian Blu-ray player?',
+		answer:
+			'Generally yes—for Blu-ray discs, both North America and Japan share Blu-ray Region A (alongside East Asia), whereas Europe, the UK, and Australia use Region B. However, standard DVDs do NOT match: the US/Canada use DVD Region 1 while Japan uses DVD Region 2. Additionally, never assume a Japanese domestic Blu-ray includes English subtitles unless explicitly stated on the specification sheet.',
+	},
+	{
+		question: 'Are 4K Ultra HD Blu-ray anime releases region-free worldwide?',
+		answer:
+			'With only rare third-party exceptions, the 4K UHD Blu-ray disc format is region-free globally, letting North American, European, and Japanese viewers play the 4K disc on any standard UHD player paired with a 4K display. However, any bonus standard Blu-ray disc included inside a 4K combo pack remains subject to normal Region A/B/C locking.',
+	},
+	{
+		question: 'When should collectors buy a 4K UHD edition over a standard 1080p Blu-ray release?',
+		answer:
+			'Cel-animated films originally photographed on 35mm film—such as classic 1980s and 1990s theatrical anime—benefit dramatically from genuine 4K film scanning and HDR contrast grading. By contrast, early-2000s digital-ink TV series animated natively in standard definition cannot recover extra line detail beyond smart upscaling, making clean 1080p Blu-ray masters or archival DVD boxes completely competitive.',
+	},
+];
+---
+
+<Layout
+	title="Anime Blu-ray, 4K UHD & Region Guide"
+	description="Avoid unplayable discs and missing English subtitles: check DVD Region 1 vs 2 limits, Blu-ray Region A vs B alignment, region-free 4K UHD specs, and upscaling vs film scans."
+	pubDate={new Date('2026-11-22')}
+	faq={faq}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				Streaming licenses rotate, upscale settings vary, and edited versions quietly come and go—making physical Blu-ray and 4K UHD box sets the safest archive for beloved anime. Yet ordering discs internationally carries traps that catch new collectors off guard: <strong>hidden DVD vs Blu-ray region locks, missing English subtitle tracks on Japanese domestic boxes, and upscaled SD masters sold alongside native 4K film restorations</strong>. Here is your pre-purchase technical checklist.
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="Table of Contents">
+			<p class="guide-toc-title">📑 Guide Contents</p>
+			<ol>
+				<li><a href="#region-matrix">DVD vs Blu-ray vs 4K UHD Region Codes Compared</a></li>
+				<li><a href="#subtitle-warnings">Japanese Imports vs Official Western Box Sets</a></li>
+				<li><a href="#remaster-types">Film Scans vs Late-90s Hybrids vs Early Digital Upscaling</a></li>
+				<li><a href="#hardware-tips">Practical Playback &amp; Collector Edition Checklist</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="region-matrix">1. DVD vs Blu-ray vs 4K UHD Region Codes Compared</h2>
+		<p>
+			Before importing a box set or buying an overseas collector's release, verify three distinct technical layers: disc format, region territory, and player hardware.
+		</p>
+
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>Disc Format</th>
+						<th>US &amp; Canada Region</th>
+						<th>Japan Region</th>
+						<th>UK, Europe &amp; Australia Region</th>
+						<th>Collector Compatibility Note</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>DVD</strong></td>
+						<td>Region 1 (NTSC)</td>
+						<td><strong>Region 2</strong> (NTSC)</td>
+						<td>Region 2 (PAL in UK/EU) or Region 4 (AU)</td>
+						<td>US players reject Japanese Region 2 DVDs unless region-unlocked. Bonus DVDs inside hybrid sets often stay locked.</td>
+					</tr>
+					<tr>
+						<td><strong>Blu-ray (1080p)</strong></td>
+						<td><strong>Region A</strong></td>
+						<td><strong>Region A</strong></td>
+						<td><strong>Region B</strong></td>
+						<td>North America and Japan share Region A, letting physical BD playback work—though UK/EU Region B imports fail on stock US players.</td>
+					</tr>
+					<tr>
+						<td><strong>4K Ultra HD Blu-ray</strong></td>
+						<td>Region-Free (standard)</td>
+						<td>Region-Free (standard)</td>
+						<td>Region-Free (standard)</td>
+						<td>Requires a dedicated UHD BD player (or PS5 / Xbox Series X) + 4K HDR screen; bundled 1080p bonus discs remain region-coded.</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="subtitle-warnings">2. Japanese Imports vs Official Western Box Sets</h2>
+		<div class="guide-callout guide-callout-warn">
+			<p class="guide-callout-title">⚠️ Critical Rule: Region A Compatibility Does NOT Guarantee English Subtitles</p>
+			<p>
+				Many North American buyers spot a gorgeous Japanese Blu-ray BOX from Amazon Japan, see "Region A" on the listing, and assume it matches domestic releases. In reality, <strong>the majority of Japanese domestic TV anime boxes include Japanese audio ONLY—with zero English subtitles or English dub tracks</strong>.
+			</p>
+			<p>
+				Always inspect the product specification table for explicit English subtitle support before ordering a Japanese domestic set. Otherwise, opt for licensed English collector releases from official North American/UK distributors (often preserving Japanese booklets and slipcases while including full English audio and subtitle streams).
+			</p>
+		</div>
+
+		<h2 id="remaster-types">3. Film Scans vs Late-90s Hybrids vs Early Digital Upscaling</h2>
+		<p>
+			Understanding how an anime was originally animated explains why two "remastered" discs can look dramatically different on modern OLED or 4K screens.
+		</p>
+		<ul>
+			<li><strong>35mm &amp; 16mm Cel / Late-90s Film-Hybrid Restorations</strong>: Theatrical features shot physically on 35mm film—such as <a href="/blog/akira-4k-ultra-hd-blu-ray-collectors-edition-review/">AKIRA 4K Ultra HD</a> and landmarks in our <a href="/blog/best-classic-90s-anime-movies-collectors-guide/">90s Anime Movies Guide</a>—carry genuine film grain and dynamic range unlocked by 4K HDR scanning. Even 1998 TV cult classics like <a href="/blog/serial-experiments-lain-collectors-guide-review/">Serial Experiments Lain</a> combined film-shot cel photography with early digital effects, allowing authentic HD film-master restorations.</li>
+			<li><strong>Early Digital Paint &amp; Compositing (2000s TV Series)</strong>: Groundbreaking digital-era series such as <a href="/blog/ergo-proxy-anime-review-philosophical-dystopia/">Ergo Proxy</a> and <a href="/blog/ghost-in-the-shell-stand-alone-complex-blu-ray-box-review/">Ghost in the Shell: Stand Alone Complex</a> were produced natively at early standard or 720p digital resolutions. High-bitrate Blu-ray masters clean up DVD macroblocking and compression shimmer markedly, even though native 4K line detail cannot be invented beyond smart upscaling.</li>
+			<li><strong>Modern Native HD &amp; Post-2010 Productions</strong>: Later series such as <a href="/blog/steins-gate-complete-series-blu-ray-collectors-guide/">Steins;Gate</a> and <a href="/blog/psycho-pass-complete-season-blu-ray-collectors-deep-dive/">Psycho-Pass</a> shine cleanly on standard 1080p Blu-ray, letting disc compression bitrate and lossless PCM/DTS-HD Master Audio shine over heavily compressed streaming feeds.</li>
+		</ul>
+
+		<h2 id="hardware-tips">4. Practical Playback &amp; Collector Edition Checklist</h2>
+		<ol>
+			<li><strong>Verify Region A vs Region B before checking out on secondary markets</strong>: UK collector's editions frequently feature stunning rigid slipboxes and art cards at attractive prices, but their discs are typically Region B-locked unless explicitly noted as All-Region.</li>
+			<li><strong>Understand Japanese Domestic vs Western Pricing &amp; Forced Subtitles</strong>: Because Japan's home-video market relies on premium low-volume collector sales (historically 2–3 episode volumes or pricey complete boxes), licensed Western complete-season Blu-rays cost a fraction of Japanese originals. To curb reverse importation back into Japan, some Japanese/US licensors apply <em>forced</em> (non-removable) English subtitles during Japanese audio playback on US Region A discs—check disc-review specs if clean raw viewing matters to you.</li>
+			<li><strong>Check multi-tier packaging ("Standard" vs "Collector's Edition")</strong>: Many distributors press identical video discs for both releases—upgraded Collector Editions mainly add rigid chipboard art boxes, translated art booklets, soundtrack CDs, or art cards (see <a href="/blog/unearthing-gems-classic-retro-anime-collectors-guide/">Classic &amp; Retro Anime Collector Guide</a>).</li>
+			<li><strong>Watch HDR settings on older anime restorations</strong>: Over-aggressive DNR (digital noise reduction) can scrub away crisp cel ink lines, while calibrated Film/Cinema display profiles preserve intentional film grain and neon highlights on 4K discs.</li>
+		</ol>
+	</div>
+
+	<GuideFooterSection slot="after-guide" currentGuideId="bluray-regions" sectionTitle="Recommended Anime Blu-ray & 4K Collector Reviews" />
+</Layout>

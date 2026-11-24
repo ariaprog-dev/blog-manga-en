@@ -1,0 +1,148 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import GuideFooterSection from '../../components/GuideFooterSection.astro';
+import '../../styles/guide.css';
+
+const faq = [
+	{
+		question: 'Can international buyers order physical Japanese manga from Amazon Japan directly?',
+		answer:
+			'Yes, on eligible items shipped and sold directly by Amazon Japan (amazon.co.jp), international checkout typically supports overseas addresses and calculates estimated import duties upfront. Note that third-party marketplace sellers on Japan platforms often do not ship internationally without a proxy or forwarding warehouse.',
+	},
+	{
+		question: 'Why do English readers run into errors when trying to buy Japanese Kindle e-books?',
+		answer:
+			'Amazon.co.jp operates separately from regional storefronts in the US, UK, or EU. Purchasing Japanese Kindle editions usually requires creating a distinct Amazon.co.jp account with regional store settings rather than ordering through an overseas Kindle store account.',
+	},
+	{
+		question: 'How do you keep white manga pages from turning yellow and rigid box covers from warping?',
+		answer:
+			'Keep shelves completely out of direct sunlight and harsh fluorescent UV rays, maintain stable room humidity below ~55% (using silica packs or a dehumidifier in damp climates), leave an airflow gap behind books against exterior walls, and support vertical rows firmly with flat bookends.',
+	},
+];
+---
+
+<Layout
+	title="How to Import & Preserve Japanese Manga"
+	description="Balance digital convenience with owning physical volumes of your favorites, navigate Amazon Japan shipping vs Kindle JP rules, and protect manga shelves from UV yellowing."
+	pubDate={new Date('2026-11-22')}
+	faq={faq}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				Whether you buy official English Box Sets locally or import raw Japanese volumes and artbooks straight from Tokyo, smart collecting combines <strong>disciplined buying habits with simple long-term preservation</strong>. Equally important is knowing <em>what</em> earns permanent shelf space: sampling broadly in digital or library formats, then dedicating precious physical room to complete runs of series you genuinely love and plan to reread for years.
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="Table of Contents">
+			<p class="guide-toc-title">📑 Guide Contents</p>
+			<ol>
+				<li><a href="#digital-vs-print">The Curator Rule: Sample Digitally, Own Your Favorites in Print</a></li>
+				<li><a href="#sourcing">Cross-Border Ordering: Amazon Japan vs Western Retail vs Kindle JP</a></li>
+				<li><a href="#condition">Inspecting Packaging, Box Sets &amp; Import Shipping Protection</a></li>
+				<li><a href="#shelf-care">Archival Shelf Care: Stopping UV Yellowing, Humidity &amp; Spine Strain</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="digital-vs-print">1. The Curator Rule: Sample Digitally, Own Your Favorites in Print</h2>
+		<div class="guide-callout guide-callout-tip">
+			<p class="guide-callout-title">📚 Building a Shelf You Will Actually Reread</p>
+			<p>
+				Long-running series like <em>One Piece</em>, <em>Attack on Titan</em>, or dozens of monthly debuts can overwhelm any apartment shelf if purchased blindly on impulse. My personal approach after decades of reading: <strong>use digital chapters or single opening volumes to test unfamiliar stories without clutter, and commit to complete print Tankobon or collector runs only when a story earns permanent reread status.</strong>
+			</p>
+			<p>
+				Nothing replaces pulling volume one from a physical slipcase late at night, flipping cleanly back to revisit subtle foreshadowing across twenty volumes, or seeing cohesive spine art line your bookcase—like complete multi-volume collections for <a href="/blog/attack-on-titan-manga-box-set-review/">Attack on Titan</a>, <a href="/blog/claymore-complete-manga-box-set-collectors-guide-dark-fantasy/">Claymore</a>, or <a href="/blog/chainsaw-man-manga-box-set-review/">Chainsaw Man</a>.
+			</p>
+		</div>
+
+		<h2 id="sourcing">2. Cross-Border Ordering: Amazon Japan vs Western Retail vs Kindle JP</h2>
+		<p>
+			International collectors typically mix domestic English retailers with direct Japanese imports depending on language preference and stock availability. Keep these practical boundaries in mind before placing an order:
+		</p>
+
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>Channel / Format</th>
+						<th>Best Used For</th>
+						<th>Shipping &amp; Account Caveats</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>Western Publishers &amp; Retail Chains</strong><br>(Barnes &amp; Noble, Crunchyroll Store, local comic shops)</td>
+						<td>Official English Tankobon, Deluxe hardcovers (<a href="/blog/berserk-deluxe-edition-review-kentaro-miura/">Berserk Deluxe</a>), and Box Sets (<a href="/blog/demon-slayer-manga-series-collectors-guide-editions/">Demon Slayer</a>).</td>
+						<td>No customs surprises domestically; watch preorder cutoffs for heavy Box Sets (<a href="/blog/one-piece-manga-box-sets-collectors-guide/">One Piece Box Sets</a>) to avoid temporary between-print markups.</td>
+					</tr>
+					<tr>
+						<td><strong>Amazon Japan (Physical Export)</strong><br>(amazon.co.jp global-eligible items)</td>
+						<td>Original Japanese Tankobon sets, untranslated artbooks, anime OSTs, and Japanese collector releases.</td>
+						<td>Verify "Ships from &amp; Sold by Amazon.co.jp" for fast courier delivery and upfront duty estimates; third-party sellers often require proxy forwarding.</td>
+					</tr>
+					<tr>
+						<td><strong>Rakuten Japan &amp; Specialty Marketplaces</strong></td>
+						<td>Rare complete print runs, Japanese editions, or boutique hobby items (often paired with package forwarders).</td>
+						<td>Many domestic Rakuten shops only ship to a Japanese street address, making a licensed package-forwarding service necessary for overseas delivery.</td>
+					</tr>
+					<tr>
+						<td><strong>Amazon.co.jp Kindle (Digital JP)</strong></td>
+						<td>Sampling untranslated raw Japanese volumes instantly at local yen pricing.</td>
+						<td>Requires a dedicated <strong>Japan-region Amazon account</strong> separate from US/UK/EU accounts; check regional store policies before building a library.</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="condition">3. Inspecting Packaging, Box Sets &amp; Import Shipping Protection</h2>
+		<ul>
+			<li><strong>Bundle heavy items with care</strong>: Ordering a few flimsy single paperbacks (such as <a href="/blog/jujutsu-kaisen-manga-collection-review-collectors-guide/">Jujutsu Kaisen</a> or <a href="/blog/spy-x-family-manga-review-buying-guide/">Spy x Family</a> singles) alongside a 4-pound hardcover in one loose carton frequently batters softcover corners in transit. Group similar weights together or choose specialty comic retailers that use corner guards and thick kraft paper.</li>
+			<li><strong>Check Slipcase Corner Integrity Early</strong>: Multi-volume slipcase Box Sets (<a href="/blog/attack-on-titan-manga-box-set-review/">Attack on Titan</a> · <a href="/blog/demon-slayer-manga-series-collectors-guide-editions/">Demon Slayer</a>) protect inner volumes well, yet crushed cardboard corners happen during carrier drops—inspect seams within return windows before peeling factory shrinkwrap if gifting.</li>
+			<li><strong>Unsealed New Japanese Volumes &amp; Obi Strips</strong>: Unlike shrinkwrapped US collector box sets, brand-new individual Japanese tankobon shipped directly from Japanese bookstores or Amazon Japan frequently arrive <strong>unsealed</strong> with loose promotional belly-bands (<em>obi strips</em>)—this is completely standard new-book retail practice in Japan rather than a sign of used stock. Tuck fragile obi strips neatly inside the front cover or fold them flat inside archival sleeves.</li>
+			<li><strong>Account for Volume Grouping Differences &amp; Import Duties/VAT</strong>: Check country-specific import VAT/duty rules before importing large batches (Amazon Japan direct checkout pre-calculates estimated import fees upfront). Also verify numbering when mixing formats: one English 2-in-1 or 3-in-1 omnibus covers multiple Japanese tankobon volumes, so check chapter coverage before ordering missing later arcs.</li>
+			<li><strong>Unpacking Rigid Import Boxes</strong>: Cut packing tape gently away from box seams so utility blades do not slice dust jackets or obi strips sitting flush beneath thin cardboard flaps.</li>
+		</ul>
+
+		<h2 id="shelf-care">4. Archival Shelf Care: Stopping UV Yellowing, Humidity &amp; Spine Strain</h2>
+		<p>
+			Paper yellowing (lignin oxidation) and spine sag happen slowly over years, making early placement choices worth far more than any chemical "fix" later.
+		</p>
+
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>Environmental Threat</th>
+						<th>Visible Damage Over Time</th>
+						<th>Simple Preventive Habit</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>Direct Sunlight &amp; High UV Lamps</strong></td>
+						<td>Amber page edges, sun-bleached red/purple cover inks, brittle dust-jacket flaps.</td>
+						<td>Place bookcases out of window arcs, use UV-filtering curtains/blinds, or choose glass-door cabinets in sunlit rooms.</td>
+					</tr>
+					<tr>
+						<td><strong>Excess Humidity (&gt;60% RH)</strong></td>
+						<td>Wavy cockled paper edges, musty odor, foxing spots on unbleached inner sheets.</td>
+						<td>Keep shelves 1–2 inches off exterior walls for airflow; run room dehumidification in humid summers rather than sealing books in airtight plastic tubs without desiccant.</td>
+					</tr>
+					<tr>
+						<td><strong>Overcrowding &amp; Leaning Stacks</strong></td>
+						<td>Slanted spine tilt, torn top headcaps from yanking tight books out with one finger.</td>
+						<td>Push volume rows comfortably upright—never jammed tight—and always pull a book by gripping both boards mid-spine rather than tugging the top cap.</td>
+					</tr>
+					<tr>
+						<td><strong>Dust Jacket Rubbing &amp; Shelf Scuffs</strong></td>
+						<td>Matte finish clouding, split lamination along spine creases, frayed corners.</td>
+						<td>Fit clear archival mylar/polypropylene sleeves onto treasured first editions or delicate glossy jackets.</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	<GuideFooterSection slot="after-guide" currentGuideId="buying-care" sectionTitle="Recommended Box Set & Collector Buying Guides" />
+</Layout>
