@@ -3,7 +3,7 @@ title: 'Berserk Deluxe Edition Review: Is Dark Horse''s Hardcover Worth It?'
 description: Is the Berserk Deluxe Edition worth $50? Explore our in-depth review comparing Dark Horse’s 7x10 faux-leather omnibus against standard paperbacks, gutter loss, print quality, and shelf durability.
 pubDate: '2026-08-19'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg
-genre: Dark Fantasy & Seinen
+genre: Timeless Classics
 featured: true
 featuredOrder: 1
 mediaType: comic

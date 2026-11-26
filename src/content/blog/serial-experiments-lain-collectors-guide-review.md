@@ -32,7 +32,7 @@ Few anime series have left as indelible a mark on the landscape of science ficti
 <div class="live-price-box" data-product-key="serial-experiments-lain-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥11,566</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -77,13 +77,13 @@ For many international collectors, the ultimate way to experience *Serial Experi
 
 ### The Japanese Blu-ray Box Set: Restoration, Audio & Subtitle Reality
 
-Japan's ***serial experiments lain Blu-ray BOX*** (`GNXA-1159`, JAN `4988102351267`, NBCUniversal Entertainment Japan, ~¥11,566 ref) is prized for its faithful film restoration and packaging, though there is a critical subtitle caveat every overseas buyer must check beforehand:
+Japan's ***serial experiments lain Blu-ray BOX*** (`GNXA-1159`, JAN `4988102351267`, NBCUniversal Entertainment Japan) is prized for its faithful film restoration and packaging, though there is a critical subtitle caveat every overseas buyer must check beforehand:
 
 *   **High-Definition Video**: Faithfully remastered HD presentation respecting the moody cel texture and analog grain of the 1998 production.
 *   **Bilingual 2.0ch Audio (`GNXA-1159`)**: Includes both the original Japanese 2.0ch stereo track and the English 2.0ch stereo dub.
 *   **IMPORTANT — NO Subtitles (`GNXA-1159`)**: Unlike older export discs, Japan's standard retail Blu-ray BOX (`GNXA-1159`) contains **zero subtitles (no English subtitles and no Japanese subtitles)**. If you watch with Japanese audio and need English subtitles, choose a Western release rather than this Japanese domestic edition.
 
-For international collectors wanting to import Japanese discs, **Amazon.co.jp** offers an English interface toggle and direct international fulfillment on eligible items (note that you will need a dedicated Amazon.co.jp account separate from Western storefronts). Domestic Japanese retailers on **Rakuten Japan** list `GNXA-1159` around ¥11,566 (refer to the cards above), though because Rakuten Japan serves domestic Japanese shoppers in Japanese, international collectors typically purchase via a proxy/forwarding service.
+For international collectors wanting to import Japanese discs, **Amazon.co.jp** offers an English interface toggle and direct international fulfillment on eligible items (note that you will need a dedicated Amazon.co.jp account separate from Western storefronts). Domestic Japanese retailers on **Rakuten Japan** also stock `GNXA-1159` (check live merchant pricing via the cards on this page), though because Rakuten Japan serves domestic Japanese shoppers in Japanese, international collectors typically purchase via a proxy/forwarding service.
 
 ### Western Blu-ray Releases: Subtitled & Region-Matched Options
 
@@ -110,7 +110,7 @@ For collectors navigating the various options, here is a breakdown of key featur
 
 | Edition Type | Key Focus | Availability | Price | Language Support |
 | :---------------------------- | :----------------------------------------------- | :------------------------------------------------------------------------ | :------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| **Japanese Blu-ray Box (`GNXA-1159`)** | Faithful HD transfer, Japanese & English 2.0ch audio | Amazon.co.jp, Rakuten Japan (via proxy) | Approximately ¥11,566 (check cards above) | Japanese 2.0ch & English 2.0ch dub; **NO subtitles (No English subs)** |
+| **Japanese Blu-ray Box (`GNXA-1159`)** | Faithful HD transfer, Japanese & English 2.0ch audio | Amazon.co.jp, Rakuten Japan (via proxy) | Check live merchant pricing (see cards above) | Japanese 2.0ch & English 2.0ch dub; **NO subtitles (No English subs)** |
 | **Western Blu-ray Releases** | Region-matched discs, official English subtitles & dub | Funimation Classics NA (OOP / secondary market) & MVM UK (Region B) | Varies by secondary/regional stock | **English subtitles**, English dub, Japanese audio |
 | **Digital Streaming/Purchase** | Convenience, portability, instant access | Regional stores (Crunchyroll, Prime Video, Apple TV — varies by region) | Subscription or regional store purchase | English subtitles, English dub, Japanese audio (platform dependent) |
 

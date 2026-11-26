@@ -74,7 +74,7 @@ Crucially for our global audience, *Monster: The Perfect Edition* is an **offici
 
 ## Digital Availability: Print-Only in English vs. Japanese E-Books
 
-A crucial clarification before searching online: **VIZ Media's *Monster* is strictly print-only in English—no official English Kindle, ComiXology, or VIZ Manga app edition exists.** Digital editions of *Monster* (*Kanzenban Digital Ver.*) are currently licensed only in **Japanese** on Japanese e-book storefronts such as Kindle Japan (Amazon.co.jp) and Rakuten Kobo Japan. For international readers who prefer English, owning the 9 VIZ Signature Perfect Edition paperbacks is the sole official way to read the manga.
+A crucial clarification before searching online: **VIZ Media's *Monster* is strictly print-only in English—no official English Kindle or VIZ Manga app edition exists.** Digital editions of *Monster* (*Kanzenban Digital Ver.*) are currently licensed only in **Japanese** on Japanese e-book storefronts such as Kindle Japan (Amazon.co.jp) and Rakuten Kobo Japan. For international readers who prefer English, owning the 9 VIZ Signature Perfect Edition paperbacks is the sole official way to read the manga.
 
 ## Edition Comparison: English Print Perfect Edition vs. Japanese Releases
 

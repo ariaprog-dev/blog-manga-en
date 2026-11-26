@@ -3,7 +3,7 @@ title: Akira 4K Ultra HD Blu-ray Collector's Edition Review
 description: Experience Katsuhiro Otomo’s Akira on 4K Ultra HD Blu-ray (BCQA-0009). Explore our collector analysis covering the 35mm master positive scan, DNR debate, 192kHz hypersonic audio, and playback requirements.
 pubDate: '2026-09-07'
 heroImage: https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg
-genre: Sci-Fi & Cyberpunk
+genre: Sci-Fi & Fantasy
 featured: true
 featuredOrder: 3
 mediaType: anime

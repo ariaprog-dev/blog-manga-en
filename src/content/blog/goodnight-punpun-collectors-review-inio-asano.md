@@ -130,7 +130,7 @@ Deciding whether *Goodnight Punpun* is right for your collection involves unders
 A1: VIZ Media's English physical release consolidates all 13 original Japanese tankobon volumes into **7 omnibus paperbacks** (Volumes 1–6 collect two Japanese volumes each; Volume 7 concludes the series). There is no official VIZ slipcase box set—bundle listings are packaged by third-party retailers.
 
 **Q2: Are *Goodnight Punpun* English Kindle or digital editions available?**
-A2: No. VIZ Media publishes *Goodnight Punpun* strictly in **print-only** format in English, with no official Kindle, ComiXology, or VIZ app digital edition available (only Japanese-language digital releases exist on Japanese platforms).
+A2: No. VIZ Media publishes *Goodnight Punpun* strictly in **print-only** format in English, with no official Kindle or VIZ app digital edition available (only Japanese-language digital releases exist on Japanese platforms).
 
 **Q3: How should collectors compare VIZ Media's 7 paperbacks with Japanese original tankobon sets?**
 A3: VIZ Media's English omnibuses give English readers larger VIZ Signature trim sizes and localized dialogue across 7 paperbacks, whereas imported Japanese sets via **Amazon.co.jp** or **Rakuten Japan** (the latter typically requiring proxy/forwarding services for overseas buyers) preserve the original 13-volume Japanese covers and compact footprint.

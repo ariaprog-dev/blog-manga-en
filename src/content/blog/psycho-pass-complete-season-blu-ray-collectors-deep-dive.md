@@ -43,7 +43,7 @@ For collectors exploring specific editions, here is the featured Japanese Season
 <div class="live-price-box" data-product-key="psycho-pass-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥14,784</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>

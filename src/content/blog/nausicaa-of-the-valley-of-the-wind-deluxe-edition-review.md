@@ -30,7 +30,7 @@ For many, the name Hayao Miyazaki conjures images of whimsical creatures, flying
 <div class="live-price-box" data-product-key="nausicaä-of-the-valley-of-the-wind-deluxe" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">JP A4 Box Ref</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥10,450</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Ref price shown reflects Tokuma Shoten's Japanese A4 2-Volume Set; check links for VIZ English Box Set vs. Japanese editions.</div>
 </div>
@@ -62,7 +62,7 @@ What truly sets the manga's art apart from the film is its raw, unbridled detail
 Before ordering, collectors should separate the two major hardcover box sets that often share the "Deluxe" nickname online:
 
 1. **VIZ Media's English *Nausicaä of the Valley of the Wind Box Set*:** Collects all seven original volumes into **two oversized cloth-style hardcovers (~7.1–7.5 x 10.1–10.6 inches outer box, ~7.2 lbs)** housed in an illustrated slipcase alongside a **bonus double-sided fold-out poster** and interior color pages.
-2. **Tokuma Shoten's Japanese *Gouka Soutei-bon* Collector Box (ISBN `4198699011`):** Featured in our Japanese product card above (~¥10,450 JP list), this Japanese-language release scales even larger to **approx. 8.25 x 11.75 inches (A4 trim)** across two colossal Japanese hardcovers.
+2. **Tokuma Shoten's Japanese *Gouka Soutei-bon* Collector Box (ISBN `4198699011`):** Featured in our Japanese product card above, this Japanese-language release scales even larger to **approx. 8.25 x 11.75 inches (A4 trim)** across two colossal Japanese hardcovers.
 
 ### Physical Build Quality: A Feast for the Senses
 
@@ -81,7 +81,7 @@ Because Hayao Miyazaki's manga is **print-only in both English and Japanese** (w
 | **Build Quality**   | Robust hardcover binding, thick matte paper | Museum-grade A4 hardcovers, heavy stock | Standard paper, less durable |
 | **Digital Status**  | **Print-Only** (No official Kindle/digital) | **Print-Only** (No JP digital edition) | **Print-Only** |
 | **Availability**    | Major English bookstores, regional Amazon storefronts | Amazon.co.jp, Rakuten Japan (via proxy) | Secondary market / limited printings |
-| **Price Reference** | Check English bookstore & Amazon regional listings | Approx. ¥10,450 JP retail (see card above) | Varies on secondary market |
+| **Price Reference** | Check English bookstore & Amazon regional listings | Check live JP listings (see card above) | Varies on secondary market |
 
 ## Why Print-Only Exclusivity Makes Physical Boxes Essential
 
