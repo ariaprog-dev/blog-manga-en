@@ -13,7 +13,7 @@ tags:
 - dark-horse
 sidebarProducts:
 - title: Berserk Deluxe Edition Volume 1 (Dark Horse)
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AB%25E3%2582%25AF%2520%25E4%25B8%2589%25E6%25B5%25A6%25E5%25BB%25BA%25E5%25A4%25AA%25E9%2583%258E%2520%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%26language%3Den_US
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk%2BDeluxe%2BEdition%2BVolume%2B1%2BDark%2BHorse%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg
   microCopy: View on Amazon Japan
 ---
@@ -35,7 +35,7 @@ Here is an honest, collector-focused breakdown of its build quality, visual fide
 <img src="https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg" alt="Berserk" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Leatherette Hardcover</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Berserk</h4>
 
 <div class="live-price-box" data-product-key="berserk" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
@@ -71,7 +71,7 @@ Dark Horse spared no expense in engineering a physical tome worthy of Kentaro Mi
 
 How does the Deluxe Edition hold up against reading the original single paperbacks? Here is the direct breakdown:
 
-**Key Takeaway for Readers:** Notice Row 1 (*Page Trim Size: 7x10 inches*) and Row 4 (*Binding & Lay-Flat Reading*). The oversized dimensions expand Kentaro Miura’s intricate double-page spreads by roughly 70%, and the sewn ribbon binding allows massive combat scenes like the Battle of Doldrey to lay completely flat without gutter loss.
+**Key Takeaway for Readers:** Notice Row 1 (*Trim Size: 7" × 10"*) and Row 3 (*Binding Type: Smyth-Sewn Hardcover*). The oversized dimensions expand Kentaro Miura’s intricate double-page spreads by roughly 70%, and the sewn ribbon binding allows massive combat scenes like the Battle of Doldrey to lay completely flat without gutter loss.
 
 | Feature / Specification | Standard Dark Horse Paperback | Berserk Deluxe Hardcover Edition | Collector Impact |
 | :--- | :--- | :--- | :--- |
@@ -85,15 +85,15 @@ How does the Deluxe Edition hold up against reading the original single paperbac
 
 Starting your collection is straightforward, as each volume cleanly gathers three original tankobon installments:
 
-**Key Takeaway for Readers:** Focus on Row 2 (*Deluxe Vol 2–4: The Golden Age Arc*) and Row 5 (*Deluxe Vol 5: The Eclipse*). These pivotal volumes encompass the emotional crucible that transformed Guts into the Black Swordsman, making them the ultimate starting destination for both newcomers and seasoned collectors alike.
+**Key Takeaway for Readers:** Focus on Row 2 (*Deluxe Vols 2–4: The Golden Age Arc*) and Row 3 (*Deluxe Vols 5–7: Eclipse Climax & Conviction Arc*). Note that the fateful Eclipse spans across the finale of Deluxe Vol 4 (tankobon 12) and the climax in Deluxe Vol 5 (tankobon 13), cementing Guts' transformation into the Black Swordsman.
 
 | Deluxe Volume | Tankobon Covered | Featured Story Arcs & Milestones |
 | :--- | :--- | :--- |
-| **Volume 1** | Volumes 1–3 | The Black Swordsman Arc, Count battle, Guardian Angels of Desire |
-| **Volumes 2–4** | Volumes 4–12 | The Golden Age Arc, Band of the Hawk triumphs, and the fateful Eclipse |
-| **Volumes 5–7** | Volumes 13–21 | Lost Children Arc, Conviction Arc, and the Tower of Conviction climax |
-| **Volumes 8–10** | Volumes 22–30 | Millennium Falcon Arc, Holy Demon War, and Berserker Armor awakening |
-| **Volumes 11–14** | Volumes 31–41 | Sea God battle, journey to Elfhelm, and Miura’s final standalone chapters |
+| **Volume 1** | Volumes 1–3 | The Black Swordsman Arc, Count battle, early Golden Age prologue |
+| **Volumes 2–4** | Volumes 4–12 | The Golden Age Arc, Band of the Hawk triumphs, and the onset of the Eclipse |
+| **Volumes 5–7** | Volumes 13–21 | Eclipse climax & aftermath, Lost Children, Conviction Arc, Tower of Conviction |
+| **Volumes 8–12** | Volumes 22–35 | Millennium Falcon Arc, Holy Demon War, Berserker Armor, and Falconia |
+| **Volumes 13–14** | Volumes 36–41 | Fantasia Arc, Elfhelm voyage, and Miura’s final completed chapters (plus guidebook) |
 
 ## The Art of Kentaro Miura: Zero Gutter Loss and Massive Double-Page Spreads
 
@@ -112,7 +112,7 @@ Despite its peerless quality, there are genuine trade-offs collectors must know 
 2.  **Shelf Depth and Weight Requirements**:
     A complete set of 14 Deluxe volumes weighs over 60 pounds (28 kg). Cheap laminate shelving may bend or collapse over time. Ensure bookcases have reinforced pins and at least 11 inches of vertical shelf clearance.
 3.  **Total Financial Investment**:
-    At $49.99 MSRP across 14 volumes, purchasing the full run at retail represents a $700 investment. Fortunately, major online retailers like Amazon.co.jp and Rakuten Japan frequently discount individual volumes into the $30–$38 range, offering competitive pricing and international shipping options.
+    At $49.99 MSRP across 14 volumes, purchasing the full run at retail represents a ~$700 USD investment. Fortunately, major North American and global English-language book retailers frequently discount individual volumes into the $30–$38 USD range (while Japanese storefronts like Amazon.co.jp primarily serve as import sources for both English editions and original Japanese print tankobon).
 
 ## Conclusion: An Irreplaceable Monument on Any Manga Collector’s Shelf
 
@@ -134,7 +134,7 @@ It honors Kentaro Miura’s unparalleled craftsmanship by giving his artwork roo
 A: Digital editions are convenient for quick reading, but they cannot replicate the physical gravitas of Miura's hand-drawn lines on oversized matte paper. The Deluxe Edition is engineered specifically as a tactile art gallery collectors can hold.
 
 ### Q: Does the Deluxe Edition include color pages and bonus galleries?
-A: Yes, original color chapter title spreads and promotional pin-up galleries from the Japanese Young Animal magazine runs are printed in full color at the back of each volume.
+A: Full-color bonus galleries at the back of each volume reproduce the original Japanese tankobon cover illustrations (plus fold-out poster art in later volumes), while serialized magazine color pages inside the chapters themselves are printed in crisp grayscale consistent with the collected volume format.
 
 ### Q: How many Deluxe volumes are needed to complete Kentaro Miura’s run?
 A: Dark Horse’s Deluxe line concludes Miura’s lifetime chapters with Volume 14 (collecting original Volumes 40, 41, and the Kentaro Miura Official Guidebook).

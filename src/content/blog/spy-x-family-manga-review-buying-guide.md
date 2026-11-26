@@ -8,11 +8,10 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes2
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:
-- title: SPY×FAMILY
-  url: https://global.bookwalker.jp/search/?word=SPY%20x%20FAMILY%20Manga
+- title: 'SPY×FAMILY Manga Series (VIZ English & Japanese Editions)'
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSpy%2520x%2520Family%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg
-  price: 606
-  microCopy: Check Official Details
+  microCopy: View on Amazon Japan
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg
 ---
@@ -30,13 +29,13 @@ From its initial serialization in Shonen Jump+ to its incredibly successful anim
 <img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes21535/b950yshes21535pl.jpg" alt="Spy x Family" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Standard Tankobon / VIZ Paperback</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Spy x Family</h4>
 
 <div class="live-price-box" data-product-key="spy-x-family" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥606</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -54,7 +53,7 @@ From its initial serialization in Shonen Jump+ to its incredibly successful anim
 
 ## What Exactly is SPY×FAMILY?
 
-At its core, *SPY×FAMILY* tells the story of Twilight, a master spy from Westalis, who operates under the codename Loid Forger. His latest mission, "Operation Strix," requires him to infiltrate an elite private school to get close to a reclusive politician. The catch? To do this, he needs to create a fake family. And not just any fake family – one that looks perfectly normal to the outside world.
+At its core, *SPY×FAMILY* tells the story of a master spy from Westalis codenamed "Twilight," who operates under the cover alias Loid Forger. His latest mission, "Operation Strix," requires him to infiltrate an elite private school to get close to a reclusive politician. The catch? To do this, he needs to create a fake family. And not just any fake family – one that looks perfectly normal to the outside world.
 
 So, Loid adopts a charming little girl named Anya and marries a beautiful office worker named Yor. This sounds simple enough, except Loid has no idea that Anya is a telepath who can read minds, and Yor is a deadly assassin known as the "Thorn Princess." Each member of this peculiar family is hiding their true identity and their secret life from the others, all while trying to maintain the facade of a perfectly normal, loving household. Add in a future-seeing dog named Bond, and the result is a recipe for constant misunderstandings, comedic chaos, and surprisingly tender moments.
 
@@ -120,14 +119,14 @@ Each volume features vibrant cover art, often showcasing one or more members of 
 
 | Edition Type          | Key Features                                  | Availability                                                                 | Price (JPY) / Status          | Target Collector                                  |
 | :-------------------- | :-------------------------------------------- | :--------------------------------------------------------------------------- | :---------------------------- | :------------------------------------------------ |
-| Japanese Physical     | Original artwork, fastest release schedule    | Amazon.co.jp, Rakuten Japan                                                  | ¥606                          | Authenticity, direct support, original experience |
-| English Physical      | Official translation, accessible              | Viz Media via local retailers, Amazon.co.jp (international shipping)         | Check live listings           | Accessibility, official translation, display      |
-| Japanese Digital      | Instant access, portable, high-resolution     | Amazon.co.jp Kindle                                                          | Check live listings           | Convenience, space-saving, immediate reading      |
-| English Digital       | Official translation, instant access          | Viz Media digital platforms, Amazon.co.jp Kindle (for some regions)          | Check live listings           | Accessibility, convenience, travel-friendly       |
+| Japanese Physical     | Original artwork, fastest release schedule    | Amazon.co.jp, Rakuten Japan (via proxy)                                      | Approx. ¥550–¥606 JP retail | Authenticity, direct support, original experience |
+| English Physical      | Official translation, accessible              | VIZ Media via major English bookstores & regional Amazon storefronts         | Check live listings           | Accessibility, official translation, display      |
+| Japanese Digital      | Instant access, portable, high-resolution     | Amazon.co.jp Kindle (JP region account)                                      | Check live listings           | Convenience, space-saving, immediate reading      |
+| English Digital       | Official translation, instant access          | Regional Kindle stores, VIZ / Shonen Jump / MANGA Plus                       | Check live listings           | Accessibility, convenience, travel-friendly       |
 
 ### Where to Buy Your Copies
 
-For those looking to start their collection or catch up on the latest releases, **Amazon.co.jp** and **Rakuten Japan** are recommended channels. Amazon.co.jp offers English navigation and international shipping, alongside digital Kindle editions, providing a convenient and dependable option for building a *SPY×FAMILY* library.
+Readers outside Japan can pick up VIZ Media's English paperbacks through major English booksellers and regional Amazon storefronts (plus Kindle / MANGA Plus digitally). For Japanese *Jump Comics* tankobon volumes, **Amazon.co.jp** offers English UI and international fulfillment on eligible items (separate Amazon Japan account required), while **Rakuten Japan** domestic shops are generally accessed through a proxy or forwarding service.
 
 ## Who Should Read SPY×FAMILY?
 
@@ -151,11 +150,11 @@ Readers often find the experience highly rewarding. Happy reading, and remember:
 
 ### Q1: What are the primary purchasing channels for authentic SPY×FAMILY manga editions?
 
-A1: Collectors seeking authentic *SPY×FAMILY* manga, including Japanese physical tankobon and digital Kindle editions, typically purchase via **Amazon.co.jp** and **Rakuten Japan**. Amazon.co.jp offers English navigation and international shipping.
+A1: Collectors seeking English *SPY×FAMILY* volumes published by VIZ Media can purchase physical paperbacks and digital e-books through major North American and international English bookstores or Kindle/digital platforms. Those looking for original Japanese Jump Comics tankobon can import them via **Amazon.co.jp** (which offers English navigation and direct international shipping on eligible items using a separate JP account) or **Rakuten Japan** (typically via an international forwarding proxy service).
 
 ### Q2: What are the key differences between Japanese and English physical editions of SPY×FAMILY manga?
 
-A2: Japanese physical editions (tankobon) offer the original artwork and text, often with faster release schedules, and are available via **Amazon.co.jp** and **Rakuten Japan**. English physical editions, published by Viz Media, provide official translations and are widely available through various retailers, including international shipping from **Amazon.co.jp**.
+A2: Japanese tankobon editions (published by Shueisha under Jump Comics) follow Japan's release schedule in the original Japanese text with traditional dust jackets, whereas English physical editions (published by VIZ Media) feature official English translations and slightly larger Shonen Jump trade paperback trim sold primarily through English-language bookstores.
 
 ### Q3: How does the SPY×FAMILY manga compare to its anime adaptation for collectors?
 

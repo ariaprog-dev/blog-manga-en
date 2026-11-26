@@ -6,15 +6,10 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b950athes04026/b950athes0
 genre: Action & Shonen
 mediaType: comic
 sidebarProducts:
-- title: 【全巻】 カグラバチ 1-12巻セット （ジャンプコミックス） [ 外薗 健 ]
+- title: 'Kagurabachi, Vol. 1 (Tankobon - Japanese & VIZ English)'
   url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKagurabachi%2520Volume%25201%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950athes04026/b950athes04026pl.jpg
-  microCopy: View on Amazon Japan
-- title: 【全巻】 カグラバチ 1-12巻セット （ジャンプコミックス） [ 外薗 健 ]
-  url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18789887%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22091673%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4524/2100015174524.jpg?_ex=600x600
-  price: 6864
-  microCopy: View on Rakuten
+  microCopy: View Volume 1 on Amazon Japan
 ---
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
@@ -28,7 +23,7 @@ This guide dives deep into *Kagurabachi Volume 1*, exploring its unique appeal, 
 <img src="https://ebook-assets.dmm.com/digital/e-book/b950athes04026/b950athes04026pl.jpg" alt="Kagurabachi Volume 1" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Standard Tankobon Paperback (Vol. 1)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Kagurabachi Volume 1</h4>
 
 <div class="live-price-box" data-product-key="kagurabachi-volume-1" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
@@ -56,7 +51,7 @@ This guide dives deep into *Kagurabachi Volume 1*, exploring its unique appeal, 
 
 ### A Dark Shonen with a Vengeful Heart: Story & Themes
 
-The story of *Kagurabachi* centers on Chihiro, a young swordsmith's son whose tranquil life is shattered by tragedy. After his father, a renowned wielder of enchanted blades, is murdered and his six magical swords stolen, Chihiro embarks on a brutal path of revenge. Armed with a single, unique enchanted blade, he navigates a dangerous underworld populated by sorcerers, yakuza, and other blade-wielders, all while protecting a mysterious young girl named Char.
+The story of *Kagurabachi* centers on Chihiro Rokuhira, a young swordsmith's son whose quiet life in the forge is shattered by tragedy. After his father Kunishige—the legendary swordsmith who forged the seven Enchanted Blades—is murdered by the Hishaku and six of his forged blades are stolen, Chihiro sets out on a relentless quest for vengeance. Wielding the seventh Enchanted Blade, Enten, he battles his way through a ruthless underworld populated by sorcerers, yakuza, and ruthless wielders, eventually crossing paths with and protecting a mysterious young girl named Char.
 
 What sets *Kagurabachi* apart from many of its Shonen Jump contemporaries is its immediate embrace of a darker, more mature tone. While it retains the high-octane action and emotional core typical of shonen, it delves into themes of grief, retribution, and moral ambiguity with a striking intensity. The world-building is sparse yet effective in Volume 1, hinting at a rich history of magic and conflict without overwhelming the reader. This blend of classic shonen drive with a darker, seinen-esque sensibility is a significant part of its broad appeal.
 
@@ -74,9 +69,9 @@ For international collectors, the decision often comes down to balancing authent
 
 ### Physical Japanese Tankobon: The Original Experience
 
-The original Japanese *tankobon* release from Shueisha is, for many purists, the definitive way to experience *Kagurabachi Volume 1*. These editions are typically standard manga size, featuring vibrant dust jackets and often including unique color inserts or bonus material not found in localized versions. The paper quality is generally good, and the binding is the standard glued spine common to most Japanese manga releases.
+The original Japanese *tankobon* release from Shueisha (*Jump Comics*) is, for many purists, the quintessential physical artifact for *Kagurabachi Volume 1*. These compact Shinsho-ban paperbacks feature removable wraparound dust jackets, traditional Japanese *obi* belly-bands, and occasional Japanese bookstore promotional extras (such as launch postcards) rather than interior color inserts. The interior pages are crisp monochrome print with standard glued spines.
 
-Ordering directly from platforms like Amazon.co.jp or Rakuten Japan allows global fans to get their hands on these editions relatively quickly. Amazon.co.jp, in particular, offers worldwide shipping with an English interface, making the process straightforward for non-Japanese speakers. While customs fees and shipping costs can add up, the appeal of owning the original, untranslated work is strong for many collectors.
+Ordering directly from **Amazon.co.jp** (which provides an English interface toggle and direct international shipping on eligible books) or **Rakuten Japan** (primarily Japanese-language domestic shops where international shoppers typically use proxy/forwarding services) lets global fans collect the original Japanese printing without waiting.
 
 ### Official English Release: Accessibility & Quality
 

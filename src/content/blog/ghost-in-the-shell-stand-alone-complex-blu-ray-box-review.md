@@ -1,18 +1,18 @@
 ---
-title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box — A Timeless'
-description: 'Dive into the definitive review of the Ghost in the Shell: Stand Alone'
+title: 'Ghost in the Shell: Stand Alone Complex Blu-ray Box Collector Guide'
+description: 'Dive into the definitive collector guide to the Ghost in the Shell: Stand Alone Complex Blu-ray Box, covering animation quality, audio specs, and import details.'
 pubDate: '2026-08-20'
 heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0977/4934569360977.jpg?_ex=600x600
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:
-- title: 【特典】攻殻機動隊 STAND ALONE COMPLEX Blu-ray Disc BOX:SPECIAL EDITI
+- title: 'Ghost in the Shell: Stand Alone Complex 1st GIG Blu-ray BOX (Special Edition, BCXA-1097)'
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13400887%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17617070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0977/4934569360977.jpg?_ex=600x600
   price: 37474
   microCopy: View on Rakuten
-- title: 攻殻機動隊 STAND ALONE COMPLEX Blu-ray BOX (Amazon Japan)
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2594%25BB%25E6%25AE%25BB%25E6%25A9%259F%25E5%258B%2595%25E9%259A%258A%2520STAND%2520ALONE%2520COMPLEX%26language%3Den_US
+- title: 'Ghost in the Shell: Stand Alone Complex Blu-ray BOX (Amazon Japan)'
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%2520STAND%2520ALONE%2520COMPLEX%2520Blu-ray%26language%3Den_US
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0977/4934569360977.jpg?_ex=600x600
   microCopy: View on Amazon Japan
 heroImages:
@@ -34,20 +34,19 @@ This analysis delves into *Ghost in the Shell: Stand Alone Complex* (GITS: SAC),
 <div class="live-price-box" data-product-key="ghost-in-the-shell" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥2,200</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%2520STAND%2520ALONE%2520COMPLEX%2520Blu-ray%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Blu-ray / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGhost%20in%20the%20Shell%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13400887%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17617070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (1st GIG Box)</a>
 </div>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Note: Japanese BCXA-1097 Special Edition contains 1st GIG with Japanese/English audio and Japanese subtitles (no English subtitles). Physical discs ship worldwide where supported.</div>
 </div>
 
 ## Why GITS: SAC Still Dominates the Cyberpunk Landscape
@@ -78,48 +77,38 @@ The sound design is equally impressive. Yoko Kanno's soundtrack for GITS: SAC is
 
 ## Package Design & Disc Breakdown: Ghost in the Shell SAC Blu-ray Box
 
-For a series of this caliber, a premium release is expected, and thankfully, this box delivers. While specific contents can vary slightly by region or release year, a typical *Ghost in the Shell Stand Alone Complex Blu-ray Box* usually compiles both *1st GIG* and *2nd GIG* (and sometimes even the *Solid State Society* movie, though often that is a separate release or a special edition).
+When shopping for *Ghost in the Shell: Stand Alone Complex* on Blu-ray, pay close attention to which regional release you are viewing. In Japan, Bandai Visual's ***STAND ALONE COMPLEX Blu-ray Disc BOX: SPECIAL EDITION*** (`BCXA-1097`) covers all 26 episodes of ***1st GIG***, while *2nd GIG* is packaged in its own separate Japanese box (`BCXA-1098`, and *Solid State Society* is sold separately). By contrast, North American/UK releases (such as Anchor Bay/Lionsgate or Manga Entertainment/All The Anime collections) package seasons differently—sometimes in single-season sets or dual-season bundles.
 
 ### Picture Quality: A Stunning Upgrade
 
-This is where the Blu-ray truly shines. GITS: SAC was originally animated in high-definition, but often broadcast and released on DVD at standard definition. The Blu-ray transfer finally allows the series to be seen as it was intended. The difference is immediately noticeable:
+This is where the Blu-ray truly shines. GITS: SAC was originally mastered in high-definition, whereas early TV airings and DVDs were standard definition. The Blu-ray transfer finally showcases the Production I.G compositing at 1080p:
 
-*   **Crisper Details**: Everything from the layered cybernetic implants on character designs to the sprawling cityscapes benefits from the increased resolution. Viewers will notice details in backgrounds and character models that were simply lost in standard definition.
-*   **Vibrant Colors**: The color palette, a signature of the series, pops with renewed vibrancy. The deep blues, neon greens, and stark contrasts are rendered beautifully, enhancing the cyberpunk atmosphere.
-*   **Reduced Artifacting**: Gone are the compression artifacts and pixelation often present on DVD releases. The image is clean, stable, free from distractions, allowing for full immersion in the world.
+*   **Crisper Details**: Everything from cybernetic prosthetics to sprawling cityscapes benefits from full HD clarity.
+*   **Vibrant Colors**: Deep blues, neon greens, and dark nocturnal contrasts pop cleanly on modern displays.
+*   **Reduced Artifacting**: Gone is the DVD-era macroblocking and interlacing shimmer, leaving a much cleaner picture.
 
-While it will not look like a modern 4K production (it is still an early 2000s anime), the Blu-ray offers a significant and highly satisfying visual upgrade that makes rewatching the series an absolute pleasure.
+### Audio & Subtitle Specs: Check Before You Import
 
-### Audio Quality: Immerse Yourself in the Soundscape
+Audio specifications vary significantly between Japanese domestic boxes and Western releases—especially regarding subtitles! On Japan's *1st GIG Blu-ray Disc BOX: SPECIAL EDITION* (`BCXA-1097`):
 
-The audio presentation is just as impressive. Most Blu-ray boxes feature lossless audio tracks, typically DTS-HD Master Audio, for both the original Japanese dialogue and the excellent English dub. This means the soundtrack is delivered in its purest form:
+*   **Audio Tracks (`BCXA-1097`)**: Japanese **Dolby TrueHD 5.1ch**, Japanese **Linear PCM 2.0ch**, and **English Dolby Digital 5.1ch** dub.
+*   **Subtitles (`BCXA-1097`)**: Switchable **Japanese subtitles only**—official **English subtitles are NOT included** on this Japanese domestic box set.
 
-*   **Rich Soundstage**: Yoko Kanno's score, already brilliant, gains incredible depth and clarity. Every instrument, every vocal nuance, comes through beautifully.
-*   **Clear Dialogue**: Both the Japanese and English voice acting are top-notch, and the lossless audio ensures every line is crisp and perfectly balanced with the sound effects and music.
-*   **Impactful Sound Effects**: From the whirring of cybernetic limbs to the precise crack of gunfire, the sound effects are dynamic and punchy, adding another layer of immersion to the action.
-
-Whether one prefers the original Japanese with subtitles or the fantastic English dub (which boasts an incredibly talented cast), a sonic treat awaits.
+That means English-dub viewers get both 5.1ch Japanese audio and the acclaimed English dub on the Japanese Special Edition box, whereas collectors who prefer **Japanese audio with English subtitles** should choose a Western Blu-ray release (or double-check subtitle specs before importing).
 
 ### Special Features and Packaging: For the Dedicated Collector
 
-Beyond the core episodes, Blu-ray boxes often come packed with a variety of special features, making them a true collector's item. While specifics can vary, collectors can expect to find:
-
-*   **Interviews**: Insights from the creators, voice actors, and animators offer a deeper understanding of the production process and creative vision.
-*   **Commentaries**: Episode commentaries can provide fascinating behind-the-scenes anecdotes and interpretations.
-*   **Art Books/Booklets**: High-quality physical components like art books showcasing character designs, mechanical designs, and background art are common and highly sought after.
-*   **Trailers and Promos**: A look back at how the series was marketed.
-
-The physical packaging itself is usually robust and aesthetically pleasing, often featuring striking artwork that makes it stand out on a collector's shelf. For a series as iconic as GITS: SAC, having a well-designed, comprehensive physical release is incredibly rewarding.
+The physical Japanese Special Edition box is built for shelf display, bundling bonus discs, archival booklets, and illustrated outer packaging tailored to *Stand Alone Complex* fans.
 
 ## Edition Comparison: Ghost in the Shell: Stand Alone Complex
 
-For collectors considering their options, here is a comparison of key editions:
+For collectors weighing Japanese collector boxes against Western releases, here is how the formats differ:
 
-| Edition Type                | Content                                   | Key Differentiator                                  | Price/Value                                                                 | Primary Availability                                    |
+| Edition Type                | Content                                   | Audio & Subtitles                                   | Price/Value                                                                 | Primary Availability                                    |
 | :-------------------------- | :---------------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------ |
-| Special Edition Blu-ray Box | Full series (1st & 2nd GIG)               | Exclusive collector's bonuses (e.g., booklets)      | ¥37,474                                                                     | Check product card listings for current availability.   |
-| Standard Blu-ray Box        | Full series (1st & 2nd GIG)               | High-definition visual and audio upgrade            | Check live listings via the product cards below for current yen pricing.    | Amazon.co.jp, Rakuten Japan                             |
-| Legacy DVD Release          | Full series (1st & 2nd GIG)               | Standard definition, older format, often lower quality | Varies (often significantly lower than Blu-ray)                             | Secondary markets (e.g., used media retailers)          |
+| JP Special Edition Blu-ray Box (`BCXA-1097`) | *1st GIG* (26 episodes; *2nd GIG* sold separately) | JP TrueHD 5.1 / LPCM 2.0 + EN Dolby 5.1; **JP subs only (No EN subs)** | ~¥37,474 (check Rakuten/Amazon JP listing) | Amazon.co.jp, Rakuten Japan (via proxy if needed) |
+| Western Season 1 & 2 Blu-ray Collections | *1st GIG* / *2nd GIG* (varies by publisher/region) | Japanese & English audio + **English subtitles**    | Check regional storefront listings                                          | Major North American / UK anime retailers               |
+| Legacy DVD Release          | Standard definition releases              | SD video, older audio mixes                         | Varies on secondary market                                                  | Used media retailers                                    |
 
 ## Is the Blu-ray Box Worth the Investment?
 
@@ -136,23 +125,23 @@ In a world saturated with ephemeral streaming content, owning a physical copy of
 
 Whether pondering the nature of one's own ghost in the machine, marveling at the detailed plot twists, or simply enjoying the exceptional action, this series delivers on every front. The Blu-ray Box ensures that this legacy is preserved and presented in the best possible quality, making it an indispensable addition to any serious anime collection.
 
-Don't miss out on revisiting (or discovering) this essential piece of cyberpunk history. Authentic editions of the *Ghost in the Shell Stand Alone Complex Blu-ray Box* are available for purchase via **Amazon.co.jp** and **Rakuten Japan**, which offer English navigation and international shipping. Collectors will find this a rewarding addition to their library.
+Authentic Japanese editions such as the *Ghost in the Shell: Stand Alone Complex 1st GIG Blu-ray Disc BOX* can be browsed on **Amazon.co.jp** (which provides English navigation and international shipping on eligible stock) and **Rakuten Japan** (primarily Japanese-language domestic shops generally ordered through a proxy/forwarding service by overseas buyers), while Western Blu-ray collections with English subtitles are carried by regional North American and European retailers.
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/akira-4k-ultra-hd-blu-ray-collectors-edition-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Akira 4K Ultra HD Blu-ray Collector&#x27;s Edition Review</a> · <a href="/blog/psycho-pass-complete-season-blu-ray-collectors-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Psycho-Pass Blu-ray</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Ghost in the Shell</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13400887%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17617070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
-<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Ghost in the Shell: Stand Alone Complex Blu-ray</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGhost%2520in%2520the%2520Shell%2520STAND%2520ALONE%2520COMPLEX%2520Blu-ray%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13400887%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17617070%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan (1st GIG Box)</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Japanese BCXA-1097 covers 1st GIG with Japanese/English audio and Japanese subs (no English subs). Amazon.co.jp ships eligible discs internationally.</div>
 </div>
 
 ### Frequently Asked Questions
 
-**Q1: Does the Blu-ray Box include both *1st GIG* and *2nd GIG* of *Stand Alone Complex*?**
-A1: Yes, the *Ghost in the Shell: Stand Alone Complex Blu-ray Box* typically compiles both the *1st GIG* and *2nd GIG* seasons, offering the complete television series experience in high definition.
+**Q1: Does the Japanese `BCXA-1097` Special Edition Blu-ray Box include both *1st GIG* and *2nd GIG*?**
+A1: No—the Japanese `BCXA-1097` *Special Edition* covers all 26 episodes of ***1st GIG*** only, while *2nd GIG* is sold in its own separate Japanese box (`BCXA-1098`). Collectors seeking both seasons in a single Western release should look at official North American or UK Blu-ray collections.
 
-**Q2: Is the English dub included on the Japanese Blu-ray releases?**
-A2: Many Japanese Blu-ray releases of *Ghost in the Shell: Stand Alone Complex* include both the original Japanese audio with English subtitles and the acclaimed English dub. Collectors should verify specific audio options on the product listing before purchase.
+**Q2: Are an English dub and English subtitles included on the Japanese Blu-ray box?**
+A2: The Japanese *1st GIG* Special Edition (`BCXA-1097`) includes Japanese Dolby TrueHD 5.1 / LPCM 2.0 audio, the English Dolby Digital 5.1 dub, and switchable Japanese subtitles, **but does not include English subtitles**. Viewers who want Japanese audio paired with English subtitles should opt for a Western Blu-ray release.
 
-**Q3: Where can collectors reliably purchase authentic Japanese Blu-ray editions?**
-A3: Authentic Japanese Blu-ray editions can be reliably purchased through **Amazon.co.jp** and **Rakuten Japan**. Both platforms offer English navigation and international shipping options for overseas collectors.
+**Q3: Where can collectors purchase Japanese Blu-ray editions vs. Western editions?**
+A3: Japanese collector boxes like `BCXA-1097` are listed on **Amazon.co.jp** (English navigation and international fulfillment on eligible items) and domestic **Rakuten Japan** shops (typically ordered via proxy/forwarding services for international buyers), while Western subtitled editions are sold by major English-language anime retailers.

@@ -10,11 +10,10 @@ genre: Mystery & Suspense
 mediaType: comic
 featured: true
 sidebarProducts:
-- title: 20th Century Boys Perfect Edition Digital Ver.
-  url: https://global.bookwalker.jp/search/?word=20th%20Century%20Boys%20Perfect%20Edition
+- title: '20th Century Boys: The Perfect Edition (Vol. 1, VIZ Media Paperback)'
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2BCentury%2BBoys%2BPerfect%2BEdition%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg
-  price: 770
-  microCopy: Check Official Details
+  microCopy: View on Amazon Japan
 faq:
 - question: What is the difference between the Perfect Edition and the original 22-volume
     single release?
@@ -58,26 +57,25 @@ With VIZ Media’s release of **20th Century Boys: The Perfect Edition**, intern
 <img src="https://ebook-assets.dmm.com/digital/e-book/b600asgk08618/b600asgk08618pl.jpg" alt="20th Century Boys: The Perfect Edition" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Oversized Trade Paperback (VIZ Media)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">20th Century Boys: The Perfect Edition</h4>
 
 <div class="live-price-box" data-product-key="20th Century Boys: The Perfect Edition" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥770</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%20Century%20Boys%20Perfect%20Edition%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2BCentury%2BBoys%2BPerfect%2BEdition%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F20th%20Century%20Boys%20Perfect%20Edition%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<div style="display: grid; grid-template-columns: 1fr; gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F20th%20Century%20Boys%20Perfect%20Edition%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Japanese Proxy / Collectors)</a>
 </div>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Note: VIZ Media's English Perfect Edition is print-only (no official English digital edition is offered). Physical editions ship worldwide via major booksellers and Amazon.co.jp where supported.</div>
 </div>
 
 ## 1. Nostalgia Weaponized: The Psychological Paranoia of "Friend"
@@ -110,18 +108,18 @@ Rather than following a simple linear progression, Urasawa constructs *20th Cent
 
 For collectors deciding which version to acquire, here is a detailed breakdown of the enhancements offered by *The Perfect Edition*:
 
-**Key Takeaway for Readers:** Collectors often direct their attention to Row 2 (*Page Dimensions & Trim Size*) and Row 4 (*Restored Magazine Color Pages*). The expansive A5 format provides over 40% more visual surface area per page than standard paperbacks, which is vital for appreciating Urasawa's forensic background textures and cinematic wide-angle crowd shots.
+**Key Takeaway for Readers:** Collectors often direct their attention to Row 1 (*Trim Size*) and Row 2 (*Color Restorations*). The oversized paperback format provides over 40% more visual surface area per page than standard tankobon singles, which is vital for appreciating Urasawa's forensic background textures and cinematic wide-angle crowd shots.
 
-| Feature Comparison | The Perfect Edition (11 Vols + Epilogue) | Original Single Tankobon (22 Vols) | Digital Ver. (Kindle / App) |
+| Feature Comparison | VIZ Perfect Edition (11 Vols + Epilogue) | Original Single Tankobon (22 Vols) | Japanese Digital Ver. (Kindle JP) |
 | :--- | :--- | :--- | :--- |
-| **Trim Size** | **Oversized A5 (148 x 210 mm)** | Standard B6 (128 x 182 mm) | Device Dependent |
+| **Trim Size** | **Oversized ~8.2" x 5.8" (~148 x 210 mm)** | Standard B6 (128 x 182 mm) | Device Dependent (Japanese only) |
 | **Color Restorations** | **Full magazine color spreads included** | Grayscale conversions only | Full color on compatible apps |
-| **Paper Stock** | **Heavyweight opaque white stock** | Yellowing newsprint grade | N/A |
+| **Paper Stock** | **Heavyweight opaque white paperback stock** | Yellowing newsprint grade | N/A |
 | **Spine Design** | **Uniform minimalist typography** | Variable, aging single logos | N/A |
 | **Ending Version** | **Urasawa’s Revised Expanded Ending** | Original 2006 magazine ending | Revised edition |
-| **Total Shelf Width** | **~24 cm (Saves valuable space)** | ~35 cm (Bulky 22 volumes) | **0 cm** |
+| **Total Shelf Width** | **~36–40 cm (12 thick omnibuses)** | ~35 cm (22 compact volumes) | **0 cm** |
 
-For collectors seeking to acquire these editions, authentic Japanese releases, both physical and digital, are reliably available via **Amazon.co.jp** (which offers English navigation and international shipping) and **Rakuten Japan**. The digital Perfect Edition volumes are available for individual purchase, with current pricing for a single volume typically around ¥770, as verified by official listings.
+For English-language collectors, **VIZ Media's *Perfect Edition* is a print-only trade paperback release** (no official English digital edition is offered), sold widely through major international booksellers and Amazon's regional storefronts. Those seeking authentic Japanese editions—either print omnibuses via international shipping or the Japanese-language *Perfect Edition* e-books (~¥770 per volume on Japanese storefronts)—can source them through **Amazon.co.jp** (which provides an English interface) or **Rakuten Japan** (primarily Japanese UI, typically via a forwarding or proxy service; Kindle Japan requires a JP-region account).
 
 The primary draw for true enthusiasts is the **revised ending in *21st Century Boys: The Perfect Edition***. Dissatisfied with the ambiguity of the original serialized finale, Urasawa drew new pages clarifying the fate of key characters and delivering explicit closure on the psychological conflict between Kenji and his shadow self.
 
@@ -131,13 +129,13 @@ The primary draw for true enthusiasts is the **revised ending in *21st Century B
 
 Use this master table to orient yourself across the vast narrative terrain:
 
-**Key Takeaway for Readers:** Readers are encouraged to note Row 3 (*Volume 5: Bloody New Year's Eve, Year 2000*) and Row 5 (*Volume 9: The Wall of Tokyo, Year 2017*). These two pivotal volumes mark the catastrophic shifts in geopolitical reality within the story, serving as your anchors when tracking the shifting identities behind "Friend."
+**Key Takeaway for Readers:** Readers are encouraged to note Row 2 (*Perfect Edition Vol 3–4: 2000*) and Row 5 (*Perfect Edition Vol 9–10: Friend Year 3 / 2017*). These two pivotal stages mark the catastrophic shifts in geopolitical reality within the story, serving as your anchors when tracking the shifting identities behind "Friend."
 
 | Volume Number | Era Focus | Central Mystery / Turning Point |
 | :--- | :--- | :--- |
 | **Perfect Edition Vol 1–2** | 1969 & 1997 | Donkey’s suicide, mysterious virus deaths, assembling the old gang. |
-| **Perfect Edition Vol 3–4** | 2000 | The robot blueprint discovered, Otcho returns from Bangkok, Shinjuku fire. |
-| **Perfect Edition Vol 5–6** | 2014 | Bloody New Year’s Eve revealed, Kanna in Kabukicho, the Father Choper heroics. |
+| **Perfect Edition Vol 3–4** | 2000 | The robot blueprint discovered, Otcho returns from Bangkok, Bloody New Year's Eve. |
+| **Perfect Edition Vol 5–6** | 2014 | Bloody New Year’s Eve aftermath, Kanna in Kabukicho, Father Nitani and Detective Cho-san. |
 | **Perfect Edition Vol 7–8** | 2014–2015 | The Virtual Simulation world, the assassination attempt on the Pope. |
 | **Perfect Edition Vol 9–10** | Friend Year 3 (2017) | Tokyo Quarantine Wall, Kenji’s guitar journey, the extraterrestrial hoax. |
 | **Perfect Edition Vol 11** | Climax | The final broadcast, the giant robot returns, saving Tokyo. |
@@ -147,7 +145,7 @@ Use this master table to orient yourself across the vast narrative terrain:
 
 ## 5. Critical Considerations for Readers
 
-Before embarking on this massive 240-chapter odyssey, consider these reading recommendations:
+Before embarking on this massive 249-chapter odyssey (265 chapters including *21st Century Boys*), consider these reading recommendations:
 
 *   **Binge Reading is often recommended by collectors**: Due to the dozens of recurring characters and shifting eras, reading *20th Century Boys* with long gaps between volumes can cause confusion regarding minor characters. Reading through the 11 Perfect Edition volumes within a few weeks maximizes narrative tension and memory retention.
 *   **Grounded Realism Over Superheroics**: Even when giant robots and bioweapons appear, they are constructed using crude, dirty technology reflecting the 1960s perspective. The battles are fought with guitars, courage, and desperate foot chases rather than anime power-ups.
@@ -157,9 +155,9 @@ Before embarking on this massive 240-chapter odyssey, consider these reading rec
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/death-note-all-in-one-edition-review-collectors-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Death Note All-in-One Edition</a> · <a href="/blog/delicious-in-dungeon-manga-review-collectors-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Delicious in Dungeon: The Ultimate Collector&#x27;s Guide</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>20th Century Boys</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2520Century%2520Boys%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2520Century%2520Boys%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F20th%20Century%20Boys%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
-<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>20th Century Boys: The Perfect Edition</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D20th%2BCentury%2BBoys%2BPerfect%2BEdition%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F20th%20Century%20Boys%20Perfect%20Edition%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: VIZ Media's English Perfect Edition is print-only (paperback); Japanese digital volumes on Kindle JP require a JP region account.</div>
 </div>
 
 ### Frequently Asked Questions

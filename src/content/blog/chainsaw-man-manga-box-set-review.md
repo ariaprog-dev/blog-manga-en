@@ -10,10 +10,9 @@ mediaType: comic
 featured: true
 sidebarProducts:
 - title: Chainsaw Man Box Set (Volumes 1-11)
-  url: https://global.bookwalker.jp/search/?word=Chainsaw%20Man%20Manga%20Box%20Set
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DChainsaw%2520Man%2520Box%2520Set%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg
-  price: 543
-  microCopy: Check Official Details
+  microCopy: View Box Set Listings
 faq:
 - question: Does this box set contain the entire Chainsaw Man story?
   answer: 'The Chainsaw Man Manga Box Set collects Volumes 1 through 11, which comprises
@@ -26,7 +25,7 @@ faq:
     set includes an exclusive, high-grade double-sided full-color poster (featuring
     Denji in Chainsaw form on one side and the Public Safety Division devil hunters
     on the reverse). The rigid cardboard slipcase itself features striking wraparound
-    artwork by Tatsuki Fujimoto and magnetic-style flap durability for shelf display.
+    artwork by Tatsuki Fujimoto and Velcro-closure flap durability for shelf display.
 - question: Is buying the box set significantly cheaper than purchasing individual
     volumes?
   answer: Yes. Purchasing all 11 individual volumes at retail ($9.99 to $11.99 each)
@@ -55,13 +54,13 @@ Whether you fell in love with the franchise through MAPPA’s breathtaking anime
 <img src="https://ebook-assets.dmm.com/digital/e-book/b950yshes29921/b950yshes29921pl.jpg" alt="Chainsaw Man" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Manga Box Set (Volumes 1–11)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Chainsaw Man</h4>
 
 <div class="live-price-box" data-product-key="chainsaw-man" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥543</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -108,7 +107,7 @@ What elevates *Chainsaw Man* from great manga to enduring masterpiece is Fujimot
 
 Before committing your shelf space and budget, consult this side-by-side comparison between the different formats available for *Chainsaw Man Part 1*.
 
-**Key Takeaway for Readers:** Focus closely on Row 2 (*Effective Cost per Volume*) and Row 4 (*Exclusive Bonus Content*). While digital subscriptions offer instant accessibility, the Box Set provides an unmatched ~30% discount off individual paperback MSRP while securing the official double-sided collector’s poster and custom display housing.
+**Key Takeaway for Readers:** Focus closely on Row 3 (*Bonus Inclusions*) and Row 4 (*Average Price*). While digital subscriptions offer instant accessibility, the Box Set typically delivers a ~25–35% discount off individual paperback MSRP while securing the official double-sided collector’s poster and custom Velcro-closure display box.
 
 | Feature / Criteria | ① Chainsaw Man Box Set (Vol 1–11) | ② Individual Paperbacks | ③ Digital (Kindle / Manga Plus) | ④ Japanese Tankobon Set |
 | :--- | :--- | :--- | :--- | :--- |
@@ -116,7 +115,7 @@ Before committing your shelf space and budget, consult this side-by-side compari
 | <strong>Collector Slipcase</strong> | <strong>Yes (Rigid illustrated box)</strong> | None (Loose books) | None (Virtual cloud) | None or cardboard sleeve |
 | <strong>Bonus Inclusions</strong> | <strong>Double-sided exclusive poster</strong> | None | None | Japanese obi wraps / flyers |
 | <strong>Average Price</strong> | <strong>~$75 – $95 (Best value)</strong> | ~$110 – $130 total | ~$6.99 – $8.99/vol | ~¥5,500 – ¥6,500 (import) |
-| <strong>Shelf Footprint</strong> | ~18cm width, compact & sleek | ~18cm width, loose spines | <strong>0cm (Storage-free)</strong> | ~15cm width (smaller B6) |
+| <strong>Shelf Footprint</strong> | ~18cm width, compact & sleek | ~18cm width, loose spines | <strong>0cm (Storage-free)</strong> | ~15cm width (smaller Shinsho-ban trim) |
 | <strong>Paper & Spine Uniformity</strong> | <strong>100% matched print batch</strong> | Risk of misaligned spine logos | N/A | High-grade Japanese stock |
 | <strong>Best For</strong> | Collectors & first-time readers | Casual buyers picking up arcs | Mobile & commute readers | Japanese language learners |
 
@@ -126,18 +125,18 @@ Before committing your shelf space and budget, consult this side-by-side compari
 
 For readers transitioning from the MAPPA anime adaptation, here is how the manga volumes map out against the animated releases:
 
-**Key Takeaway for Readers:** If you just finished watching Season 1 of the anime, look directly at Row 3 (*Bomb Girl / Reze Arc, Volumes 5–6*). This is the exact narrative pivot point where the theatrical film picks up, making Volume 5 your immediate reading destination.
+**Key Takeaway for Readers:** If you just finished watching Season 1 of the anime, look directly at Row 4 (*Bomb Girl / Reze Arc, Volumes 5–6*). Season 1 stops right before Denji enters that explosive chapter of the story.
 
 | Story Arc Title | Manga Volumes | Anime Season Coverage | Major Plot Milestones & Themes |
 | :--- | :--- | :--- | :--- |
 | <strong>Introduction / Bat Devil Arc</strong> | <strong>Volume 1 – Vol 2 (Ch 1–12)</strong> | Season 1 (Episodes 1–4) | Denji meets Pochita, joins Public Safety, meets Aki & Power. |
-| <strong>Eternity Devil Arc</strong> | <strong>Volume 2 – Vol 3 (Ch 13–21)</strong> | Season 1 (Episodes 5–8) | Hotel 8th-floor temporal trap; psychological dread & teamwork. |
-| <strong>Katana Man Arc</strong> | <strong>Volume 3 – Vol 5 (Ch 22–39)</strong> | Season 1 (Episodes 9–12) | Sudden ambushes, Himeno’s sacrifice, special training with Kishibe. |
-| <strong>Bomb Girl Arc (Reze Arc)</strong> | <strong>Volume 5 – Vol 6 (Ch 40–52)</strong> | *Upcoming Theatrical Movie* | Denji meets Reze; fireworks, bittersweet romance, and urban war. |
-| <strong>International Assassins Arc</strong> | <strong>Volume 7 – Vol 8 (Ch 53–70)</strong> | Expected Season 2 | Global hitmen target Denji; descent into Hell; Darkness Devil. |
-| <strong>Gun Devil & Control Devil Arcs</strong>| <strong>Volume 9 – Vol 11 (Ch 71–97)</strong>| Expected Season 2 / Finale | Snowball fight, the truth behind Makima, and Part 1 climax. |
+| <strong>Eternity Devil Arc</strong> | <strong>Volume 2 – Vol 3 (Ch 13–21)</strong> | Season 1 (Episodes 5–7) | Hotel 8th-floor temporal trap; psychological dread & teamwork. |
+| <strong>Katana Man Arc</strong> | <strong>Volume 3 – Vol 5 (Ch 22–38)</strong> | Season 1 (Episodes 8–12) | Sudden ambushes, Himeno’s sacrifice, special training with Kishibe. |
+| <strong>Bomb Girl Arc (Reze Arc)</strong> | <strong>Volume 5 – Vol 6 (Ch 39–52)</strong> | *Theatrical Movie: Reze Arc* (2025) | Denji meets Reze; fireworks, bittersweet romance, and urban war. |
+| <strong>International Assassins Arc</strong> | <strong>Volume 7 – Vol 8 (Ch 53–70)</strong> | Unadapted in Season 1 | Global hitmen target Denji; descent into Hell; Darkness Devil. |
+| <strong>Gun Devil & Control Devil Arcs</strong>| <strong>Volume 9 – Vol 11 (Ch 71–97)</strong>| Awaiting Future Adaptation | Snowball fight, the truth behind Makima, and Part 1 climax. |
 
-As shown above, the 12-episode anime Season 1 only covers up to <strong>Volume 5 (Chapter 39)</strong>. Owning the box set allows you to experience the highly anticipated <strong>Reze Arc</strong>, the nightmarish <strong>International Assassins Arc</strong>, and the earth-shattering <strong>Control Devil Arc</strong> years before they air on television.
+As shown above, the 12-episode anime Season 1 adapts through <strong>Volume 5 (Chapter 38, with a brief teaser into Chapter 39)</strong>, leading directly into 2025's *Chainsaw Man – The Movie: Reze Arc* film (Volumes 5–6). Owning the box set allows you to experience the entire <strong>Part 1 saga</strong> in full—including the explosive <strong>Reze Arc</strong>, the nightmarish <strong>International Assassins Arc</strong>, and the unforgettable <strong>Control Devil Arc</strong> climax—without waiting between screen adaptations.
 
 ---
 

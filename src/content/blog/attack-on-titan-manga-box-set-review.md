@@ -20,7 +20,7 @@ faq:
   answer: 'The complete series is divided into 7 seasonal box sets: Season 1 Part 1 & 2, Season 2, Season 3 Part 1 & 2, and Final Season Part 1 & 2, collecting all 34 tankobon volumes from chapter 1 to the finale.'
 sidebarProducts:
 - title: Attack on Titan Season 1 Part 1 Manga Box Set
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2580%25B2%25E6%2592%2583%25E3%2581%25AE%25E5%25B7%25A8%25E4%25BA%25BA%2520%25E5%2585%25A8%25E5%25B7%25BB%2520%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%26language%3Den_US
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAttack%2Bon%2BTitan%2BSeason%2B1%2BPart%2B1%2BManga%2BBox%2BSet%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg
   microCopy: View on Amazon Japan
 ---
@@ -40,7 +40,7 @@ Here is an honest, collector’s breakdown of what these box sets deliver, what 
 <img src="https://ebook-assets.dmm.com/digital/e-book/b900wkds06840/b900wkds06840pl.jpg" alt="Attack on Titan" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Manga Box Set (Paperback)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Attack on Titan</h4>
 
 <div class="live-price-box" data-product-key="attack-on-titan" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
@@ -76,30 +76,30 @@ This structure offers several undeniable advantages:
 
 Here is how the entire 34-volume journey is structured across Kodansha’s 7 official seasonal box sets:
 
-**Key Takeaway for Readers:** Pay special attention to Row 4 (*Season 3 Part 2*) and Row 5 (*The Final Season Part 1*). These boxes mark the critical transition from the localized survival horror of Paradis Island into the sprawling geopolitical conflict across the ocean, anchoring your reading journey across Hajime Isayama’s grand narrative.
+**Key Takeaway for Readers:** Pay special attention to Row 5 (*Season 3 Part 2*) and Row 6 (*The Final Season Part 1*). These boxes mark the critical transition from the localized survival horror of Paradis Island into the sprawling geopolitical conflict across the ocean, anchoring your reading journey across Hajime Isayama’s grand narrative.
 
 | Box Set Edition | Volumes Included | Corresponding Anime Arc | Exclusive Physical Bonus Item |
 | :--- | :--- | :--- | :--- |
-| **Season 1 Part 1** | Volumes 1–4 | Fall of Shiganshina & Battle of Trost | Exclusive double-sided color poster |
-| **Season 1 Part 2** | Volumes 5–8 | 57th Expedition & Female Titan battle | Exclusive full-color poster |
-| **Season 2** | Volumes 9–12 | Clash of the Titans & Beast Titan reveal | Exclusive 24-page Short Stories booklet |
-| **Season 3 Part 1** | Volumes 13–17 | Uprising Arc & Royal Government conflict | Exclusive 24-page Short Stories booklet |
-| **Season 3 Part 2** | Volumes 18–22 | Return to Shiganshina & The Basement truth | Exclusive 24-page Short Stories booklet |
-| **Final Season Part 1** | Volumes 23–28 | Marley Arc & War for Paradis begins | Exclusive enamel pin / bonus item |
-| **Final Season Part 2** | Volumes 29–34 | The Rumbling & The Series Climax | Exclusive 96-page Ending Short Stories book |
+| **Season 1 Part 1** | Volumes 1–4 | Fall of Shiganshina & Battle of Trost | Two exclusive character sticker sheets |
+| **Season 1 Part 2** | Volumes 5–8 | 57th Expedition & Female Titan battle | Two exclusive character sticker sheets |
+| **Season 2** | Volumes 9–12 | Clash of the Titans & Beast Titan reveal | Exclusive double-sided poster |
+| **Season 3 Part 1** | Volumes 13–17 | Uprising Arc & Royal Government conflict | Exclusive *Short Stories* booklet (~half-tankobon format) |
+| **Season 3 Part 2** | Volumes 18–22 | Return to Shiganshina & The Basement truth | Exclusive *Short Stories 2* booklet (~half-tankobon format) |
+| **Final Season Part 1** | Volumes 23–28 | Marley Arc & War for Paradis begins | Exclusive *Short Stories 4* booklet (64-page format) |
+| **Final Season Part 2** | Volumes 29–34 | The Rumbling & The Series Climax | Exclusive *Short Stories 5* booklet (64-page format) |
 
 ## Buying Singles vs. Season Box Sets: Value & Price Comparison
 
 When building a complete collection of *Attack on Titan*, collectors often weigh the benefits of purchasing individual volumes against the curated season box sets. While specific pricing fluctuates based on retailer, region, and ongoing promotions, the overall value proposition of the box sets remains consistently strong.
 
-**Key Takeaway for Collectors:** While individual volumes offer flexibility, the bundled season box sets almost always provide a more cost-effective entry point into the series, typically yielding significant savings compared to purchasing each volume separately. Furthermore, they include exclusive collectible items and premium display packaging unavailable with standalone paperbacks. For current yen pricing and availability, collectors should check live listings via the product cards below or directly on **Amazon.co.jp** and **Rakuten Japan**.
+**Key Takeaway for Collectors:** While individual volumes offer flexibility, the bundled season box sets almost always provide a more cost-effective entry point into the series, typically yielding significant savings compared to purchasing each volume separately through North American and global booksellers. Furthermore, they include exclusive collectible items and premium display packaging unavailable with standalone paperbacks. For current import or Japanese-edition listings, collectors can check live links via the product card above or store links below.
 
 | Purchase Method | Pricing & Availability | Relative Total Series Cost (34 Vols) | Key Perks & Extras |
 | :--- | :--- | :--- | :--- |
 | **Individual Paperback Volumes** | Check official listings for current pricing per volume | Higher (Varies by retailer and promotions) | No exclusive extras, loose shelf storage, potential for out-of-stock volumes |
-| **7 Season Box Sets** | Check official listings for current pricing per box set | **Lower (Varies by retailer and promotions)** | **7 decorative slipcases + exclusive short stories booklets, posters, and sticker sheets** |
+| **7 Season Box Sets** | Check official listings for current pricing per box set | **Lower (Varies by retailer and promotions)** | **7 decorative slipcases + exclusive short stories booklets, double-sided poster, and sticker sheets** |
 
-By opting for the season box sets—especially when purchased from official Japanese retailers like **Amazon.co.jp** or **Rakuten Japan** during routine discounts—collectors typically realize a savings of approximately 20% to 35% off the combined MSRP of individual volumes. This discount comes with the added benefit of securing seven sturdy collector slipcases and exclusive translated story booklets that are not available elsewhere.
+By opting for Kodansha USA's English season box sets during typical discounts at major international English-language booksellers (such as Amazon's regional storefronts, Crunchyroll Store, or Barnes & Noble), collectors often realize savings of roughly 20% to 35% off the combined US retail MSRP of single paperbacks. For buyers specifically seeking Japanese original volumes or US imports in Japan, **Amazon.co.jp** and **Rakuten Japan** (primarily Japanese UI, often via proxy) serve as secondary import channels.
 
 ## The Exclusive Collectibles: Short Stories Booklets and Premium Posters
 

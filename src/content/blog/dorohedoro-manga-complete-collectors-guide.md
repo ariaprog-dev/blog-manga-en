@@ -6,15 +6,10 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk037
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:
-- title: アニメ「ドロヘドロ」CD-BOX『DOROHEDORO Season1&2 ”BEST”』[CD] / (K)NoW_NAME
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDorohedoro%26language%3Den_US
+- title: Dorohedoro Manga Series (Volumes 1-23)
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDorohedoro%2520Manga%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg
   microCopy: View on Amazon Japan
-- title: アニメ「ドロヘドロ」CD-BOX『DOROHEDORO Season1&2 ”BEST”』[CD] / (K)NoW_NAME
-  url: https://hb.afl.rakuten.co.jp/hgc/g00q63a1.ve2q5c21.g00q63a1.ve2q6c41/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneowing-r%2Fthca-60303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneowing-r%2Fi%2F16104126%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/neowing-r/cabinet/item_img_2215/thca-60303.jpg?_ex=600x600
-  price: 6050
-  microCopy: View on Rakuten
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg
 ---
@@ -30,13 +25,13 @@ This isn't just another dark fantasy; it's a cult classic that has garnered imme
 <img src="https://ebook-assets.dmm.com/digital/e-book/b600usgk03714/b600usgk03714pl.jpg" alt="Dorohedoro" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">VIZ Signature Paperback (23 Vols)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Dorohedoro</h4>
 
 <div class="live-price-box" data-product-key="dorohedoro" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥1,969</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -58,7 +53,7 @@ This isn't just another dark fantasy; it's a cult classic that has garnered imme
 
 ### A Feast for the Eyes: Q Hayashida's Unmistakable Art Style
 
-The most striking aspect of *Dorohedoro* is undoubtedly Q Hayashida's art. It’s a raw, visceral, and incredibly detailed style that feels like a blend of Western underground comics, graffiti art, and traditional Japanese manga. Every panel is crammed with detailed details, from the decaying architecture of the Hole to the grotesque yet stylish designs of the sorcerers and their magic. Hayashida's character designs are iconic: Caiman's reptilian head, Nikaido's powerful physique, and the unforgettable duo of Shin and Noi, with their skull masks and heart-themed magic, are instantly recognizable.
+The most striking aspect of *Dorohedoro* is undoubtedly Q Hayashida's art. It’s a raw, visceral, and incredibly detailed style that feels like a blend of Western underground comics, graffiti art, and traditional Japanese manga. Every panel is packed with gritty, tactile detail, from the decaying architecture of the Hole to the grotesque yet stylish designs of the sorcerers and their magic. Hayashida's character designs are iconic: Caiman's reptilian head, Nikaido's powerful physique, and the unforgettable duo of Shin and Noi, with their skull masks and heart-themed magic, are instantly recognizable.
 
 Her use of heavy linework and stark black-and-white contrasts creates an oppressive, gritty atmosphere that perfectly complements the narrative's dark themes. Yet, within this darkness, there's a surprising amount of visual comedy and expressive character work. Even in standard tankobon format, the sheer density and quality of the artwork shine through, making each page a discovery. For manga artists and art enthusiasts, *Dorohedoro* is a masterclass in unique visual storytelling, pushing the boundaries of what manga can look like.
 
@@ -74,10 +69,10 @@ For international *Dorohedoro* fans, the decision often comes down to the tactil
 
 ### The Allure of the Physical: English Volumes and Japanese Imports
 
-Viz Media has released the complete *Dorohedoro* manga series in English, spanning 23 standard tankobon volumes. While not oversized deluxe hardcovers like some other collector series (e.g., *[Berserk](/blog/berserk-deluxe-edition-review-kentaro-miura/) Deluxe Edition* or even Q Hayashida's own *Dai Dark*), these standard volumes are still well-produced and offer a fantastic way to experience the series.
+VIZ Media has released the complete *Dorohedoro* manga series in English, spanning 23 VIZ Signature paperback volumes (~5.75" x 8.25"). While not oversized deluxe hardcovers like some collector editions (e.g., *[Berserk](/blog/berserk-deluxe-edition-review-kentaro-miura/) Deluxe Edition*), VIZ's slightly larger Signature trim gives Q Hayashida's heavy cross-hatching room to breathe (much like Seven Seas' paperback volumes of Hayashida's later series *Dai Dark*).
 
-*   **Viz Media English Tankobons:** These volumes feature solid paper quality, decent binding, and excellent translations that capture the unique tone and dialogue of the series. The cover art for each volume is stunning, showcasing Hayashida's distinctive style and making for a visually striking collection on your bookshelf. Owning all 23 volumes offers immense satisfaction, allowing collectors to appreciate the progression of Hayashida's art and storytelling over the entire saga. They are readily available through major online retailers and local bookstores globally, making them the most accessible physical option for English readers.
-*   **Japanese Original Volumes:** For purists or those who appreciate the original language presentation, the complete Japanese tankobon set is an option. These volumes are identical in format to the English releases but offer the manga exactly as it was first published. Purchasing these often involves ordering directly from Amazon.co.jp, which offers an English interface and global shipping to most countries. While shipping costs and potential customs duties need to be factored in, Amazon.co.jp's reliable packaging ensures manga arrives in pristine condition.
+*   **VIZ Media English Editions:** These 23 VIZ Signature paperbacks feature crisp reproduction, occasional opening color pages where present, and sharp translations capturing the series' anarchic humor. The wrap-around and character cover illustrations make all 23 spines a striking display on any shelf, and the series is stocked across major English booksellers globally.
+*   **Japanese Original Volumes:** For purists wanting the original Japanese Shogakukan *IKKI Comix* / *Big Spirits Special* editions, the complete 23-volume Japanese set can be sourced via **Amazon.co.jp** (which offers English navigation and direct international shipping on eligible stock) or Japanese marketplaces like **Rakuten Japan** (typically via proxy services for overseas shoppers). Note that the final volume 23 is thicker and priced higher than standard earlier volumes.
 
 Collecting the physical volumes allows for full appreciation of Hayashida's detailed artwork on paper, providing a more immersive and less distracting reading experience. The sheer weight and presence of the complete *Dorohedoro* collection on a shelf speak volumes about a collector's dedication to unique manga.
 
@@ -91,14 +86,14 @@ For readers who prioritize convenience, portability, and immediate access, the o
 
 ## Dorohedoro Manga Editions Comparison
 
-| Feature             | English Physical (Viz Media)                               | Japanese Physical (Original Tankobon)                               | English Digital (Kindle)                                         |
+| Feature             | English Physical (VIZ Signature)                           | Japanese Physical (Shogakukan Original)                             | English Digital (Kindle)                                         |
 | :------------------ | :--------------------------------------------------------- | :------------------------------------------------------------------ | :--------------------------------------------------------------- |
-| **Format**          | Standard Tankobon (23 volumes)                             | Standard Tankobon (23 volumes)                                      | Digital E-book (23 volumes)                                      |
+| **Format**          | VIZ Signature Paperback (23 volumes)                       | Japanese Tankobon (23 volumes)                                      | Digital E-book (23 volumes)                                      |
 | **Language**        | English                                                    | Japanese                                                            | English                                                          |
-| **Availability**    | Major online retailers, local bookstores                   | Amazon.co.jp, Rakuten Japan (international shipping)                | Kindle editions via major digital storefronts                    |
-| **Key Focus**       | Accessible English translation, physical collection        | Original language, authentic presentation, collector's item        |
-| **Target Reader**   | English-speaking collectors, new readers                   | Purists, Japanese learners, art enthusiasts                        | Readers prioritizing accessibility, travel, budget-conscious    |
-| **Price**           | Check live listings via product cards below for current pricing | Check live listings via Amazon.co.jp / Rakuten Japan for current pricing | Check live listings via digital storefronts for current pricing |
+| **Availability**    | Major English bookstores & regional storefronts            | Amazon.co.jp, Rakuten Japan (via proxy if needed)                   | Kindle editions via major digital storefronts                    |
+| **Key Focus**       | Larger 5.75" x 8.25" English trim, tactile shelf set       | Original Japanese text, authentic IKKI / Shogakukan printings       | Instant access, pinch-to-zoom panel inspection, space-saving     |
+| **Target Reader**   | English-speaking collectors, new readers                   | Purists, Japanese learners, art enthusiasts                         | Readers prioritizing accessibility, travel, budget-conscious     |
+| **Price**           | Check live listings via product cards above for current pricing | Check live listings via Amazon.co.jp / Rakuten Japan for current pricing | Check live listings via digital storefronts for current pricing |
 
 ## Navigating International Purchases
 
@@ -136,3 +131,12 @@ No matter which format is chosen, owning the complete *Dorohedoro* manga means p
 </div>
 
 ### Frequently Asked Questions
+
+**Q1: Is the *Dorohedoro* manga series complete, and how many volumes does it have?**
+A1: Yes. Q Hayashida's *Dorohedoro* is complete in **23 volumes**, published in English by VIZ Media under the VIZ Signature imprint (and available digitally on Kindle).
+
+**Q2: Does *Dorohedoro* have a hardcover or English box set edition?**
+A2: No. Unlike some dark-fantasy titles with oversized hardcovers, *Dorohedoro* is published in English as 23 VIZ Signature paperbacks (~5.75" x 8.25"), which already provide a larger page trim than standard shonen paperbacks.
+
+**Q3: How can collectors buy the original Japanese volumes vs. the English editions?**
+A3: VIZ Media's English volumes are carried by major English booksellers and Amazon's regional storefronts. For Japanese *Shogakukan* volumes, **Amazon.co.jp** offers English navigation and direct international shipping on eligible stock, while **Rakuten Japan** domestic shops are generally accessed through proxy services.

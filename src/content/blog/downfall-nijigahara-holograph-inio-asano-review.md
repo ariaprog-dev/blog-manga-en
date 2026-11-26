@@ -6,15 +6,10 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b600ssgk04574/b600ssgk045
 genre: Mystery & Suspense
 mediaType: comic
 sidebarProducts:
-- title: 【中古】零落 / 浅野いにお
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25B6%25E8%2590%25BD%2520%25E6%25B5%2585%25E9%2587%258E%25E3%2581%2584%25E3%2581%25AB%25E3%2581%258A%2520%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%26language%3Den_US
+- title: Downfall & Nijigahara Holograph (Inio Asano Manga)
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DInio%2520Asano%2520Downfall%2520Manga%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600ssgk04574/b600ssgk04574pl.jpg
   microCopy: View on Amazon Japan
-- title: 【中古】零落 / 浅野いにお
-  url: https://hb.afl.rakuten.co.jp/hgc/g00s4sx1.ve2q56bc.g00s4sx1.ve2q6ccc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenet3%2F0012677803%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frenet3%2Fi%2F11265295%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/item_photo/001267/7/0012677803.jpg?_ex=600x600
-  price: 220
-  microCopy: View on Rakuten
 ---
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
@@ -28,10 +23,10 @@ For international collectors, both titles present compelling choices for physica
 <img src="https://ebook-assets.dmm.com/digital/e-book/b600ssgk04574/b600ssgk04574pl.jpg" alt="Downfall & Nijigahara Holograph" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Standalone Paperback & Hardcover Editions</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Downfall & Nijigahara Holograph</h4>
 
-<div class="live-price-box" data-product-key="downfall-&-nijigahara-holograph" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="downfall-nijigahara-holograph" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
 <span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
@@ -39,10 +34,10 @@ For international collectors, both titles present compelling choices for physica
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDownfall%2520%2526%2520Nijigahara%2520Holograph%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DInio%2520Asano%2520Downfall%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDownfall%2520%2526%2520Nijigahara%2520Holograph%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDownfall%20%26%20Nijigahara%20Holograph%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDownfall%2520Inio%2520Asano%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (Downfall EN)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInio%20Asano%20Manga%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 </div>
 </div>
 </div>
@@ -95,14 +90,14 @@ Character designs are distinctive, aiding the collector in distinguishing the ma
 
 ### Collector's Perspective: Physical vs. Digital for *Nijigahara Holograph*
 
-*Nijigahara Holograph* was published in English by Fantagraphics Books, a publisher known for its high-quality releases of alternative and independent comics. This reflects the sophisticated nature of the work.
+*Nijigahara Holograph* was published in English by Fantagraphics Books (translated by Matt Thorn) as a striking ~296-page **7" x 9.5" black-and-white hardcover**, reflecting the prestige alternative-comics treatment of the work.
 
-**Key Takeaway for Collectors:** The Fantagraphics edition is a collector's item that respects the artistic integrity of the work, while the digital edition offers a convenient way to study this complex title.
+**Key Takeaway for Collectors:** The Fantagraphics hardcover edition is the primary collector release for *Nijigahara Holograph* (while digital library/platform availability varies by region, unlike VIZ Media's direct Kindle release of *Downfall*).
 
 | Edition/Format | Publisher | Binding / Access | Key Collector Characteristics |
 |:---------------|:-------|:-----------|:---------|
-| Physical Collected Volume | Fantagraphics Books | Single hardcover/print volume | Sturdy collectible binding suited to the series' experimental structure. |
-| Kindle E-Book | Fantagraphics Books | Instant digital delivery | Digital access for rapid cross-referencing across non-linear story chapters. |
+| Physical Collected Volume | Fantagraphics Books | Single hardcover (~7" x 9.5", ~296 pp) | Prestigious cloth/board-style hardcover presentation suited to the work's experimental structure. |
+| Digital Access | Fantagraphics Books / Digital Libraries | Regional library/ebook platforms (varies by store) | Digital access varies across regional platforms (less uniform than VIZ's Kindle storefront for *Downfall*). |
 
 ## Why Inio Asano Resonates with International Collectors
 
@@ -112,31 +107,31 @@ His meticulous art, which blends hyperrealism with a keen eye for the psychologi
 
 ### Editions and Formats: A Comparison Table
 
-**Key Takeaway for Collectors:** Note the different publishers for *Downfall* and *Nijigahara Holograph*, as this influences the quality and aesthetics of the physical editions.
+**Key Takeaway for Collectors:** Note the different publishers and bindings for *Downfall* (VIZ paperback + direct Kindle) and *Nijigahara Holograph* (Fantagraphics hardcover), as each offers a distinct shelf feel.
 
 | Title | English Publisher | Physical Format | Digital Availability | Focus |
 |:------|:------------------|:------------------|:----------------------|:------|
-| *Downfall* | Viz Media | Single softcover volume | Kindle (globally) | Realistic drama, manga industry, existential crisis |
-| *Nijigahara Holograph* | Fantagraphics Books | Single softcover volume | Kindle (globally) | Non-linear trauma-drama, butterfly symbolism, childhood wounds |
+| *Downfall* | VIZ Media | Single softcover volume | Kindle & VIZ digital platforms | Realistic drama, manga industry, existential crisis |
+| *Nijigahara Holograph* | Fantagraphics Books | Single hardcover (~7" x 9.5") | Print hardcover primary (digital library availability varies) | Non-linear trauma-drama, butterfly symbolism, childhood wounds |
 
 ### General Buyer's Guide: Physical vs. Digital for Asano's Works
 
 **Key Takeaway for Collectors:** The choice depends on whether a collector prioritizes the tactile experience and collector's value or instant accessibility and portability.
 
-| Criterion | Physical Collector's Edition | Official Kindle/Digital Edition |
+| Criterion | Physical Collector's Edition | Official Digital Edition |
 |:----------|:------------------------------|:------------------------------------|
-| **Reading Experience** | Tactile, large-format art, no screen glare, ideal for focused immersion. | Convenient, portable, adjustable text size, instant access. |
-| **Collector's Value** | High value for collectors, aesthetically pleasing on a shelf, potential for appreciation. | No physical value, but permanent digital ownership. |
-| **Art Appreciation** | Better for appreciating Asano's detailed backgrounds and panel layouts. | Dependent on screen size; may lose details, but zoom functions assist. |
-| **Availability** | May sell out upon initial release, shipping time required. | Instant download after purchase, always available. |
-| **Portability** | Less portable, occupies physical space. | Extremely portable, many books on one device. |
-| **Price** | Often higher initial purchase price. | Tends to have lower prices, frequent discounts. |
+| **Reading Experience** | Tactile, crisp print, no screen glare, ideal for focused immersion. | Convenient, portable, zoom support for fine linework. |
+| **Collector's Value** | Strong shelf presence (especially Fantagraphics' hardcover). | No physical display footprint, account-licensed convenience. |
+| **Art Appreciation** | Better for appreciating Asano's detailed backgrounds and panel layouts. | Dependent on screen size; pinch-to-zoom assists on detailed spreads. |
+| **Availability** | Stocked by major English bookstores; older hardcovers can go between printings. | Instant access where licensed (*Downfall* directly on regional Kindle stores). |
+| **Portability** | Occupies physical shelf space. | Extremely portable across tablets and e-readers. |
+| **Price** | Varies by paperback vs. hardcover edition. | Generally lower than hardcover print editions. |
 
 ## International Buying Guide & Availability
 
-For global collectors, both works by Inio Asano are fortunately accessible. English editions are widely available through major online retailers. **Amazon.co.jp** is an excellent source, often shipping worldwide and offering an English user interface for easy navigation. This can be particularly useful for finding Japanese original editions or other Asano merchandise. For English translations, general online retailers or Kindle platforms are most convenient.
+For global collectors, English print editions of both titles are distributed through North American and international English-language booksellers as well as Amazon's regional storefronts. For collectors specifically seeking the original Japanese editions (*Reiraku* and *Nijigahara Horogurafu*) or imported stock, **Amazon.co.jp** provides an English interface and direct international shipping on eligible titles, while **Rakuten Japan** operates primarily in Japanese for domestic delivery (meaning overseas buyers usually order through a Japanese proxy/forwarding service).
 
-Kindle digital editions are immediately available on Kindle platforms worldwide. This is the fastest and easiest way to immerse oneself in these stories without waiting for international shipping. For those who can read Japanese originals, digital versions are available on platforms like **Amazon.co.jp** and **Rakuten Japan**, but for English-speaking readers, Kindle remains the primary choice.
+For digital English reading, *Downfall* is readily available on regional Amazon Kindle storefronts, whereas collectors seeking *Nijigahara Holograph* overwhelmingly target the Fantagraphics hardcover print edition.
 
 ### Who Should Collect These Works?
 
@@ -154,17 +149,17 @@ A: *Downfall* presents a linear, character-driven narrative focusing on one arti
 **Q: What are some content considerations collectors should be aware of before reading *Downfall* or *Nijigahara Holograph*?**
 A: Both works explore mature and often disturbing themes. *Downfall* deals with depression, creative burnout, marital strife, and existential despair. *Nijigahara Holograph* delves into childhood trauma, bullying, sexual assault, and the cyclical nature of violence. Collectors should approach both with an understanding of their dark and psychologically intense nature, as they are not light reads.
 
-**Q: How can international collectors acquire Japanese original editions of Inio Asano's works, and what should they know about pricing?**
-A: Japanese original editions can be purchased via **Amazon.co.jp** and **Rakuten Japan**, both of which offer international shipping and English navigation. For example, used copies of *Reiraku* (the original Japanese title for *Downfall*) by Inio Asano have been observed listed for around 220 JPY. Collectors should check live listings on these platforms for current pricing and availability, as prices for new and used editions can vary.
+**Q: How can international collectors acquire Japanese original editions vs. English editions?**
+A: VIZ Media's *Downfall* paperback and Fantagraphics' *Nijigahara Holograph* hardcover are stocked directly by English-market bookstores and regional Amazon storefronts. Collectors wanting the original Japanese *Reiraku* or *Nijigahara Horogurafu* volumes can browse **Amazon.co.jp** (English UI toggle and direct international fulfillment where eligible) or **Rakuten Japan** (generally via a Japanese proxy service for international delivery).
 
 ## Final Verdict: Essential Reading for the Discerning Collector
 
-*Downfall* and *Nijigahara Holograph* are both brilliant, challenging works that solidify Inio Asano's reputation as one of the most important and compelling voices in modern manga. They are not easy reads, but they are undeniably powerful and leave an indelible impression. Whether a collector opts for the tactile experience of a physical edition, which best showcases Asano's detailed artistry, or prefers the instant accessibility of a Kindle release to study his complex narratives, both are indispensable additions to the collection of any serious manga enthusiast. Dive into Asano's world – but be warned: collectors will emerge changed.
+*Downfall* and *Nijigahara Holograph* are both brilliant, challenging works that solidify Inio Asano's reputation as one of the most important and compelling voices in modern manga. They are not easy reads, but they are undeniably powerful and leave an indelible impression. Whether pairing Fantagraphics' hardcover *Nijigahara Holograph* with VIZ Media's *Downfall* paperback—or grabbing *Downfall* digitally on Kindle—both stand out as essential works on any serious seinen collector's shelf.
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/goodnight-punpun-collectors-review-inio-asano/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Goodnight Punpun: Collector&#x27;s Guide to Asano&#x27;s Masterpiece</a> · <a href="/blog/demon-slayer-manga-series-collectors-guide-editions/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Demon Slayer: Kimetsu No Yaiba Manga</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Downfall &amp; Nijigahara Holograph</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDownfall%2520%2526%2520Nijigahara%2520Holograph%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDownfall%2520%2526%2520Nijigahara%2520Holograph%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDownfall%20%26%20Nijigahara%20Holograph%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DInio%2520Asano%2520Downfall%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDownfall%2520Inio%2520Asano%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book (Downfall)</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInio%20Asano%20Manga%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
 <div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
 </div>

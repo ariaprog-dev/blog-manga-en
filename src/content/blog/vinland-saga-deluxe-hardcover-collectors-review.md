@@ -8,11 +8,11 @@ mediaType: comic
 heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/mck-shop/cabinet/comic/2025/9784065394137.jpg?_ex=600x600
 sidebarProducts:
-- title: 【新品】 ヴィンランド・サガ 全巻 完結 1巻-29巻 セット 幸村 誠 講談社 アフタヌーンKC トルフィン トルケル アシェラ
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25B5%25E3%2582%25AC%2520%25E5%25B9%25B8%25E6%259D%2591%25E8%25AA%25A0%25201%25E5%25B7%25BB%26language%3Den_US
+- title: Vinland Saga Deluxe Hardcover (Kodansha USA)
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVinland%2520Saga%2520Deluxe%2520Hardcover%26language%3Den_US
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mck-shop/cabinet/comic/2025/9784065394137.jpg?_ex=600x600
   microCopy: View on Amazon Japan
-- title: 【新品】 ヴィンランド・サガ 全巻 完結 1巻-29巻 セット 幸村 誠 講談社 アフタヌーンKC トルフィン トルケル アシェラ
+- title: Vinland Saga Japanese Complete Set (Vols. 1-29 / Makoto Yukimura / Kodansha)
   url: https://hb.afl.rakuten.co.jp/hgc/g00s7d81.ve2q5676.g00s7d81.ve2q6b2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmck-shop%2Fvinland-saga-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmck-shop%2Fi%2F10002399%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mck-shop/cabinet/comic/2025/9784065394137.jpg?_ex=600x600
   price: 24662
@@ -30,13 +30,13 @@ This series is not just another manga; it's a sprawling narrative that demands a
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mck-shop/cabinet/comic/2025/9784065394137.jpg?_ex=600x600" alt="Vinland Saga" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Vinland Saga</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe 3-in-1 Hardcover (EN) &amp; JP 29-Vol Set</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Vinland Saga Deluxe Hardcover &amp; Complete Set</h4>
 
 <div class="live-price-box" data-product-key="vinland-saga" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥1,012</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -66,7 +66,7 @@ The artistic prowess of Makoto Yukimura is one of *Vinland Saga*'s most defining
 
 As the story evolves, so too does the art. While the action remains thrilling, there's a growing emphasis on character expressions, environmental detail, and the subtle nuances of human emotion. Yukimura's ability to convey a character's inner turmoil or a moment of quiet contemplation through their eyes or posture is truly exceptional. The paneling is fluid and cinematic, guiding the reader's eye seamlessly through intense confrontations and poignant character interactions.
 
-For collectors, the opportunity to appreciate this art in a larger format is paramount. The oversized pages of the deluxe editions allow the detailed details of Yukimura's illustrations to truly breathe, revealing nuances that might be lost in a standard tankobon. From sprawling naval battles to intimate character portraits, the artwork is a major draw, and the premium physical release ensures every stroke is savored.
+For collectors, the opportunity to appreciate this art in a larger format is paramount. The oversized ~7 x 10 inch pages of Kodansha USA's 3-in-1 *Vinland Saga Deluxe* leatherette hardcovers ($54.99 USD MSRP per volume) allow the intricate details of Yukimura's illustrations to truly breathe, revealing nuances that might be lost in a standard tankobon. With the main serialization concluding in July 2025 at Chapter 220 across 29 Japanese volumes, both English deluxe editions and complete Japanese sets make formidable shelf centerpieces.
 
 ## The Allure of the Deluxe Hardcover Edition: A Collector's Dream
 
@@ -113,25 +113,25 @@ Choosing the right edition of *Vinland Saga* depends on individual collector pre
 | **Format**         | Oversized Hardcover                     | Digital E-book                        | Standard Paperback (Tankobon)             |
 | **Content**        | 3-in-1 volumes, exclusive color pages   | Digital chapters, convenient access   | Original Japanese chapters                |
 | **Publisher**      | Kodansha (English)                      | Kodansha (English)                    | Kodansha (Japanese)                       |
-| **Availability**   | Amazon.co.jp, Rakuten Japan             | Amazon.co.jp (Kindle)                 | Amazon.co.jp, Rakuten Japan               |
-| **Price Guidance** | Check live listings via product cards   | Check live listings via product cards | ¥24,662 (for 1-29 set)                    |
-| **Collector Focus**| Premium display, archival quality       | Portability, instant access           | Original language, complete set           |
+| **Availability**   | North American &amp; Global Bookstores, Amazon.co.jp Imports | Amazon / Kindle / Kobo Digital Storefronts | Amazon.co.jp, Rakuten Japan (via Proxy)   |
+| **Price Guidance** | $54.99 USD MSRP per 3-in-1 Vol (Check live stores)       | Check live digital store pricing           | ¥24,662 (1-29 JP Complete Set on Rakuten) |
+| **Collector Focus**| Premium display, archival quality                        | Portability, instant access                | Original language, complete set           |
 
 ## International Buying Guide: Acquiring Your Edition
 
-Acquiring *Vinland Saga* in the preferred format is straightforward for international buyers, primarily through Amazon.co.jp and Rakuten Japan. These platforms offer robust international shipping options and English navigation, making them ideal for global collectors.
+Collectors can choose between Kodansha USA's oversized English *Deluxe* leatherette hardcovers (~7 x 10 in, $54.99 USD MSRP) and original Japanese Kodansha *Afternoon KC* volumes (concluded in July 2025 at 29 tankobon) depending on reading language and shelf presentation.
 
-### English Deluxe Hardcovers (Kodansha)
+### English Deluxe Hardcovers (Kodansha USA)
 
-These highly coveted English-language editions are primarily available through **Amazon.co.jp** and **Rakuten Japan**. Collectors can find these premium volumes on these storefronts, which often provide competitive pricing and reliable international shipping services. It is always advisable to check current listings on both platforms for the best available prices and shipping rates to your location.
+Published in oversized ~7 x 10 inch (approx. 7.35 x 10.29 in) 3-in-1 hardcover volumes at $54.99 USD MSRP, the English *Vinland Saga Deluxe* editions are stocked primarily through North American and global English-language bookstores, comic shops, and regional online storefronts, with select listings also appearing via **Amazon.co.jp** imports.
 
 ### English Kindle Digital Editions
 
-For instant access and maximum portability, the official English Kindle e-book versions are available through **Amazon.co.jp**. Simply search for "Vinland Saga Kindle" on the Amazon.co.jp site, and the entire series will be ready for immediate download. This is the fastest and most convenient way to start reading, especially for those prioritizing a digital library or eager to catch up quickly.
+For instant digital reading, official English e-book editions from Kodansha USA are available through regional Kindle and Kobo storefronts worldwide (note that **Amazon.co.jp** digital purchases require a separate Japanese Amazon account and region setting).
 
-### Japanese Editions and Imports
+### Japanese Editions and Complete Sets
 
-For collectors interested in the original Japanese tankobon volumes, artbooks, or other specific Japanese collector items, **Amazon.co.jp** and **Rakuten Japan** are the primary recommendations. Both platforms offer an English interface and ship internationally to many countries. While the main discussion here focuses on the English Kodansha Deluxe editions, these Japanese storefronts are invaluable for importing unique Japanese releases or if English editions are temporarily out of stock elsewhere.
+For collectors seeking original Japanese *Afternoon KC* tankobon volumes—including complete 1–29 full sets (`¥24,662` on the featured Rakuten listing)—**Amazon.co.jp** and **Rakuten Japan** are key Japanese storefronts. Amazon.co.jp offers an English navigation toggle and ships eligible physical items internationally (separate JP account required), whereas Rakuten Japan typically requires a forwarding proxy service (such as Buyee, ZenMarket, or Tenso) for overseas buyers.
 
 ## Who Is This For?
 

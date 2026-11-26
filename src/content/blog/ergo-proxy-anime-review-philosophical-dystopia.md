@@ -1,16 +1,16 @@
 ---
 title: 'Ergo Proxy: A Philosophical Dive into Anime''s Dystopian Masterpiece'
-description: Dive into Ergo Proxy, a cyberpunk anime masterpiece exploring identity,
+description: 'Dive into Ergo Proxy, a cyberpunk anime masterpiece exploring identity, existential philosophy, and Blu-ray collector editions.'
 pubDate: '2026-08-20'
 heroImage: https://pics.dmm.com/mono/movie/animation/n_605gnxa1277/n_605gnxa1277pl.jpg
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:
-- title: Ergo Proxy Blu-ray BOX(スペシャルプライス版)【Blu-ray】 [ 遊佐浩二 ]
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%26language%3Den_US
+- title: Ergo Proxy Blu-ray BOX (Special Price Edition, GNXA-1277)
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%2520Blu-ray%2520BOX%26language%3Den_US
   imageUrl: https://pics.dmm.com/mono/movie/animation/n_605gnxa1277/n_605gnxa1277pl.jpg
   microCopy: View on Amazon Japan
-- title: Ergo Proxy Blu-ray BOX(スペシャルプライス版)【Blu-ray】 [ 遊佐浩二 ]
+- title: Ergo Proxy Blu-ray BOX (Special Price Edition, GNXA-1277)
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15507252%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19162367%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2496/4988102702496.jpg?_ex=600x600
   price: 10676
@@ -28,26 +28,25 @@ Released in 2006, *Ergo Proxy* didn't just push the boundaries of animation; it 
 <img src="https://pics.dmm.com/mono/movie/animation/n_605gnxa1277/n_605gnxa1277pl.jpg" alt="Ergo Proxy" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Ergo Proxy</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Complete Series Blu-ray BOX (4 Discs)</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Ergo Proxy Blu-ray BOX</h4>
 
 <div class="live-price-box" data-product-key="ergo-proxy" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥11,220</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Blu-ray / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FErgo%20Proxy%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FErgo%20Proxy%20Blu-ray%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Blu-ray)</a>
 </div>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Japanese GNXA-1277 Blu-ray BOX carries Japanese & English audio with NO English subtitles (check Western editions if English subs are required). Physical discs ship worldwide where supported.</div>
 </div>
 
 ## What is Ergo Proxy?
@@ -139,10 +138,11 @@ For those who appreciate anime that makes you think, *Ergo Proxy* is more than j
 
 | Feature / Edition | Details | Availability & Pricing |
 | :--- | :--- | :--- |
-| **Title & Release Year** | *Ergo Proxy* (2006) | Sci-Fi / Psychological Cyberpunk Series |
-| **Animation Studio** | Manglobe | Distinct muted palette & gothic cyberpunk backgrounds |
+| **Title & Release Year** | *Ergo Proxy* (2006, all 23 episodes) | Sci-Fi / Psychological Cyberpunk Series |
+| **Animation Studio** | Manglobe | Muted gray/blue aesthetic & gothic cyberpunk architecture |
 | **Music & Audio Signature** | Score by Yoshihiro Ike; OP "Kiri" (Monoral), ED "Paranoid Android" (Radiohead) | Preserved in physical Blu-ray BOX releases |
-| **Special Price Blu-ray BOX** | *Ergo Proxy* Blu-ray BOX (Special Price Edition) | Amazon.co.jp / Rakuten Japan (Listed ref: ¥10,676 on Rakuten) |
+| **JP Special Price Blu-ray BOX (`GNXA-1277`)** | 4 discs; Japanese LPCM 2.0 / Dolby Digital 5.1 + English 5.1 dub; **No subtitles** | Amazon.co.jp / Rakuten Japan (~¥10,676 ref; check live listing) |
+| **Western Complete Series Blu-ray** | Region A / B editions with English dub **and English subtitles** | Major North American & UK anime specialty retailers |
 
 ## Final Thoughts
 
@@ -151,9 +151,9 @@ For those who appreciate anime that makes you think, *Ergo Proxy* is more than j
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/psycho-pass-complete-season-blu-ray-collectors-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Psycho-Pass Blu-ray</a> · <a href="/blog/serial-experiments-lain-collectors-guide-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Unraveling the Wired</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Ergo Proxy</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FErgo%20Proxy%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
-<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Ergo Proxy Blu-ray BOX</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DErgo%2520Proxy%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FErgo%20Proxy%20Blu-ray%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Japanese GNXA-1277 Blu-ray BOX has no English subtitles (includes English 5.1 dub + Japanese audio). Amazon.co.jp ships eligible discs internationally.</div>
 </div>
 
 ### Frequently Asked Questions
@@ -164,5 +164,5 @@ A1: Manglobe produced the series in 2006, using restrained grays, deep blues, an
 **Q2: What makes the *Ergo Proxy* soundtrack notable across anime Blu-ray releases?**
 A2: Alongside Yoshihiro Ike's minimalist electronic and orchestral score, the series pairs Monoral's "Kiri" as its opening theme with Radiohead's "Paranoid Android" as the closing track.
 
-**Q3: Where can international collectors order the *Ergo Proxy* Blu-ray BOX?**
-A3: Authentic Japanese releases such as the *Ergo Proxy* Blu-ray BOX (Special Price Edition) can be browsed on **Amazon.co.jp** (which provides English navigation and international shipping) as well as **Rakuten Japan**.
+**Q3: Does the Japanese *Ergo Proxy* Blu-ray BOX (`GNXA-1277`) include English audio or subtitles, and where can collectors buy it?**
+A3: The Japanese Special Price Blu-ray BOX (`GNXA-1277`) includes both Japanese audio (LPCM 2.0ch / Dolby Digital 5.1ch) and the English dub (Dolby Digital 5.1ch), **but does not include English subtitles**. Viewers who want Japanese audio paired with English subtitles should pick up a Western Complete Series Blu-ray release instead. Collectors specifically wanting the Japanese `GNXA-1277` release can browse **Amazon.co.jp** (English UI, direct international shipping on eligible stock) or **Rakuten Japan** (typically via proxy/forwarding services).

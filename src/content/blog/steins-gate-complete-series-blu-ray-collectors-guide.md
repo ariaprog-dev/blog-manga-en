@@ -6,12 +6,12 @@ heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3983/49352
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:
-- title: 'STEINS;GATE コンプリート Blu-ray BOX スタンダードエディション【Blu-ray】 [ 宮野真守 '
+- title: 'STEINS;GATE Complete Blu-ray BOX Standard Edition (ZMAZ-11993, JP)'
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15328878%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19003669%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3983/4935228173983.jpg?_ex=600x600
   price: 15840
   microCopy: View on Rakuten
-- title: STEINS GATE コンプリート Blu-ray BOX (Amazon Japan)
+- title: 'STEINS;GATE Complete Blu-ray BOX (Amazon Japan)'
   url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEINS%2520GATE%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2588%2520Blu-ray%26language%3Den_US
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3983/4935228173983.jpg?_ex=600x600
   microCopy: View on Amazon Japan
@@ -31,23 +31,22 @@ El Psy Kongroo. For fans of cerebral science fiction, intricate narratives, and 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Blu-ray Collector's Edition</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Steins;Gate Complete Series Blu-ray</h4>
 
-<div class="live-price-box" data-product-key="steins-gate-series-blu" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="steins-gate-complete-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥15,840</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSteins%253BGate%2520Complete%2520Series%2520Blu-ray%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEINS%253BGATE%2520Complete%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSteins%253BGate%2520Complete%2520Series%2520Blu-ray%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSteins%20Gate%20Series%20Blu%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEINS%20GATE%20Complete%20Blu-ray%20BOX%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Search)</a>
 </div>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp requires a separate JP account; Rakuten Japan typically requires a forwarding proxy outside Japan.</div>
 </div>
 
 ## The World-Bending Saga of Steins;Gate
@@ -60,11 +59,11 @@ What sets *Steins;Gate* apart is its incredible pacing and character depth. The 
 
 ### The Visual and Auditory Canvas
 
-Produced by studio White Fox, *Steins;Gate*'s animation style is distinctive, with character designs that perfectly capture their personalities. While not always the most fluid in terms of action, the animation excels in conveying atmosphere and subtle emotional cues. The true brilliance, however, lies in its sound design and score. The voice acting, particularly Mamoru Miyano's portrayal of Okabe, is phenomenal, shifting seamlessly from comedic bravado to heart-wrenching despair. The soundtrack, composed by Takeshi Abo, is iconic, with tracks like 'Hacking to the Gate' and 'Gate of Steiner' instantly evoking the series' unique blend of mystery and melancholy. These elements are crucial for an immersive experience, making the quality of a Blu-ray release paramount.
+Produced by studio White Fox, *Steins;Gate*'s animation style is distinctive, with character designs that perfectly capture their personalities. While not always the most fluid in terms of action, the animation excels in conveying atmosphere and subtle emotional cues. The true brilliance, however, lies in its sound design and score. The voice acting, particularly Mamoru Miyano's portrayal of Okabe, is phenomenal, shifting seamlessly from comedic bravado to heart-wrenching despair. The soundtrack pairs Chiyomaru Shikura's iconic opening theme 'Hacking to the Gate' (performed by Kanako Itou) with Takeshi Abo's unforgettable background score—highlighted by haunting tracks such as 'Gate of Steiner'. These elements are crucial for an immersive experience, making the quality of a Blu-ray release paramount.
 
 ## Why Steins;Gate Demands a Physical Release
 
-In an age dominated by streaming, the allure of a physical Blu-ray might seem quaint to some. But for a series as rich and rewatchable as *Steins;Gate*, a premium physical edition offers an unmatched experience that digital streaming simply can't match. Owning the *Steins;Gate Complete Series Blu-ray* isn't just about watching the anime; it's about celebrating a masterpiece, preserving its legacy, and ensuring the highest possible audio-visual fidelity for repeat viewings. Every detailed detail, every subtle expression, every haunting melody is presented in its purest form.
+In an age dominated by streaming, the allure of a physical Blu-ray might seem quaint to some. But for a series as rich and rewatchable as *Steins;Gate*, a premium physical edition offers an unmatched experience that digital streaming simply can't match. Owning the *Steins;Gate Complete Series Blu-ray* isn't just about watching the anime; it's about celebrating a masterpiece, preserving its legacy, and ensuring the highest possible audio-visual fidelity for repeat viewings. Every nuanced detail, every subtle expression, every haunting melody is presented in crisp high-definition fidelity.
 
 ## Deciphering the Steins;Gate Complete Series Blu-ray for Collectors
 
@@ -79,7 +78,7 @@ Japanese Blu-ray releases are renowned for their meticulous attention to detail.
 Blu-ray discs offer a significant leap in quality over standard definition DVDs and often surpass the compressed streams of digital services. For *Steins;Gate*, this means:
 
 *   **High-Definition Visuals:** Experience Akihabara, the Future Gadget Lab, and every subtle shift in character expression in crisp 1080p. The enhanced clarity brings out the detail in White Fox's animation, making the world feel more vibrant and immersive.
-*   **Lossless Audio:** The original Japanese voice acting and the iconic soundtrack are presented in uncompressed, lossless audio formats (like DTS-HD Master Audio). This ensures that every line, every sound effect, and every note of the score is delivered with pristine clarity and dynamic range, exactly as the creators intended. This is particularly crucial for a series where sound design plays a vital role in building tension and atmosphere.
+*   **Lossless Audio:** Japan's Complete Blu-ray BOX Standard Edition (`ZMAZ-11993`, `4935228173983`) encodes Japanese dialogue and Takeshi Abo's score in **uncompressed Linear PCM (LPCM)** lossless audio, delivering every line, CRT hum, and piano motif without streaming bitrate compression. (Localized Western Blu-rays also provide lossless/high-bitrate tracks for both Japanese audio and the English dub.)
 
 ### Exclusive Extras and Bonus Content
 
@@ -132,7 +131,7 @@ Regarding digital availability, while *Steins;Gate manga* is available digitally
 
 *   **Instant Access:** Watch immediately without waiting for shipping.
 *   **Portability:** Stream on multiple devices anywhere with an internet connection.
-*   **Cost-Effective:** Often cheaper to subscribe to a streaming service (like Crunchyroll or Funimation, which host *Steins;Gate*) or buy digital seasons/episodes from platforms like Apple TV, Google Play, or Amazon Prime Video.
+*   **Cost-Effective:** Streaming subscriptions (such as Crunchyroll, where licensing permits) or digital episode purchases from Apple TV, Google Play, or Amazon Prime Video are often cheaper upfront than importing Japanese collector boxes.
 *   **Convenience:** No physical space required.
 
 **Cons:**
@@ -146,7 +145,7 @@ Regarding digital availability, while *Steins;Gate manga* is available digitally
 **Pros:**
 
 *   **True Ownership:** Physical ownership of the series, independent of internet connections or streaming service contracts.
-*   **Highest Quality:** Uncompressed video and lossless audio for the definitive viewing experience.
+*   **Highest Quality:** High-bitrate 1080p Blu-ray video and uncompressed LPCM lossless audio for the definitive home presentation.
 *   **Collectibility:** A tangible item with potential resale value, and a proud display piece for a collection.
 *   **Exclusive Content:** Often includes physical and on-disc extras not available digitally.
 *   **Reliability:** Not subject to server outages, licensing expirations, or bandwidth issues.
@@ -155,14 +154,14 @@ For a series as enduring and impactful as *Steins;Gate*, the physical Blu-ray of
 
 ## Steins;Gate Complete Series Blu-ray Editions Comparison
 
-| Feature             | STEINS;GATE Complete Blu-ray BOX Standard Edition | STEINS;GATE Complete Blu-ray BOX (Amazon.co.jp) | International Regional Blu-ray (Example) |
-| :------------------ | :------------------------------------------------ | :---------------------------------------------- | :--------------------------------------- |
-| **Edition Type**    | Standard Blu-ray Box Set                          | Blu-ray Box Set                                 | Standard or Collector's Edition          |
-| **Format**          | Blu-ray                                           | Blu-ray                                         | Blu-ray                                  |
-| **Verified Price**  | ¥15,840                                           | Check live listings via product cards below     | Check regional retailers                 |
-| **Availability**    | Amazon.co.jp, Rakuten Japan                       | Amazon.co.jp                                    | Local retailers, regional Amazon         |
-| **Key Focus**       | Original series, high-quality presentation        | Original series, comprehensive collection       | English language options, accessibility  |
-| **Language Options**| Japanese audio (Check for English subtitles)      | Japanese audio (Check for English subtitles)    | English subtitles and dubs (typically)   |
+| Feature             | STEINS;GATE Complete Blu-ray BOX Standard (`ZMAZ-11993`) | STEINS;GATE Complete Blu-ray BOX (Amazon.co.jp) | International Regional Blu-ray (Example) |
+| :------------------ | :------------------------------------------------------- | :---------------------------------------------- | :--------------------------------------- |
+| **Edition Type**    | Standard Blu-ray Box Set (TV 24 eps + OVA + Ep 23β + *Déjà Vu* film) | Blu-ray Box Set | Standard or Collector's Edition |
+| **Format**          | Blu-ray (Linear PCM Japanese Audio)                      | Blu-ray                                         | Blu-ray                                  |
+| **Verified Price**  | ¥15,840                                                  | Check live listings via product cards above     | Check regional retailers                 |
+| **Availability**    | Amazon.co.jp, Rakuten Japan (via proxy)                  | Amazon.co.jp                                    | Local retailers, regional Amazon         |
+| **Key Focus**       | Complete original saga + theatrical movie in JP box      | Comprehensive Japanese collector collection     | English language options, accessibility  |
+| **Language Options**| **Japanese audio + Japanese subs (NO English subtitles)**| Japanese audio (No English subtitles)           | **English subtitles and dub** + JP audio |
 
 ## Who Should Join the Future Gadget Lab?
 
@@ -180,18 +179,18 @@ Regardless of which worldline is chosen, owning *Steins;Gate* on Blu-ray ensures
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/akira-4k-ultra-hd-blu-ray-collectors-edition-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Akira 4K Ultra HD Blu-ray Collector&#x27;s Edition Review</a> · <a href="/blog/psycho-pass-complete-season-blu-ray-collectors-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Psycho-Pass Blu-ray</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Steins Gate Complete Series Blu-ray</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSteins%2520Gate%2520Complete%2520Series%2520Blu-ray%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSteins%2520Gate%2520Complete%2520Series%2520Blu-ray%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15328878%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19003669%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
-<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>STEINS;GATE Complete Blu-ray BOX (ZMAZ-11993)</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSTEINS%253BGATE%2520Complete%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15328878%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19003669%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Eligible physical sets ship internationally via Amazon.co.jp (separate JP account required). Rakuten Japan typically requires a forwarding proxy outside Japan.</div>
 </div>
 
 ### Frequently Asked Questions
 
 **Q: What are the key differences between Japanese and international Blu-ray editions of *Steins;Gate*?**
-A: Japanese editions often feature premium packaging and exclusive physical bonuses but may lack English subtitles or dubs. International releases are typically more affordable and include English language options, though their packaging might be less elaborate. Collectors should always verify language options on product listings.
+A: The Japanese *STEINS;GATE Complete Blu-ray BOX* (`ZMAZ-11993`) uses uncompressed Linear PCM Japanese audio and includes Japanese subtitles only (no English subtitles or dubs). International releases (such as Crunchyroll/Funimation sets) include English subtitles and dubbed audio, though content bundling varies by edition.
 
 **Q: Where can international collectors reliably purchase authentic Japanese *Steins;Gate* Blu-ray editions?**
-A: Authentic Japanese editions can be purchased directly from **Amazon.co.jp** (which offers English navigation and international shipping) and **Rakuten Japan**. Always check seller reviews and product descriptions carefully.
+A: Authentic Japanese editions can be ordered through **Amazon.co.jp** (which offers English navigation and international shipping on eligible items using a separate Amazon.co.jp account) or **Rakuten Japan** via an international forwarding/proxy service.
 
 **Q: Does the *Steins;Gate Complete Series Blu-ray* include the *Steins;Gate 0* series or movie content?**
-A: Typically, a 'Complete Series' Blu-ray for *Steins;Gate* refers to the original 24-episode series plus the OVA. *Steins;Gate 0* and the *Load Region of Déjà Vu* movie are usually separate releases. Collectors should check the specific product listing for exact included content.
+A: Yes for the movie, and no for *Steins;Gate 0*: the Japanese Standard Edition *Complete Blu-ray BOX* (`ZMAZ-11993`) includes all 24 original TV episodes, the OVA episode (*Egoistic Poriomania*), Episode 23β (*Divide by Zero*), and the theatrical film *Steins;Gate: The Movie − Load Region of Déjà Vu*. *Steins;Gate 0* is sold separately.

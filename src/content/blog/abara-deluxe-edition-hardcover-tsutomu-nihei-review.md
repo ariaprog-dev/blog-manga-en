@@ -6,15 +6,10 @@ heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabi
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:
-- title: 新装版　ABARA 【電子書籍】[ 弐瓶勉 ]
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DABARA%26language%3Den_US
+- title: 'Abara: Complete Deluxe Edition Hardcover (VIZ Media)'
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAbara%2BComplete%2BDeluxe%2BEdition%2BVIZ%26language%3Den_US
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8929/2000016888929.jpg?_ex=600x600
   microCopy: View on Amazon Japan
-- title: 新装版　ABARA 【電子書籍】[ 弐瓶勉 ]
-  url: https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F3ed0287aade43a4088ae48376003ba5b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F24375596%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8929/2000016888929.jpg?_ex=600x600
-  price: 2178
-  microCopy: View on Rakuten
 ---
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
@@ -54,17 +49,17 @@ This review dives deep into what makes *Abara* a unique entry in Nihei's bibliog
 
 Tsutomu Nihei has carved a unique niche in the manga world, creating desolate, technologically advanced, yet decaying futurescapes populated by genetically modified beings, enigmatic forces, and protagonists who often speak through their actions rather than words. His art style is instantly recognizable: dense, monochromatic linework, often depicting impossibly vast structures, grotesque biological mutations, and dynamic action sequences that emphasize impact and raw power.
 
-*Abara*, first serialized in 2005, is a shorter, sharper narrative compared to the epic scope of *Blame!* or *Biomega*. Set in a world plagued by mysterious, transforming entities known as Gauna (not to be confused with the aliens in *Knights of Sidonia*, though the thematic links are clear), it follows Kubota, a man who can transform into a White Gauna, as he fights against other, more destructive Black Gauna. The plot, while present, often takes a backseat to the overwhelming atmosphere, the visceral action, and the sheer visual spectacle of Nihei's designs.
+*Abara*, first serialized in 2005, is a shorter, sharper narrative compared to the epic scope of *Blame!* or *Biomega*. Set in a world plagued by mysterious, transforming entities known as Gauna (not to be confused with the aliens in *Knights of Sidonia*, though the thematic links are clear), it follows Denji Kudou, a man who can transform into a Black Gauna, as he battles destructive White Gauna. The plot, while present, often takes a backseat to the overwhelming atmosphere, the visceral action, and the sheer visual spectacle of Nihei's designs.
 
 What truly sets *Abara* apart, even within Nihei's oeuvre, is its relentless pacing and claustrophobic horror. The transformations are gruesome, the battles chaotic, and the sense of impending doom is palpable. It’s a work that demands immersion, where the reader is thrown headfirst into a world where humanity struggles against forces beyond its comprehension, often becoming monstrous in the process. Nihei’s signature blend of biomechanical horror and architectural grandeur is on full display, making *Abara* a cornerstone for fans of dark sci-fi, cyberpunk, and existential dread.
 
 ## A Closer Look: The *Abara* Complete Deluxe Hardcover
 
-The *Abara: Deluxe Edition* hardcover from Viz Media is a tribute to the importance of presentation for certain works of manga art. For a creator like Tsutomu Nihei, whose storytelling relies so heavily on visual detail and atmospheric immersion, a premium physical release isn't just a luxury; it's a necessity.
+The *Abara: Complete Deluxe Edition* hardcover from Viz Media is a tribute to the importance of presentation for certain works of manga art. For a creator like Tsutomu Nihei, whose storytelling relies so heavily on visual detail and atmospheric immersion, a premium physical release isn't just a luxury; it's a necessity.
 
 ### Physical Build Quality and Presentation
 
-*   **Oversized Format:** This is perhaps the most significant feature. Measuring approximately 7.25 x 10.25 inches (18.4 x 26 cm), the Deluxe Edition is substantially larger than standard tankobon volumes. This larger canvas allows Nihei's incredibly detailed, often chaotic, and expansive artwork to breathe. Panels that might feel cramped or lose impact in a smaller format explode with detail here, making the detailed machinery, grotesque biology, and vast structures truly impressive.
+*   **Oversized Format:** Measuring approximately 6.5 x 9.0 inches (16.5 x 22.9 cm) across 418 pages, the Deluxe Edition is substantially larger than standard tankobon volumes. This larger canvas allows Nihei's incredibly detailed, often chaotic, and expansive artwork to breathe. Panels that might feel cramped or lose impact in a smaller format gain weight and clarity here, making the intricate machinery, grotesque biology, and vast structures truly impressive.
 *   **Hardcover Binding:** The robust hardcover provides excellent durability and a premium feel. It is built to last for display and repeated readings. The binding is generally well-executed, allowing the book to lay reasonably flat for comfortable reading, minimizing gutter loss and ensuring that two-page spreads are fully appreciated.
 *   **Paper Stock:** The paper quality is thick, opaque, and has a slight sheen that beautifully showcases Nihei's intense black inks and delicate line work. The deep blacks characteristic of Nihei's style are rich and consistent, without bleed-through, which is crucial for a manga artist who relies so heavily on contrast and shading.
 *   **Cover Art and Design:** The book features striking cover art that immediately conveys the dark, futuristic tone of *Abara*. The overall design is clean and elegant, fitting for a collector's item, and often includes subtle textural elements or spot gloss that enhance its aesthetic appeal.
@@ -94,7 +89,7 @@ For international manga collectors, the choice between a premium physical editio
 | **Art Immersion**       | Superior (large format, high-quality print) | Good (device dependent, smaller) |
 | **Shelf Appeal**        | High (premium collector's item, durable)    | None (digital library)       |
 | **Portability**         | Low (large, heavy)                          | High (accessible on multiple devices) |
-| **Availability**        | Global online retailers, Amazon.co.jp, Rakuten Japan | Global digital storefronts |
+| **Availability**        | Specialty/resale market (original print OOP); Japanese editions via Amazon.co.jp & Rakuten Japan | Regional digital storefronts (subject to licensing availability) |
 | **Price Point**         | Higher premium (reflects quality)           | Lower/Standard (often discounted) |
 | **Bonus Content**       | Yes ("Digimortal" short story)            | Typically none                |
 | **Reading Experience**  | Tactile, immersive, detailed                | Convenient, accessible, quick |
@@ -108,12 +103,12 @@ The English digital edition, on the other hand, offers standout convenience. You
 
 Acquiring the *Abara: Deluxe Edition* hardcover is straightforward for international buyers, primarily through online retailers.
 
-*   **Global Online Retailers:** The Viz Media *Abara: Deluxe Edition* is widely available through various global online retailers and specialty manga stores. Searching for "Abara Deluxe Edition Viz Media" will typically yield the correct English-language hardcover. Collectors should compare prices and shipping options, being mindful of potential import duties, which vary by country.
-*   **Other Online Bookstores:** Specialty storefronts like Crunchyroll Store (shipping broadly across North America and select international regions), Barnes & Noble, and Blackwell's are also reliable options for English print editions alongside Amazon.co.jp and Rakuten Japan.
-*   **Digital Editions:** The English digital edition is available globally via various digital storefronts. This is the quickest and most direct way to get instant access to the series digitally.
-*   **Japanese Editions via Amazon.co.jp and Rakuten Japan:** For collectors interested in the original Japanese editions or other Japanese-language Nihei works, **Amazon.co.jp** and **Rakuten Japan** are excellent resources. Both platforms support English interfaces and offer reliable international shipping. These are the recommended channels for authentic Japanese collector items.
+*   **Global & Secondhand Retailers:** Because the original Viz Media *Abara: Complete Deluxe Edition* (ISBN 978-1974702640) print run is out of print, collectors often source physical copies via global resellers, specialty comic shops, and marketplace listings. Always verify edition condition and import duties, which vary by country.
+*   **Other Online Bookstores:** Specialty storefronts like Crunchyroll Store, Barnes & Noble, and Blackwell's may list stock or reprints when available, alongside Japanese print/digital listings on Amazon.co.jp and Rakuten Japan.
+*   **Digital Editions:** English digital availability can vary by region and licensing cycle on major digital storefronts; verify active regional listings before purchasing.
+*   **Japanese Editions via Amazon.co.jp and Rakuten Japan:** For collectors interested in the original Japanese *Shinsouban ABARA* edition or other Japanese-language Nihei works, **Amazon.co.jp** offers an English-language shopping interface and ships eligible physical items internationally. **Rakuten Japan** is also a strong source for domestic inventory, though the storefront is primarily in Japanese and overseas shoppers generally use a proxy or forwarding service.
 
-When purchasing internationally, always compare prices across different global retailers, including **Amazon.co.jp** and **Rakuten Japan** for Japanese editions, factoring in shipping costs and any potential customs fees.
+When purchasing internationally, always compare condition notes and prices across global retailers and Japanese storefronts (via **Amazon.co.jp** or proxy services for **Rakuten Japan**), factoring in shipping costs and customs fees.
 
 ## Who Should Dive into *Abara*?
 

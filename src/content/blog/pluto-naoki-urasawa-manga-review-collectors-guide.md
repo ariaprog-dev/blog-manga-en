@@ -6,8 +6,8 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b600csgk09078/b600csgk090
 genre: Mystery & Suspense
 mediaType: comic
 sidebarProducts:
-- title: Pluto Naoki Urasawa s Masterpiece Reimagining
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPluto%2520Naoki%2520Urasawa%2520s%2520Masterpiece%2520Reimagining%26language%3Den_US
+- title: 'Pluto: Urasawa x Tezuka (VIZ Signature, Vols. 1-8)'
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPluto%2520Naoki%2520Urasawa%2520Manga%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600csgk09078/b600csgk09078pl.jpg
   microCopy: View on Amazon Japan
 heroImages:
@@ -23,13 +23,13 @@ In the vast tapestry of manga, certain works stand out not just for their storyt
 <img src="https://ebook-assets.dmm.com/digital/e-book/b600csgk09078/b600csgk09078pl.jpg" alt="Pluto" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">VIZ Signature Trade Paperback (8 Vols)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Pluto</h4>
 
 <div class="live-price-box" data-product-key="pluto" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥880</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -51,7 +51,7 @@ Naoki Urasawa is a name synonymous with suspense, layered plots, and deeply huma
 
 ### A Reimagining of a Classic
 
-At its core, *Pluto* is a detective story. Set in a futuristic world where highly advanced robots coexist with humans, the narrative follows Europol detective Gesicht, a robot himself, as he investigates a series of murders targeting both prominent robots and human advocates for robot rights. The victims are among the seven greatest robots in the world, including Atom (the Japanese name for Astro Boy) and the very powerful Pluto. Urasawa takes the innocent, adventurous spirit of Osamu Tezuka's original and twists it into a mature, philosophical exploration of identity, memory, and the trauma of conflict.
+At its core, *Pluto* is a detective story. Set in a futuristic world where highly advanced robots coexist with humans, the narrative follows Europol detective Gesicht, a robot himself, as he investigates a series of murders targeting prominent human advocates for robot rights and the world's seven greatest robots—including Atom (Astro Boy) and Gesicht himself—all hunted one by one by a powerful, mysterious assailant known as Pluto. Urasawa takes the innocent, adventurous spirit of Osamu Tezuka's original and twists it into a mature, philosophical exploration of identity, memory, and the trauma of conflict.
 
 What makes this reimagining so compelling is how Urasawa retains the essence of Tezuka's characters while imbuing them with adult struggles and existential dread. Atom is no longer just a boy wonder; he's a symbol of hope burdened by immense power and a nascent understanding of the darkness around him. Gesicht, a family man grappling with his own past, becomes the reader's anchor in a world spiraling into chaos. The story is a slow burn, meticulously building suspense and empathy for its robotic protagonists, forcing readers to question what truly defines life and consciousness.
 
@@ -81,9 +81,9 @@ For collectors, the choice between physical and digital editions often depends o
 
 | Edition Type | Publisher/Platform | Format | Key Features | Target Reader |
 | :--- | :--- | :--- | :--- | :--- |
-| English Physical | VIZ Media (VIZ Signature) | 8 Trade Paperbacks | Larger trim size, premium paper, sturdy binding, ideal for display | Collectors, art enthusiasts, readers who prefer tactile experience |
-| English Digital | Amazon Kindle | Digital Ebook | Instant access, highly portable, space-saving, often discounted | Readers on-the-go, budget-conscious, digital-first readers |
-| Japanese Physical | Shogakukan (original publisher) | Tankobon / Kanzenban | Original language, authentic experience, potential unique extras | Japanese readers, advanced collectors, language learners |
+| English Physical | VIZ Media (VIZ Signature) | 8 Trade Paperbacks | Larger ~5.75" x 8.25" trim size, opaque paper, sturdy binding | Collectors, art enthusiasts, readers who prefer physical books |
+| English Digital | Amazon Kindle / VIZ / Kobo | Digital Ebook (8 Vols, added Sept 2023) | Instant access, highly portable, space-saving | Readers on-the-go, budget-conscious, digital-first readers |
+| Japanese Physical | Shogakukan (original publisher) | Tankobon / Gouka-ban (Deluxe Edition) | Original language, *Gouka-ban* collector color/extras | Japanese readers, advanced collectors, language learners |
 
 ### The Splendor of Physical Editions
 
@@ -108,13 +108,13 @@ For global collectors, acquiring *Pluto* is relatively straightforward thanks to
 
 ### Sourcing Editions Globally
 
-For English physical editions, collectors can find *Pluto* through major online booksellers and specialized manga retailers that offer international shipping. When ordering physical copies internationally, be mindful of potential customs duties or import taxes levied by your country. These charges are typically not included in the initial purchase price and will be collected upon delivery.
+For English physical editions, collectors can find *Pluto* through major North American and international English-language booksellers (plus Amazon's regional storefronts) without needing to import from Japan. Be mindful of any shipping fees or regional customs charges when ordering across borders.
 
-For authentic Japanese-language editions, both physical and digital, **Amazon.co.jp** and **Rakuten Japan** are highly recommended. Amazon.co.jp offers English navigation and international shipping, making it accessible for global collectors seeking original Japanese releases, including digital Kindle editions in Japanese. Rakuten Japan also provides a reliable source for a wide array of Japanese manga and merchandise.
+For authentic Japanese-language editions (such as Shogakukan's standard *tankobon* or the larger *Gouka-ban* collector release) and Japanese Kindle versions, **Amazon.co.jp** offers an English interface toggle and direct international fulfillment on eligible physical volumes. **Rakuten Japan** also lists Japanese collector volumes across its domestic merchants, though overseas buyers typically use browser translation and a Japanese proxy or forwarding service.
 
 ### Navigating Digital Purchases
 
-Kindle purchases are incredibly simple for international buyers. As long as you have an Amazon account, you can buy and download the English *Pluto* volumes to your Kindle app or device from virtually anywhere in the world. There are no shipping delays or customs issues with digital purchases, making them ideal for immediate access.
+After years as a print-only title in English, VIZ Media officially released all eight volumes of *Pluto* as English e-books in September 2023 across Kindle, Kobo, Apple Books, and VIZ digital platforms—making instant mobile or tablet reading straightforward worldwide.
 
 ## Who Should Dive Into Pluto?
 

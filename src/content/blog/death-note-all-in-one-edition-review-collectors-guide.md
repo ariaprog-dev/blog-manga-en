@@ -6,11 +6,10 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes0
 genre: Mystery & Suspense
 mediaType: comic
 sidebarProducts:
-- title: Death Note All
-  url: https://global.bookwalker.jp/search/?word=Death%20Note%20All-in-One%20Edition
+- title: Death Note All-in-One Edition (VIZ Media Complete Omnibus)
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDeath%2520Note%2520All-in-One%2520Edition%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950ushes02482/b950ushes02482pl.jpg
-  price: 564
-  microCopy: Check Official Details
+  microCopy: View All-in-One Listings
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b950ashes00312/b950ashes00312pl.jpg
 ---
@@ -28,13 +27,13 @@ This isn't just another reprint; it's a statement piece. But is it the ideal way
 <img src="https://ebook-assets.dmm.com/digital/e-book/b950ushes02482/b950ushes02482pl.jpg" alt="Death Note" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Death Note</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Single-Volume Paperback Omnibus (2,400 Pages)</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Death Note All-in-One Edition</h4>
 
 <div class="live-price-box" data-product-key="death-note" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥564</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -52,11 +51,11 @@ This isn't just another reprint; it's a statement piece. But is it the ideal way
 
 ## What Exactly is the Death Note All-in-One Edition?
 
-The *Death Note All-in-One Edition* compiles all twelve main volumes of *Death Note* – the entire core story from Light finding the notebook to its dramatic conclusion – and binds them into a single, colossal book. Published by VIZ Media, this edition is designed to be a complete, self-contained package for the entire saga.
+The *Death Note All-in-One Edition* compiles all twelve main volumes of *Death Note* (all 108 chapters) – the entire core story from Light finding the notebook to its dramatic conclusion – and binds them into a single, colossal softcover tome. Published in English by VIZ Media, it is designed as a self-contained physical package for the whole saga.
 
-Physically, it's a beast. Measuring roughly 5.75 x 8.25 inches and an astonishing 3 inches thick, it contains over 2,400 pages. To put that in perspective, it's about the size of a small dictionary or a very thick textbook. The cover features striking red-on-black artwork, often depicting Light and Ryuk, making it instantly recognizable and quite imposing.
+Physically, it is unmistakable: measuring roughly 4.6 x 7.1 inches and over 3 inches thick (~3.2 inches / 8.1 cm spine width), it spans **2,400 pages** and slides into a protective metallic-silver cardboard slipcase. To put that in perspective, it resembles a pocket bible or thick dictionary in hand.
 
-Inside, readers get all the manga chapters, printed on somewhat thinner paper than standard tankōbon volumes to accommodate the sheer page count. It also typically includes the bonus content from the original Volume 13, *How to Read*, which offers character profiles, interviews, and other fascinating behind-the-scenes material, integrated at the end of the main story. This means collectors truly get the complete *Death Note* narrative and supplementary insights in one go.
+Inside, readers get all 108 manga chapters printed on crisp, ultra-thin paper stock to keep the massive book bindable, plus a **special post-series epilogue one-shot chapter** (set around the C-Kira case years after the finale) included in print in English for the first time with this release. Note that this book compiles Volumes 1–12 plus the epilogue chapter; the separate guidebook *Volume 13: How to Read* is **not** bundled inside.
 
 ## Re-Experiencing the Genius of Death Note
 
@@ -86,9 +85,9 @@ While it's a huge book, it still takes up less shelf space than twelve individua
 
 Generally, the *All-in-One Edition* is more affordable than buying all twelve standard tankōbon volumes individually, or even the six Black Editions. It's a great way to acquire the entire series at a lower entry price, making it an excellent option for those on a budget who still want a physical copy.
 
-### 5. Completeness with Bonus Content
+### 5. Complete Story Plus Epilogue One-Shot
 
-As mentioned, this edition typically includes the supplementary content from Volume 13, *How to Read*. This means collectors are not just getting the story, but also the extra insights, character data, and creator commentary that enrich the *Death Note* universe, all within the same binding. It truly feels like a definitive package.
+Beyond gathering all 12 main volumes (108 chapters) between two covers, this edition includes the post-series **epilogue one-shot** (the C-Kira story), making it a self-contained narrative package. (Collectors wanting interviews, character data sheets, and creator commentary should pick up *Volume 13: How to Read* separately.)
 
 ## The Downsides: Why the All-in-One Might Not Be For Everyone
 
@@ -122,29 +121,29 @@ For collectors weighing their options, understanding the differences between key
 
 | Edition                 | Format             | Key Features                                                                 | Target Reader / Focus                                  |
 | :---------------------- | :----------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **All-in-One Edition**  | Paperback, single  | Over 2,400 pages, complete story + Volume 13 bonus, cost-effective.          | Budget-conscious, binge-readers, space-savers.         |
-| **Standard Tankōbon**   | Paperback, 12 vols | Original release format, individual cover art, standard paper quality.       | Traditional collectors, those who prefer smaller books. |
-| **Black Edition**       | Paperback, 6 vols  | Larger trim size, higher quality paper, dark aesthetic, 2-in-1 format.     | Premium collectors, art enthusiasts, display-focused. |
+| **All-in-One Edition**  | Paperback in slipcase, 1 vol | 2,400 pages, Volumes 1–12 + C-Kira epilogue one-shot (Vol 13 sold separately). | Budget-conscious, binge-readers, space-savers.         |
+| **Standard Tankōbon**   | Paperback, 12 vols (+ Vol 13) | Original release format, individual cover art, standard paper quality.       | Traditional collectors, those who prefer smaller books. |
+| **Black Edition**       | Paperback, 6 vols  | Larger 5.75" x 8.25" trim, heavier paper, 2-in-1 format, black page edges.     | Premium collectors, art enthusiasts, display-focused. |
 
 ### Frequently Asked Questions
 
-**Q: Does the *Death Note All-in-One Edition* include all supplementary content from the original *How to Read* Volume 13?**
-A: Yes, this edition typically integrates the bonus content from Volume 13, *How to Read*, which features character profiles, interviews, and other behind-the-scenes material, providing a truly complete package.
+**Q: Does the *Death Note All-in-One Edition* include *Volume 13: How to Read*?**
+A: No. The *All-in-One Edition* collects all 12 main story volumes (108 chapters) plus the special post-series C-Kira epilogue one-shot, whereas *Volume 13: How to Read* (interviews, stats, and trivia) remains a separate companion book.
 
 **Q: How does the paper quality and art reproduction in the All-in-One Edition compare to other *Death Note* manga editions?**
-A: To accommodate its massive page count, the *All-in-One Edition* uses thinner paper than standard tankōbon volumes. While the artwork remains clear, some collectors note that the larger trim size and higher quality paper of editions like the *Black Edition* may offer a more premium visual experience for Obata's detailed art.
+A: To fit 2,400 pages into a single 3.2-inch-thick spine, the *All-in-One Edition* uses thinner paper and a slightly more compact trim than standard volumes. While Obata's linework prints cleanly, collectors who prioritize thicker paper and larger ~5.75" x 8.25" pages generally prefer the 6-volume *Black Edition*.
 
-**Q: Is the *Death Note All-in-One Edition* available in a digital format for easier portability?**
-A: While the physical *All-in-One Edition* is a single, heavy tome, digital versions of *Death Note* are widely available through platforms like Amazon Kindle via Amazon.co.jp. These digital editions offer maximum portability and reading comfort across various devices.
+**Q: Is the *Death Note All-in-One Edition* available in a digital format?**
+A: The physical *All-in-One* single-tome format itself is print-only, though all 12 individual volumes of *Death Note* (plus standalone digital releases) are widely available on regional Amazon Kindle stores and VIZ / Shonen Jump digital platforms for portable reading.
 
 ## Acquiring the Death Note All-in-One Edition
 
-Collectors seeking authentic editions of the *Death Note All-in-One Edition* can explore these reliable Japanese storefronts, which often offer international shipping and English navigation:
+Because the *Death Note All-in-One Edition* is an **English-language VIZ Media release**, collectors in North America, Europe, and Oceania can generally find it directly through major English booksellers and **Amazon's regional storefronts** without importing from Japan.
 
-*   **Amazon.co.jp**: A primary destination for Japanese manga, offering competitive pricing and international shipping for physical editions, alongside digital Kindle versions.
-*   **Rakuten Japan**: Another significant online retailer in Japan, providing a wide selection of manga and often featuring various seller options.
+*   **Regional English Bookstores & Amazon Storefronts**: Often stock VIZ Media's print All-in-One Edition alongside the 6-volume *Black Edition* and Box Set.
+*   **Amazon.co.jp & Rakuten Japan**: Helpful if you live in Japan, want imported stock, or prefer collecting the original Japanese *Jump Comics* / *Complete Edition* (*Soshuhen* / box releases). **Amazon.co.jp** supports English navigation and international shipping on eligible titles, while **Rakuten Japan** operates primarily in Japanese and generally requires a proxy service for overseas delivery.
 
-Always compare prices and shipping options, especially for a heavy item like this, to ensure the best deal. Check live listings via the product cards below for current yen pricing.
+Always compare total shipping costs—especially for a heavy 2,400-page tome—before checking out. Check live listings via the product cards above for current availability.
 
 ## Final Verdict: Is the All-in-One Edition for You?
 

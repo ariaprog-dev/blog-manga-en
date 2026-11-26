@@ -12,6 +12,13 @@ sidebarProducts:
   microCopy: View on Amazon Japan
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg
+faq:
+- question: How many volumes are in the Blade of the Immortal Deluxe Edition, and does it complete the series?
+  answer: Dark Horse's Blade of the Immortal Deluxe Edition spans 10 oversized faux-leather Smyth-sewn hardcover volumes (~7" x 10", $49.99 USD MSRP each) collecting the complete 30-volume main series.
+- question: Are the Deluxe hardcovers mirrored (left-to-right) like the older single Dark Horse volumes?
+  answer: Yes, Dark Horse preserved Hiroaki Samura's adjusted left-to-right English panel layout for this release while pairing it with dark oversized hardcover binding and thick matte paper.
+- question: Where can collectors buy the English Deluxe hardcovers versus the original Japanese editions?
+  answer: English Deluxe hardcovers and Kindle Omnibuses are stocked primarily by major North American and global booksellers, while original Japanese Afternoon KC volumes are available via Amazon.co.jp (separate JP account) or Rakuten Japan via a forwarding proxy.
 ---
 > 💡 **Disclosure**: This article contains affiliate links via Moshimo Affiliate (Amazon.co.jp) and Rakuten Affiliate. We may earn a commission on qualifying purchases at no additional cost to you.
 
@@ -25,20 +32,20 @@ This isn't just a reprint; it's a meticulously crafted tribute designed to showc
 <img src="https://ebook-assets.dmm.com/digital/e-book/b900kkds00166/b900kkds00166pl.jpg" alt="Blade of the Immortal Deluxe" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover Edition (10 Vols)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Blade of the Immortal Deluxe</h4>
 
 <div class="live-price-box" data-product-key="blade-of-the-immortal-deluxe" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥792</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Omnibus%2BEnglish%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlade%20of%20the%20Immortal%20Deluxe%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 </div>
 </div>
@@ -65,99 +72,101 @@ The fight choreography is legendary. Samura's battles are visceral, chaotic, and
 
 ## The Deluxe Edition: A Collector's Ultimate Experience
 
-The *Blade of the Immortal Deluxe Edition* is a tribute to Dark Horse's commitment to presenting classic manga in a premium format. These oversized hardcover omnibuses collect three original tankobon volumes into a single, beautifully bound book. For international collectors, this is the definitive way to own and display this masterpiece.
+The *Blade of the Immortal Deluxe Edition* is a showcase of Dark Horse Manga's oversized hardcover line, complete in 10 textured faux-leather volumes. Each volume collects three original Japanese tankobon volumes (covering the entire 30-volume original run) and uses the left-to-right English reading format originally arranged with Hiroaki Samura's approval. For international collectors, this is the definitive physical way to own and display the series.
 
 ### Unparalleled Physical Build Quality
 
-*   **Oversized Hardcover:** The most immediate and impactful upgrade is the size. These volumes are significantly larger than standard manga tankobons, measuring approximately 7.25" x 10.25". This larger canvas is crucial for appreciating Samura's detailed artwork, allowing the reader to fully immerse themselves in his elaborate line work and dynamic action spreads. Double-page spreads, which might feel cramped in a smaller format, truly breathe here.
-*   **Sturdy Binding:** The hardcover construction is robust, designed to withstand repeated readings. The binding is sewn, not glued, which means the books lay flatter when opened, reducing gutter loss and making it easier to view art that spans two pages. This is a critical detail for collectors who value durability and an uninterrupted reading experience.
-*   **High-Quality Paper Stock:** The paper used is thick, opaque, and has a pleasant matte finish. This choice minimizes bleed-through from the reverse side and enhances the contrast of Samura's black-and-white art, making the ink look richer and the details sharper. It’s a significant step up from the often thinner paper found in standard tankobon releases.
-*   **Translation and Lettering:** Dark Horse's translation has always been highly regarded, capturing the nuances of the period dialogue while remaining accessible to English readers. The lettering is clean and professional, integrated seamlessly with the artwork. For those who appreciate a well-localized product, this edition delivers.
-*   **Bonus Content:** Each volume often includes bonus materials, such as Samura's original notes, character sketches, or afterwords, offering a deeper insight into the creative process. These extras are a welcome addition for any dedicated fan.
+*   **Oversized Hardcover:** The most immediate and impactful upgrade is the scale. Measuring approximately 7" x 10" (~18 x 25.4 cm), these faux-leather hardcovers are dramatically larger than standard tankobons or trade paperbacks. This expansive canvas lets Samura's intricate, sketch-like brushwork and gritty cross-hatching breathe as intended.
+*   **Sturdy Smyth-Sewn Binding:** The hardcover construction is robust and designed for repeated readings. Smyth-sewn binding helps the thick pages open flatter with less gutter loss across two-page spreads.
+*   **High-Quality Paper Stock:** The thick, opaque matte paper stock minimizes bleed-through from the reverse side and strengthens the contrast of Samura's black-and-white inks.
+*   **Translation and Lettering:** Dark Horse's respected translation and crisp hand-lettered effects convey the gritty Edo-period tone cleanly to English readers.
+*   **Collector Presentation:** The uniform embossed spines and select cover galleries give all 10 volumes an unmistakable presence on any manga shelf.
 
 ### Visual Impact: Seeing Samura's Art as Intended
 
-The true magic of the Deluxe Edition lies in how it transforms the reading experience. Samura's art, with its incredible detail, frantic energy, and often sprawling compositions, feels like it was always meant to be seen on a larger scale. The oversized pages allow you to linger on the detailed patterns of a kimono, the texture of a scarred face, or the explosive chaos of a sword fight. It’s akin to viewing a fine art print versus a postcard; the depth and impact are dramatically enhanced.
+The true magic of the Deluxe Edition lies in how it transforms the reading experience. Samura's art, with its incredible detail, frantic energy, and sprawling compositions, feels like it was always meant to be seen at 7" x 10" scale. You can linger on kimono textures, expressive brushwork, and chaotic sword choreography without squinting at shrunken panels.
 
 ## Digital vs. Physical: The Global Collector's Conundrum
 
-For international manga collectors, the choice between physical and digital often comes down to a balance of convenience, cost, and the sheer joy of ownership.
+For international manga collectors, the choice between physical and digital often comes down to convenience, shelf space, and pricing. Note a key distinction in Dark Horse's catalog: while the **10-volume Deluxe Edition is a physical hardcover release (\$49.99 USD MSRP per volume)**, the **digital Kindle releases correspond to Dark Horse's 10-volume Omnibus / individual digital editions**, sharing the same core English translation without the oversized physical book.
 
 ### The Allure of Physical Collector Editions
 
 **Pros for Physical:**
-*   **Premium Display Piece:** The *Blade of the Immortal Deluxe Edition* volumes are stunning on a bookshelf, their uniform design and elegant spines making for an impressive collection. They are conversation starters and a tangible representation of a collector's passion.
-*   **Immersive Art Experience:** As discussed, the oversized format truly elevates Samura's art. The tactile sensation of turning high-quality pages, the smell of the ink, and the weight of the book in the hands create a more engaging and immersive reading experience for many.
-*   **Investment & Resale Value:** Well-maintained collector's editions often retain or even increase in value over time, especially for a critically acclaimed series like this. They are physical assets.
-*   **No Digital Rights Management (DRM) Concerns:** Once the book is owned, it's yours. No worries about digital storefronts closing or changes in licensing affecting access.
+*   **Premium Display Piece:** The 10 faux-leather Deluxe volumes look uniform and striking on a bookshelf, serving as a tangible centerpiece for any dark-fantasy or historical manga collection.
+*   **Immersive Art Experience:** The 7" x 10" scale truly elevates Samura's expressive line work and double-page compositions.
+*   **Long-Term Value & No DRM:** Physical hardcovers carry enduring collector appeal without dependence on digital storefront accounts.
 
 **Cons for Physical:**
-*   **Cost:** Deluxe Editions are significantly more expensive per volume than standard tankobons or digital versions. The initial investment can be substantial for a complete series.
-*   **Shipping Costs & Time:** For international buyers, shipping from retailers like Amazon.co.jp can add considerable cost and lead to longer wait times. Customs duties can also be a factor.
-*   **Shelf Space:** These are large, heavy books. Collecting the entire series requires dedicated shelf space, which can be a premium for many collectors.
+*   **Cost:** At $49.99 USD list price per volume (often discounted to roughly $25–$35 USD at major online retailers), completing all 10 books is a substantial investment.
+*   **Shipping & Customs for Imports:** Buying English Dark Horse hardcovers outside North America—or importing original Japanese tankobons via Amazon.co.jp—can introduce higher shipping charges, longer transit times, and import duties.
+*   **Shelf Space & Weight:** At 10 heavy hardcovers, the complete set demands sturdy, dedicated shelf space.
 
-### The Convenience of Digital Kindle Releases
+### The Convenience of Digital Omnibus Releases
 
 **Pros for Digital:**
-*   **Instant Access:** Official English Kindle e-book translations are available instantly upon purchase. No waiting for shipping, no customs delays. Reading can begin within minutes.
-*   **Portability:** The entire series can be carried on a single e-reader, tablet, or smartphone, making it incredibly convenient for reading on the go.
-*   **Often More Affordable:** Digital versions typically have a lower per-volume price point, especially during sales.
-*   **No Storage Issues:** Digital manga takes up no physical space in the home.
-*   **Global Availability:** Kindle's platform ensures consistent availability regardless of geographical location, assuming the title is licensed in the region.
+*   **Instant Access:** Official English Kindle e-book editions (sold across the 10 Omnibus volumes or single volumes) download within minutes—no shipping delays or customs fees.
+*   **Portability & Zoom:** You can carry the entire 30-volume saga on a single tablet and pinch-to-zoom into Samura's fine cross-hatching.
+*   **Frequent Digital Sales:** Digital omnibus editions are frequently discounted below physical hardcover prices.
 
 **Cons for Digital:**
-*   **Less Immersive Art Experience:** While screens offer backlighting and zoom features, they can't replicate the physical presence and scale of an oversized print edition, especially for art as detailed as Samura's.
-*   **DRM & Ownership:** A digital copy is typically licensed, rather than truly owned. Access is dependent on the platform's continued operation and account status.
-*   **Screen Fatigue:** Prolonged reading on a screen can lead to eye strain for some.
+*   **Less Tactile Presence:** Even on a bright tablet, digital viewing cannot match the scale and physical heft of a 7" x 10" Smyth-sewn hardcover.
+*   **DRM & Licensing:** Digital purchases are licensed to your regional storefront account.
 
-For *Blade of the Immortal*, the visual grandeur of Samura's art makes a strong case for the physical Deluxe Edition. However, the convenience and accessibility of the Kindle version are undeniable, especially for those who prioritize immediate reading or have limited space.
+For *Blade of the Immortal*, the visual grandeur of Samura's art makes a strong case for the physical Deluxe Edition. However, Dark Horse's digital Omnibus releases on Kindle offer a remarkably budget-friendly way to read all 30 volumes' worth of story.
 
-### Edition Comparison: Blade of the Immortal Deluxe vs. Digital
+### Edition Comparison: Blade of the Immortal Deluxe vs. Digital Omnibus
 
-| Feature             | Blade of the Immortal Deluxe Edition | Official English Kindle E-book |
-| :------------------ | :----------------------------------- | :----------------------------- |
-| **Format**          | Oversized Hardcover Omnibus          | Digital E-book                 |
-| **Physical Size**   | Approx. 7.25" x 10.25"               | Device-dependent               |
-| **Binding**         | Sewn, lays flat                      | N/A (Digital)                  |
-| **Paper Quality**   | Thick, opaque, matte finish          | N/A (Digital)                  |
-| **Key Focus**       | Premium display, immersive art       | Instant access, portability    |
-| **Ownership**       | Tangible asset, no DRM               | Licensed access, DRM-dependent |
-| **Availability**    | Amazon.co.jp, Rakuten Japan          | Kindle platform worldwide      |
-| **Current Pricing** | Check live listings via product cards below for current yen pricing. | Check official Kindle store listings for current pricing. |
+| Feature             | Blade of the Immortal Deluxe Edition | Dark Horse Digital / Omnibus (Kindle) |
+| :------------------ | :----------------------------------- | :------------------------------------ |
+| **Format**          | 10 Oversized Faux-Leather Hardcovers | Digital E-book (10 Omnibuses / Singles) |
+| **Physical Size**   | Approx. 7" x 10" (~18 x 25.4 cm)     | Device-dependent                      |
+| **Binding**         | Smyth-sewn hardcover                 | N/A (Digital)                         |
+| **Paper Quality**   | Thick, opaque matte paper            | N/A (Digital)                         |
+| **Key Focus**       | Premium shelf display, enlarged art  | Instant access, lower cost, portability |
+| **Ownership**       | Tangible asset, no DRM               | Licensed access, account-dependent    |
+| **Availability**    | Major English bookstores, Amazon regional storefronts / Amazon.co.jp imports | Kindle & Dark Horse Digital platforms |
+| **Current Pricing** | $49.99 USD MSRP (often $25–$35 on sale; check cards above) | Check regional Kindle store listings for live pricing |
 
-## International Buying Guide: Securing Your Copy via Amazon.co.jp & Rakuten Japan
+## International Buying Guide: English Hardcovers & Japanese Editions
 
-### Amazon.co.jp for Physical & Kindle for Digital
+### Where to Buy Physical & Digital Editions
 
-For international collectors, **Amazon.co.jp** is a primary and reliable avenue for purchasing the *Blade of the Immortal Deluxe Edition*. Digital counterparts are readily available via **Kindle** on Amazon's global platforms.
+Because *Blade of the Immortal Deluxe Edition* is published in English by **Dark Horse Manga**, buyers in North America, Europe, and Oceania typically find the lowest prices and fastest shipping through their **regional Amazon storefronts** or major English-language comics and book retailers, while **Amazon.co.jp** and **Rakuten Japan** (the latter best accessed via proxy shipping) remain valuable options for buyers seeking the original Japanese *Afternoon KC* editions or imported stock.
 
-*   **Physical Deluxe Editions:** Collectors can find the *Blade of the Immortal Deluxe Edition* on **Amazon.co.jp**. This Japanese storefront offers excellent stock, an English interface, and international shipping. Buyers should be mindful of shipping costs and potential import duties, which Amazon.co.jp often calculates at checkout.
-*   **English Kindle E-Books:** The official English Kindle releases are readily available on Amazon's digital platforms worldwide. Simply search for "Blade of the Immortal Kindle" to find individual digital volumes. This offers the fastest way to start reading immediately, without shipping concerns.
+*   **Physical Deluxe Hardcovers:** Compare stock across major English-language booksellers and Amazon's regional storefronts for the best discounts off the $49.99 USD retail price, or check Amazon.co.jp if ordering from Japan or bundling with Japanese releases.
+*   **English Kindle E-Books:** Search for `"Blade of the Immortal Omnibus"` on your local Kindle storefront (or Amazon.co.jp if using a JP-region account) to access the digital English edition cleanly.
 
-### Other Retailers
+### Japanese Edition Collectors
 
-While Amazon.co.jp is a key source, collectors may also find physical Deluxe Editions at other major online book retailers specializing in manga and graphic novels, as well as through **Rakuten Japan** for Japanese editions and potentially international shipping options. For digital, the Kindle platform remains the most accessible and comprehensive for official English manga releases like *Blade of the Immortal*.
+Collectors specifically wanting the original Japanese 30-volume *Blade of the Immortal* (or the *Bakumatsu* sequel) in right-to-left format will find **Amazon.co.jp** (which offers English interface navigation and direct shipping on eligible items) and **Rakuten Japan** (typically via proxy/forwarding services for international buyers) reliable sources.
 
 ## Who Should Buy This?
 
-*   **Long-Time Fans:** If you've loved *Blade of the Immortal* for years and own the original tankobons, the Deluxe Edition is a worthy upgrade. It’s the ultimate way to re-experience the series, appreciating Samura's art on an entirely new level.
-*   **Newcomers to Seinen Manga:** If you're looking for a dark, mature, and critically acclaimed entry point into seinen manga, *Blade of the Immortal* is an excellent choice. The Deluxe Edition provides the best possible introduction.
-*   **Fans of Dark Fantasy & Samurai Epics:** If you enjoy titles like *Berserk*, *Vagabond*, or *Vinland Saga*, with their blend of historical settings, intense action, moral ambiguity, and philosophical depth, *Blade of the Immortal* will resonate deeply.
-*   **Art Enthusiasts:** Samura's unique style is a masterclass in sequential art. Anyone who appreciates layered, dynamic, and expressive black-and-white illustration will find endless inspiration in these pages.
-*   **Collectors of Premium Editions:** If you prioritize high-quality physical books for your collection, this Deluxe Edition will fit perfectly alongside other premium manga releases on your shelf.
+*   **Long-Time Fans:** If you followed the original Dark Horse single volumes or paperback omnibuses, the 10-volume Deluxe Edition is a huge visual and structural upgrade.
+*   **Newcomers to Seinen Manga:** If you're looking for a gritty, mature historical epic, *Blade of the Immortal* is a landmark classic—start with Deluxe Vol. 1 or test the opening digitally via Kindle Omnibus Vol. 1.
+*   **Fans of Dark Fantasy & Samurai Epics:** Readers of *Berserk*, *Vagabond*, and *Vinland Saga* will immediately appreciate its moral ambiguity and kinetic swordplay.
+*   **Art Enthusiasts:** Samura's raw graphite textures and expressive framing shine brightest on 7" x 10" pages.
 
 ## The Immortal Verdict
 
-*Blade of the Immortal* is more than just a manga; it's a cultural touchstone, a brutal yet beautiful exploration of humanity, revenge, and the burden of eternal life. The *Blade of the Immortal Deluxe Edition* takes this already incredible work and elevates it to its rightful place as a premium collector's item.
-
-Whether collectors opt for the stunning physical hardcovers for their bookshelf, cherishing every oversized page of Samura's exceptional artwork, or choose the instant gratification and portability of the official English Kindle releases, experiencing Manji and Rin's journey is a must. For international collectors seeking a definitive edition of a timeless classic, the Deluxe Edition of *Blade of the Immortal* is an essential acquisition that will stand proudly in any manga library.
+*Blade of the Immortal* is more than just a samurai manga; it is a cultural touchstone—a brutal yet strangely tender exploration of revenge, mortality, and survival. Dark Horse's 10-volume *Deluxe Edition* gives Samura's artwork the museum-grade hardcover housing it deserves, while the digital Omnibus editions on Kindle keep the entire saga accessible for mobile and budget-focused readers.
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/dorohedoro-manga-complete-collectors-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Dorohedoro Manga: The Complete Collector&#x27;s Guide</a> · <a href="/blog/kagurabachi-volume-1-collectors-guide-dark-shonen/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Kagurabachi Volume 1</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Blade of the Immortal Deluxe</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlade%20of%20the%20Immortal%20Deluxe%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Deluxe%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBlade%2520of%2520the%2520Immortal%2520Omnibus%2BEnglish%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle Omnibus</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlade%20of%20the%20Immortal%20Deluxe%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
 <div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
 </div>
 
 ### Frequently Asked Questions
+
+**Q: How many volumes are in the *Blade of the Immortal Deluxe Edition*, and does it complete the series?**
+A: Dark Horse Manga's *Blade of the Immortal Deluxe Edition* spans 10 oversized ~7" x 10" faux-leather Smyth-sewn hardcovers ($49.99 USD MSRP each), collecting the entire 30-volume original series by Hiroaki Samura.
+
+**Q: Is the artwork printed left-to-right like Dark Horse's earlier release?**
+A: Yes. Dark Horse retained its classic adapted left-to-right panel formatting for the English Deluxe hardcovers while upgrading the physical format with oversized matte paper and durable hardcover binding.
+
+**Q: Where should buyers purchase English Deluxe editions versus original Japanese copies?**
+A: English Deluxe hardcovers and Kindle Omnibus digital volumes are generally best sourced from major North American and global English bookstores or regional digital storefronts, while original Japanese right-to-left *Afternoon KC* volumes can be imported via **Amazon.co.jp** (separate JP account required) or **Rakuten Japan** via a forwarding proxy.

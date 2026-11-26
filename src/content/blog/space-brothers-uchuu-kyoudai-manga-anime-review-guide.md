@@ -4,13 +4,12 @@ description: Explore 'Space Brothers,' the acclaimed manga and anime following t
 pubDate: '2026-08-19'
 heroImage: https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
 genre: Sci-Fi & Fantasy
-mediaType: anime
+mediaType: comic
 sidebarProducts:
-- title: Space Brothers (宇宙兄弟) Manga
-  url: https://global.bookwalker.jp/search/?word=Space%20Brothers%20Manga
+- title: 'Space Brothers (Uchuu Kyoudai) Manga (Complete 46 Vols / Digital EN)'
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSpace%2520Brothers%2520Manga%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
-  price: 1130
-  microCopy: Check Official Details
+  microCopy: View on Amazon Japan
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg
 ---
@@ -28,13 +27,13 @@ Collectors and critics note that countless narratives about reaching for the imp
 <img src="https://ebook-assets.dmm.com/digital/e-book/b900alds02858/b900alds02858pl.jpg" alt="Space Brothers (Uchuu Kyoudai) Manga" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Manga (Digital EN & Japanese Tankobon, 46 Vols)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Space Brothers (Uchuu Kyoudai) Manga</h4>
 
-<div class="live-price-box" data-product-key="Space Brothers (Uchuu Kyoudai) Manga" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="space-brothers-manga" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥1,130</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -52,7 +51,7 @@ Collectors and critics note that countless narratives about reaching for the imp
 
 ## Cultural Impact & Creator Insights
 
-*Space Brothers* began serialization in Kodansha's *Morning* magazine in 2008 and quickly garnered critical acclaim and a devoted fanbase. Its impact is evident in the numerous accolades it has received, including the 2011 Kodansha Manga Award for General Manga and the 2012 Shogakukan Manga Award for General Manga. These prestigious awards are a tribute to its widespread appeal and literary merit, solidifying its place as a modern classic in the manga landscape.
+*Space Brothers* began serialization in Kodansha's *Morning* magazine on December 6, 2007 (Issue 1 of 2008) and quickly garnered critical acclaim and a devoted fanbase. Its impact is evident in the numerous accolades it has received, including both the 2011 Kodansha Manga Award (35th, General Manga) and the 2011 Shogakukan Manga Award (56th, General category). These prestigious awards are a tribute to its widespread appeal and literary merit, solidifying its place as a modern classic in the manga landscape.
 
 The series has also been praised by real-life astronauts and space enthusiasts for its accuracy and inspiring portrayal of space exploration. Its ability to demystify the rigorous process of becoming an astronaut while emphasizing the human element has resonated with many. Creator Chūya Koyama's dedication to extensive research, including interviews with JAXA and NASA personnel and visits to space centers, is key to its enduring popularity. This commitment allows the narrative to weave complex scientific details into a compelling human drama, making the journey of Mutta and Hibito both aspirational and relatable. The manga has inspired countless readers, reminding them that it's never too late to pursue a dream, no matter how distant it may seem, and that setbacks are often just detours on the path to success. The themes of resilience, the importance of mentorship, and the quiet strength found in supporting others are central to the narrative's deep emotional impact.
 
@@ -60,13 +59,13 @@ The series has also been praised by real-life astronauts and space enthusiasts f
 
 If collectors are ready to embark on the inspiring journey of Mutta and Hibito, here's how to dive into *Space Brothers*:
 
-### The Manga: The Original Source of Inspiration
+### The Manga: The Complete 46-Volume Original Source
 
-The manga is the definitive way to experience *Space Brothers*. It offers the most complete narrative, delving deeper into character backstories, motivations, and the detailed details of the space program. As of late 2023, the manga is ongoing with over 40 volumes released in Japan. While the English release has been sporadic, digital versions and physical imports are available for dedicated collectors and readers. Collectors can find both physical and digital editions via **Amazon.co.jp** and **Rakuten Japan**, which offer international shipping and English navigation. For example, individual volumes of the Japanese manga are often available for around ¥1130.
+The manga is the definitive way to experience *Space Brothers*. It delivers the full, concluded story—delving deeply into character backstories, technical astronaut assessments, and the gripping mechanics of lunar missions. In Japan, Kodansha concluded the long-running serialization with the **46th and final *Morning KC* volume released in July 2026** (typically retailing around ¥726–¥891 JPY per physical tankobon). For English readers, **Kodansha USA publishes *Space Brothers* exclusively in digital format** (no official English print volumes or hardcover box sets have been released), making Kindle and digital e-book platforms essential for reading in English, while **Amazon.co.jp** (English UI, direct shipping on eligible items) and **Rakuten Japan** (Japanese UI domestic merchants generally accessed via proxy services) remain the best portals for collecting the physical Japanese 46-volume print set.
 
 ### The Anime: A Dynamic and Emotional Adaptation
 
-The *Space Brothers* anime is an excellent entry point, especially for those who prefer animated storytelling. The 99-episode series covers a significant portion of the manga's story, ending before Mutta's ultimate journey to Mars begins in the manga. The animation quality is consistent, and the pacing allows for deep character development. The anime is typically found streaming on various platforms depending on regional licensing, making it accessible for a binge-watch experience. Its vibrant portrayal of the characters' emotions and the challenges they face adds another layer of engagement to the compelling narrative.
+The *Space Brothers* anime is an excellent entry point, especially for those who prefer animated storytelling. The 99-episode A-1 Pictures series adapts a large early portion of the manga, concluding while Mutta advances through astronaut training—well before his actual lunar mission arcs and the full 46-volume manga finale. The animation quality is consistent, and the pacing allows for deep character development. The anime streams on platforms such as Crunchyroll depending on regional licensing, making it accessible for a binge-watch experience before continuing into the manga.
 
 ### The Live-Action Film: A Brief Diversion
 
@@ -80,9 +79,10 @@ For collectors considering how to best experience *Space Brothers*, the followin
 
 | Format | Key Features | Collector Notes | Availability |
 | :--- | :--- | :--- | :--- |
-| Manga (Japanese Edition) | Original story, ongoing series (40+ volumes), detailed narrative, creator's pacing. | Essential for the complete, continuing story beyond the anime's conclusion. Offers the most in-depth character and world development. | Amazon.co.jp, Rakuten Japan (physical & digital) |
-| Anime Adaptation | 99 episodes, faithful adaptation of early manga arcs, dynamic visuals, voice acting. | Excellent entry point for animated storytelling. Covers significant story up to Mutta's astronaut training. | Streaming platforms (check regional availability) |
-| Live-Action Film | 2012 movie, condensed narrative, features Shun Oguri and Masaki Okada. | Supplementary experience, offers a different artistic interpretation; not a replacement for the extensive original story. | Home video, streaming (check regional availability) |
+| Japanese Physical Tankobon (46 Vols, Complete) | Complete story (final Vol. 46 released July 2026), *Morning KC* paperbacks (~¥726–¥891 JPY retail) | Definitive way to own the complete 46-volume narrative in physical print | Amazon.co.jp, Rakuten Japan (via proxy) |
+| English Digital Edition (Kodansha USA) | Official English translation, Kindle & digital storefronts (digital-only in English; no English print edition) | Required route for English readers picking up after Episode 99 | Regional Kindle / Kodansha digital platforms |
+| Anime Adaptation | 99 episodes, faithful adaptation of early astronaut selection & training arcs | Wraps well before Mutta's lunar missions in the manga | Streaming platforms (check regional availability) |
+| Live-Action Film | 2012 movie starring Shun Oguri and Masaki Okada | Condensed standalone supplement | Home video / streaming (regional varies) |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>Related Collector Guides</strong>: <a href="/blog/delicious-in-dungeon-manga-review-collectors-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Delicious in Dungeon: The Ultimate Collector&#x27;s Guide</a> · <a href="/blog/spy-x-family-manga-review-buying-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">SPY×FAMILY Manga</a></p>
 
@@ -93,3 +93,12 @@ For collectors considering how to best experience *Space Brothers*, the followin
 </div>
 
 ### Frequently Asked Questions
+
+**Q1: Is *Space Brothers* available in physical paperback or hardcover in English?**
+A1: No. Kodansha USA publishes the official English translation of *Space Brothers* **strictly digitally** (via Kindle and digital storefronts). Physical print volumes exist only in Japanese through Kodansha's 46-volume *Morning KC* release.
+
+**Q2: Where does the 99-episode anime end, and is the manga finished?**
+A2: The anime stops partway through Mutta's astronaut training well before his Moon mission arcs, whereas the manga concluded cleanly at **Volume 46 (released in July 2026)**.
+
+**Q3: How can overseas collectors buy the 46 Japanese physical tankobon volumes?**
+A3: You can order Japanese volumes directly from **Amazon.co.jp** (using a dedicated Amazon Japan account with English UI and international fulfillment on eligible items) or shop Japanese bookstores on **Rakuten Japan** via a proxy/forwarding service.

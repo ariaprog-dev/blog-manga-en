@@ -6,11 +6,10 @@ heroImage: https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx2
 genre: Sci-Fi & Fantasy
 mediaType: comic
 sidebarProducts:
-- title: Delicious in Dungeon
-  url: https://global.bookwalker.jp/search/?word=Delicious%20in%20Dungeon%20Manga
+- title: Delicious in Dungeon Manga Series (Volumes 1-14 & Box Set)
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelicious%2520in%2520Dungeon%2520Manga%26language%3Den_US
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx23714pl.jpg
-  price: 792
-  microCopy: Check Official Details
+  microCopy: View Manga Listings
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx23714pl.jpg
 ---
@@ -28,13 +27,13 @@ Created by the brilliant Ryoko Kui, *Delicious in Dungeon* manages to blend high
 <img src="https://ebook-assets.dmm.com/digital/e-book/b000ehftx23714/b000ehftx23714pl.jpg" alt="Delicious in Dungeon" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Complete Paperback Series (14 Vols) & Box Set</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Delicious in Dungeon</h4>
 
 <div class="live-price-box" data-product-key="delicious-in-dungeon" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥792</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
@@ -52,7 +51,7 @@ Created by the brilliant Ryoko Kui, *Delicious in Dungeon* manages to blend high
 
 ## The Premise: Eat Your Way Out of Trouble
 
-The story kicks off with Laios, a somewhat eccentric but incredibly determined swordsman, and his party. Their quest? To explore a dangerous dungeon, defeat the Winged Lion, and rescue Laios's sister, Falin, who was swallowed whole by a dragon. The problem? They lost all their provisions and gold in their last skirmish. But Laios, ever the pragmatist (and a bit of a weirdo), has a solution: why buy food when the dungeon is full of edible monsters?
+The story kicks off with Laios, a somewhat eccentric but incredibly determined swordsman, and his party. Their urgent mission? To venture deep into a treacherous underground dungeon, confront the Red Dragon again, and rescue Laios's sister Falin before she can be digested after being swallowed whole. The problem? Having hastily teleported back to the surface, they lost all their supplies and funds. But Laios, ever the pragmatist (and a bit of a monster obsessive), proposes a daring solution: why buy rations when the dungeon itself is teeming with edible creatures?
 
 This is where Senshi, a gruff but incredibly skilled dwarf chef, enters the picture. With his vast knowledge of monster anatomy, foraging, and cooking techniques, Senshi quickly becomes an indispensable (and hilarious) member of the team. Alongside the skeptical elf mage Marcille and the pragmatic halfling rogue Chilchuck, they embark on a quest filled with danger, discovery, and surprisingly gourmet monster meals.
 
@@ -105,37 +104,37 @@ Studio Trigger's anime adaptation, which started airing in early 2024, is fantas
 
 For those ready to look into the dungeon and start a culinary adventure, here's a guide to collecting *Delicious in Dungeon* editions.
 
-| Edition Type | Publisher/Format | Key Focus | Price (JPY) | Availability |
+| Edition Type | Publisher/Format | Key Focus | Price Reference | Availability |
 | :--- | :--- | :--- | :--- | :--- |
-| English Manga | Yen Press (Paperback) | Core story, English translation | Check live listings via product cards below | Major online retailers, local comic shops |
-| Japanese Manga | Enterbrain/Kadokawa (Paperback) | Original text, authentic edition | ¥792 (per volume) | Amazon.co.jp, Rakuten Japan |
-| Digital Manga | Various platforms | Convenience, instant access | Check live listings via product cards below | Amazon Kindle, ComiXology, Google Play |
-| Art Books/Guides | Enterbrain/Kadokawa | World-building, concept art | Check live listings via product cards below | Amazon.co.jp, specialty stores |
+| English Manga Singles & Complete Box Set | Yen Press (14 Paperbacks + Slipcase Box) | Core story, English translation, complete box bonus | Check live listings via product cards above | Major English bookstores, Amazon regional storefronts |
+| Japanese Manga | Enterbrain/Kadokawa (14 Paperbacks) | Original Japanese text, authentic tankobon | Approx. ¥726–¥836+ JP retail (check live listing) | Amazon.co.jp, Rakuten Japan (via proxy if needed) |
+| Digital Manga | Kindle / Yen Press / BookWalker Global | Convenience, instant access | Check live listings via product cards above | Amazon Kindle, BookWalker Global, Google Play |
+| World Guide & Art Books | Yen Press (English) / Kadokawa (JP) | *Adventurer's Bible Complete Edition*, lore & sketches | Check live listings via product cards above | Major English bookstores, Amazon.co.jp |
 
-### English Manga Volumes (Yen Press)
+### English Manga Volumes & Complete Box Set (Yen Press)
 
-The primary way to collect *Delicious in Dungeon* in English is through the paperback volumes published by Yen Press. They have done a fantastic job with the translation and production quality. The volumes are standard manga size, with clean printing and sturdy binding that will hold up to multiple re-reads.
+The primary way to collect *Delicious in Dungeon* in English is through the **complete 14-volume paperback series** published by Yen Press, along with Yen Press's ***Delicious in Dungeon: The Complete Box Set*** (released in December 2024, bundling Volumes 1–14 inside an illustrated collector slipcase with bonus extras such as a poster).
 
-*   **Availability**: These volumes are widely available through major online retailers and local comic shops. Supporting local businesses is encouraged for collectors.
-*   **Format**: Standard paperback tankōbon. As of the latest check, the series is complete with 14 volumes in Japan, and Yen Press is steadily releasing the English versions. Collectors should keep an eye on their release schedule to stay up-to-date.
+*   **Availability**: Widely stocked across major online booksellers, local comic shops, and Amazon's regional storefronts.
+*   **Format**: Standard Yen Press paperback editions (complete in 14 volumes in both Japan and English), with clean print reproduction and durable bindings.
 
 ### Japanese Manga Volumes
 
-For those who prefer to read in the original Japanese or want to collect the original editions, *Dungeon Meshi* is published by Enterbrain (a division of Kadokawa).
+For those who prefer to read in the original Japanese or collect the original editions, *Dungeon Meshi* is published by Enterbrain (an imprint of Kadokawa).
 
-*   **Availability**: These can be purchased through Amazon.co.jp or other Japanese online retailers like Rakuten Japan. Amazon.co.jp offers English navigation and international shipping, plus digital Kindle editions, making it a convenient option for international collectors. While shipping from Japan can add to the cost, many dedicated collectors find it worthwhile to acquire the original editions.
+*   **Availability**: Purchased through **Amazon.co.jp** (which offers English navigation, direct international shipping on eligible titles, and Japanese Kindle releases) or Japanese marketplaces such as **Rakuten Japan** (typically via proxy/forwarding services for overseas buyers).
 
 ### Digital Editions
 
 If reading on a tablet or e-reader is preferred, digital versions of *Delicious in Dungeon* are widely available.
 
-*   **Platforms**: These can be found on Amazon Kindle, ComiXology, Google Play Books, and through the Yen Press digital platform. Digital editions are a convenient way to carry the entire series and are often available immediately upon release.
+*   **Platforms**: Found across Amazon Kindle, BookWalker Global, Google Play Books, and Kobo. Digital editions give you instant access to all 14 volumes with pinch-to-zoom clarity for Ryoko Kui's detailed food illustrations.
 
-### Art Books & Related Merchandise
+### Companion Guides & Art Books (*The Adventurer's Bible*)
 
-Ryoko Kui has also released art books and fan books that dive even deeper into the world of *Delicious in Dungeon*. These often contain character designs, monster concepts, unused ideas, and behind-the-scenes insights.
+Ryoko Kui has also expanded the world with rich companion volumes filled with monster ecology, character stats, sketches, and side comics.
 
-*   **Example**: Collectors can look for titles like *Dungeon Meshi World Guide: The Adventurer's Bible* or various art collections. These are primarily released in Japanese but can be imported via Amazon.co.jp or other specialty stores. They are fantastic additions for any true fan who wants to explore every nook and cranny of Kui's imaginative world.
+*   **English & Japanese Releases**: Readers no longer have to import these strictly in Japanese—Yen Press has published both the original English guide and the expanded ***Delicious in Dungeon World Guide: The Adventurer's Bible, Complete Edition*** (released July 2025, incorporating over 70 new pages covering through the end of Volume 14). Japanese artbooks such as *Daydream Hour* remain great pickups via Amazon.co.jp as well.
 
 ## Final Thoughts: A True Manga Delicacy
 
@@ -155,11 +154,11 @@ Whether one is a long-time fantasy fan, a foodie, or just someone looking for a 
 
 ### Frequently Asked Questions About Delicious in Dungeon
 
-**Q1: How can collectors ensure they purchase authentic Japanese editions of *Dungeon Meshi*?**
-A1: Authentic Japanese editions of *Dungeon Meshi* (the original title for *Delicious in Dungeon*) can be reliably purchased from Amazon.co.jp and Rakuten Japan. These platforms offer direct access to the Japanese market, and Amazon.co.jp provides English navigation and international shipping options.
+**Q1: How can collectors buy authentic Japanese editions of *Dungeon Meshi*?**
+A1: Authentic Japanese print editions of *Dungeon Meshi* (the original title for *Delicious in Dungeon*) can be bought directly from **Amazon.co.jp** (which provides English navigation and international shipping on eligible titles) or **Rakuten Japan** (generally ordered through proxy/forwarding services for international buyers). Meanwhile, English Volumes 1–14 and the Complete Box Set are stocked directly across global English booksellers.
 
 **Q2: What makes the monster cuisine in *Delicious in Dungeon* a unique aspect for collectors?**
 A2: The detailed and imaginative monster cuisine is a central draw, transforming terrifying dungeon creatures into surprisingly gourmet meals. Ryoko Kui's meticulous illustrations of monster anatomy, cooking techniques, and recipes offer a unique blend of fantasy, culinary art, and world-building that stands out in manga collections.
 
-**Q3: Are there any companion books or art guides available for *Delicious in Dungeon* collectors?**
-A3: Yes, dedicated collectors can seek out art books and fan books, such as *Dungeon Meshi World Guide: The Adventurer's Bible*, primarily released in Japanese. These provide deeper insights into character designs, monster concepts, and the lore of Kui's imaginative world, making them valuable additions to a comprehensive collection.
+**Q3: Are there companion guidebooks available in English for *Delicious in Dungeon*?**
+A3: Yes. Yen Press has published both *Delicious in Dungeon World Guide: The Adventurer's Bible* and the expanded *Complete Edition* (released in July 2025) in English, adding bonus lore, character profiles, and side comics spanning through Volume 14, alongside Japanese artbooks like *Daydream Hour*.

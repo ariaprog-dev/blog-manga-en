@@ -6,8 +6,8 @@ heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/2r-shop/cabinet/img0315
 genre: Timeless Classics
 mediaType: anime
 sidebarProducts:
-- title: unearthing gems classic retro anime collectors guide
-  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%26language%3Den_US
+- title: Cowboy Bebop Complete Series Blu-ray
+  url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2520Blu-ray%26language%3Den_US
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/2r-shop/cabinet/img0315/rs-23198.jpg?_ex=600x600
   microCopy: View on Amazon Japan
 ---
@@ -23,7 +23,7 @@ This guide will navigate the vibrant landscape of classic retro anime, highlight
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/2r-shop/cabinet/img0315/rs-23198.jpg?_ex=600x600" alt="Cowboy Bebop Complete Series Blu-ray" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Complete Series Blu-ray</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Cowboy Bebop Complete Series Blu-ray</h4>
 
 <div class="live-price-box" data-product-key="Cowboy Bebop Complete Series Blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
@@ -36,13 +36,12 @@ This guide will navigate the vibrant landscape of classic retro anime, highlight
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%20Bebop%20Blu-ray%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2BBebop%2BBlu-ray%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCowboy%20Bebop%20Blu-ray%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
 </div>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp requires a separate JP account; Rakuten Japan typically requires a forwarding proxy outside Japan.</div>
 </div>
 
 ## What Makes an Anime "Retro" and "Worth Watching"?
@@ -62,8 +61,8 @@ No discussion of retro anime is complete without *Akira*. Katsuhiro Otomo's magn
 **Why it's essential for collectors:** *Akira* is a visual and auditory feast that demands to be seen in the highest fidelity. Its influence on Western animation and cinema is immeasurable.
 
 **Collector's Editions:**
-*   **4K UHD Blu-ray:** The definitive way to experience *Akira*. The recent 4K restoration brings out incredible detail and vibrant colors previously unseen, making the hand-drawn animation truly shine. These editions often come with extensive bonus features, art cards, and premium packaging. Available globally, including through **Amazon.co.jp** (which ships worldwide with English interface support) or local distributors like Funimation/Crunchyroll.
-*   **Manga Deluxe Editions:** The original *Akira* manga by Katsuhiro Otomo is a sprawling epic that delves even deeper into the lore and characters. Kodansha has released beautiful oversized hardcover editions in English, which are a must-have for any manga enthusiast. These volumes showcase Otomo's detailed artwork in stunning detail. Find them on **Amazon.co.jp** (Kindle for instant access or physical copies) or other major book retailers.
+*   **4K UHD Blu-ray:** The definitive way to experience *Akira*. The 4K restoration highlights Katsuhiro Otomo's hand-drawn animation alongside archival extras and collector packaging depending on the regional edition. Available through major distributors (such as Crunchyroll in North America or Anime Limited/Manga UK) as well as **Amazon.co.jp** for Japanese domestic editions.
+*   **Manga Deluxe Editions:** The original *Akira* manga by Katsuhiro Otomo spans a sweeping cyberpunk epic that expands well beyond the film. Kodansha USA publishes oversized hardcover editions (most famously the 6-volume *Akira 35th Anniversary Box Set*) as well as standard paperbacks—note that the English *Akira* manga is strictly print-only (no official English Kindle edition). Find physical copies through major bookstores or Japanese editions via **Amazon.co.jp**.
 
 ### Neon Genesis Evangelion (1995): A Psychological Odyssey That Still Resonates
 
@@ -72,8 +71,8 @@ Hideaki Anno's *Neon Genesis Evangelion* redefined the mecha genre, transforming
 **Why it's essential for collectors:** *Evangelion* is a series that rewards repeat viewings and deep analysis. Its cultural impact is immense, spawning countless spin-offs, films, and merchandise.
 
 **Collector's Editions:**
-*   **Blu-ray Box Sets:** GKIDS has released fantastic collector's editions of the original series and films in North America, often featuring stunning art books, bonus discs, and premium packaging. These are often region-locked, so international collectors should check compatibility or explore region-free players. **Amazon.co.jp** also frequently offers Japanese Blu-ray box sets (often with English subtitles) that are highly coveted for their exclusivity and quality.
-*   **Manga & Artbooks:** Yoshiyuki Sadamoto's manga adaptation offers a different perspective on the story and is available in deluxe hardcover editions. Official artbooks are also abundant, showcasing the iconic character and mecha designs. Look for these on **Amazon.co.jp** and specialized hobby sites. The **Kindle** versions of the manga provide instant access.
+*   **Blu-ray Box Sets:** GKIDS in North America and All The Anime (Anime Limited) in the UK have released English-subtitled collector's editions of the original series and films featuring art books and bonus discs (verify regional locks such as Region A or B). **Amazon.co.jp** also carries Japanese Blu-ray box sets, though note that domestic Japanese King Records releases do not include English subtitles or English dubs.
+*   **Manga & Artbooks:** Yoshiyuki Sadamoto's manga adaptation offers a distinct take on the story and is available in English from VIZ Media across five 3-in-1 omnibus paperback volumes (no English hardcover omnibus edition exists). Official Japanese and translated artbooks also showcase the iconic character and mecha designs, with physical copies sold through bookstores and import retailers.
 *   **Figures & Merchandise:** *Evangelion* boasts an unmatched range of high-end figures (from Kotobukiya, Good Smile Company, Bandai Spirits) and collectibles. From detailed EVA units to Rei and Asuka scale figures, the merchandising is extensive and highly sought after by collectors. **Rakuten Japan** and other specialized Japanese retailers are excellent sources for these.
 
 ### Cowboy Bebop (1998): Jazz, Space, and Undeniable Style
@@ -83,7 +82,7 @@ Shinichirō Watanabe's *Cowboy Bebop* is a masterclass in cool. Blending genres 
 **Why it's essential for collectors:** *Cowboy Bebop* is pure cinematic swagger. It's a series that appeals to both anime veterans and newcomers, offering a perfect blend of action, humor, and melancholy.
 
 **Collector's Editions:**
-*   **Blu-ray Sets:** Funimation (now Crunchyroll) has released excellent Blu-ray editions of the complete series, often including the movie *Knockin' on Heaven's Door*. These typically feature crisp visuals and the incredible lossless audio that the soundtrack deserves. The art style and animation truly pop in high definition. Available on **Amazon.co.jp** and other major retailers.
+*   **Blu-ray Sets:** Crunchyroll (formerly Funimation) and Anime Limited have released complete Blu-ray sets of the 26-episode television series featuring crisp HD transfers and lossless audio for the classic soundtrack. Note that the theatrical feature *Cowboy Bebop: The Movie (Knockin' on Heaven's Door)* is a separate release rather than part of the standard Complete Series TV Blu-ray. Both TV sets and Japanese editions can be found via major retailers and **Amazon.co.jp**.
 *   **Soundtracks & Artbooks:** Yoko Kanno's iconic soundtrack is a collector's item in itself, often available on vinyl and CD. Official artbooks provide a glimpse into the series' meticulous design work. These can often be found on **Amazon.co.jp** or specialized music/book retailers.
 
 ### Ghost in the Shell (1995): Philosophical Cyberpunk and Visual Innovation
@@ -123,7 +122,7 @@ For the international collector, deciding between physical and digital formats i
 
 **Where to Buy:**
 *   **Amazon.co.jp:** Your go-to for many Japanese-exclusive editions, figures, and artbooks. Their English interface and worldwide shipping make it incredibly convenient. Look for "Ships from Amazon Japan" for reliable service.
-*   **Rakuten Japan:** Another excellent platform for authentic Japanese editions, figures, and collectibles, often offering competitive pricing and international shipping options.
+*   **Rakuten Japan:** Another major marketplace for authentic Japanese editions, figures, and collectibles; international buyers typically order via a proxy shopping or forwarding service such as Buyee, ZenMarket, or Tenso.
 *   **Local Retailers:** Check major online retailers in your region (e.g., Crunchyroll Store in North America, Zavvi in Europe) for localized Blu-ray releases and manga.
 
 ### Instant Digital Availability: For Convenience and Portability
@@ -158,8 +157,8 @@ Collecting classic retro anime is more than just accumulating media; it's about 
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Cowboy Bebop Blu-ray</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2520Blu-ray%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2520Blu-ray%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCowboy%20Bebop%20Blu-ray%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
-<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCowboy%2520Bebop%2520Blu-ray%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCowboy%20Bebop%20Blu-ray%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Eligible physical Blu-rays ship internationally via Amazon.co.jp (separate JP account required). Rakuten Japan typically requires a forwarding proxy outside Japan.</div>
 </div>
 
 ### Frequently Asked Questions

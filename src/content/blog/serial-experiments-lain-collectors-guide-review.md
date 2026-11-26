@@ -6,11 +6,11 @@ heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1267/49881
 genre: Sci-Fi & Fantasy
 mediaType: anime
 sidebarProducts:
-- title: serial experiments lain Blu-ray BOX【Blu-ray】 [ 清水香里 ]
+- title: 'Serial Experiments Lain Blu-ray BOX (GNXA-1159, JP Release)'
   url: https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dserial%2520experiments%2520lain%2520Blu-ray%2520BOX%26language%3Den_US
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1267/4988102351267_1_2.jpg?_ex=600x600
   microCopy: View on Amazon Japan
-- title: serial experiments lain Blu-ray BOX【Blu-ray】 [ 清水香里 ]
+- title: 'Serial Experiments Lain Blu-ray BOX (GNXA-1159, JP Release)'
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13363514%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17571213%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1267/4988102351267_1_2.jpg?_ex=600x600
   price: 11566
@@ -26,26 +26,25 @@ Few anime series have left as indelible a mark on the landscape of science ficti
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1267/4988102351267_1_2.jpg?_ex=600x600" alt="Serial Experiments Lain Blu-ray BOX" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Deluxe Hardcover / Box Set</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f1f5f9; color: #0f172a; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">👑 Collector's Choice</span><span style="color: #64748b; font-size: 0.75rem;">Complete Series Blu-ray BOX (GNXA-1159)</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Serial Experiments Lain Blu-ray BOX</h4>
 
-<div class="live-price-box" data-product-key="unraveling-the-wired" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="serial-experiments-lain-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">Pricing</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Check Live Price</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">Ref: ¥11,566</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">* Prices and availability fluctuate on merchant sites. Check links for current status.</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSerial%2520Experiments%2520Lain%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Physical / Ships Worldwide)</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSerial%2520Experiments%2520Lain%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.3);">🛒 View on Amazon Japan (Blu-ray / Ships Worldwide)</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSerial%2520Experiments%2520Lain%2520Blu-ray%2520BOX%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #0284c7, #0369a1); color: #ffffff !important;">📱 Kindle E-Book (English)</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUnraveling%20the%20Wired%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Hobby)</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSerial%20Experiments%20Lain%20Blu-ray%20BOX%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 Rakuten Japan (Blu-ray)</a>
 </div>
 </div>
 </div>
 </div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Prices, international shipping, and availability are subject to change on merchant sites. Note: Amazon.co.jp Kindle e-books may require a Japanese Amazon account region; physical editions ship worldwide where supported.</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">* Note: Japanese GNXA-1159 Blu-ray BOX includes Japanese & English 2.0ch audio with NO subtitles (neither English nor Japanese subs). Physical discs ship worldwide where supported.</div>
 </div>
 
 ## Why *Serial Experiments Lain* Remains a Timeless Masterpiece
@@ -76,60 +75,44 @@ Equally crucial to its atmosphere is the sound design. The constant, low hum of 
 
 For many international collectors, the ultimate way to experience *Serial Experiments Lain* is through its premium physical releases. These editions offer superior video and audio quality, often come with exclusive extras, and provide a tangible connection to the series that digital streams simply cannot replicate. The primary focus for collectors will be on Blu-ray releases, which offer the best fidelity.
 
-### The Japanese Blu-ray Box Set: The Pinnacle of Preservation
+### The Japanese Blu-ray Box Set: Restoration, Audio & Subtitle Reality
 
-The most coveted editions of *Serial Experiments Lain* are often the Japanese Blu-ray Box Sets. These releases are renowned for their meticulous restoration, pristine video quality, and uncompressed audio. While specific editions vary over time, a typical Japanese box set might include:
+Japan's ***serial experiments lain Blu-ray BOX*** (`GNXA-1159`, JAN `4988102351267`, NBCUniversal Entertainment Japan, ~¥11,566 ref) is prized for its faithful film restoration and packaging, though there is a critical subtitle caveat every overseas buyer must check beforehand:
 
-*   **High-Definition Video**: A faithful transfer that respects the original animation's aesthetic, often cleaning up imperfections without over-processing.
-*   **Original Japanese Audio**: Uncompressed LPCM or DTS-HD Master Audio, preserving the original soundscape as intended.
-*   **Exclusive Packaging**: Often housed in a sturdy collector's box with unique artwork.
-*   **Artbooks and Booklets**: Comprehensive guides, character designs, background art, and interviews with the creators.
-*   **Bonus Features**: Clean opening/ending animations, trailers, and sometimes retrospective interviews.
+*   **High-Definition Video**: Faithfully remastered HD presentation respecting the moody cel texture and analog grain of the 1998 production.
+*   **Bilingual 2.0ch Audio (`GNXA-1159`)**: Includes both the original Japanese 2.0ch stereo track and the English 2.0ch stereo dub.
+*   **IMPORTANT — NO Subtitles (`GNXA-1159`)**: Unlike older export discs, Japan's standard retail Blu-ray BOX (`GNXA-1159`) contains **zero subtitles (no English subtitles and no Japanese subtitles)**. If you watch with Japanese audio and need English subtitles, choose a Western release rather than this Japanese domestic edition.
 
-For international collectors, **Amazon.co.jp** and **Rakuten Japan** are invaluable resources. Both platforms offer English navigation and direct international shipping to many countries worldwide. While prices for Japanese box sets can be significantly higher due to import costs and the premium nature of the products, the quality and exclusivity are often worth it for dedicated fans. For instance, the `serial experiments lain Blu-ray BOX` has been listed at approximately ¥11,566. Check live listings via the product cards below for current yen pricing and availability. Be aware that while Japanese Blu-rays are typically Region A (compatible with North American players), it's always wise to double-check region coding if you're outside Region A.
+For international collectors wanting to import Japanese discs, **Amazon.co.jp** offers an English interface toggle and direct international fulfillment on eligible items (note that you will need a dedicated Amazon.co.jp account separate from Western storefronts). Domestic Japanese retailers on **Rakuten Japan** list `GNXA-1159` around ¥11,566 (refer to the cards above), though because Rakuten Japan serves domestic Japanese shoppers in Japanese, international collectors typically purchase via a proxy/forwarding service.
 
-### Western Blu-ray Releases: Accessible Excellence
+### Western Blu-ray Releases: Subtitled & Region-Matched Options
 
-For those seeking a more budget-friendly or regionally compatible option, Western distributors have also released *Serial Experiments Lain* on Blu-ray. Notably, **Funimation** (now Crunchyroll) and **Discotek Media** have released excellent English-friendly Blu-ray sets in North America. These typically feature:
+For collectors who want **both English subtitles and the English dub**, Western home video labels issued official Blu-ray collections—historically **Funimation** (now merged into Crunchyroll, with North American Region A releases now largely out of print on the secondary market) and **MVM Entertainment** (in the UK, Region B). Depending on territory, these Western releases include:
 
-*   **English Subtitles**: High-quality translations of the original Japanese dialogue.
-*   **English Dub**: An official English voice track, allowing for a different viewing experience.
-*   **Standard Blu-ray Cases**: Often multi-disc sets in standard or slightly larger cases.
-*   **Bonus Features**: Usually include clean openings/endings, trailers, and sometimes a few retrospective interviews or commentaries.
-
-**Pros and Cons**: Western releases are generally more affordable and readily available through local retailers or other regional online stores. They are also guaranteed to be region-compatible for their target markets. While the video and audio quality are typically very good, they might not always match the absolute pristine quality or the extensive physical extras of a top-tier Japanese collector's box set. However, for most fans, they offer a fantastic way to own the series physically with official English translations.
-
-**Paper Quality and Binding**: When considering any physical release, especially those with included artbooks or booklets, pay attention to the paper stock and binding quality. Premium Japanese sets often feature thick, glossy paper and durable binding, enhancing the collector's experience. Western releases might vary, but reputable distributors like Discotek Media are known for their commitment to quality.
+*   **English Subtitles & English Dub**: Full English subtitle support alongside the Japanese track and English dub.
+*   **Regional Compatibility**: Region A (North America) or Region B (UK) discs tailored to regional players.
 
 ## Embracing the Digital Frontier: Instant Access to the Wired
 
-For those who prioritize convenience, portability, and immediate access, digital options for *Serial Experiments Lain* are plentiful. While you won't get the tactile experience of a physical collector's edition, digital releases offer their own distinct advantages.
+For those who prioritize convenience, portability, and immediate access, official digital options vary by region:
 
 ### Official English Streaming and Digital Purchase
 
-*Serial Experiments Lain* is available on various streaming platforms, often with official English subtitles and dubs. Platforms like **Crunchyroll**, **Funimation**, **Amazon Prime Video**, **Apple TV**, and **Google Play** frequently offer the series for streaming or digital purchase, depending on your region. While the exact availability can fluctuate due to licensing agreements, these platforms provide:
+*Serial Experiments Lain* periodically rotates across digital licensing platforms such as **Crunchyroll**, **Amazon Prime Video**, **Apple TV**, and **Google Play**, depending on territory (note that Funimation's standalone streaming service shut down in April 2024 following its consolidation under Crunchyroll). Always verify current regional availability before buying a subscription solely for *Lain*.
 
-*   **Instant Access**: Watch immediately, no shipping delays.
-*   **Portability**: Stream on multiple devices (TV, tablet, phone) anywhere with an internet connection.
-*   **Cost-Effectiveness**: Often included with subscriptions, or available for a one-time digital purchase at a lower price than physical media.
+### Companion Print Works & Artbooks
 
-**Quality Considerations**: Digital streams are typically compressed, meaning they won't offer the same uncompressed audio or raw video bitrate as a Blu-ray disc. However, for most viewers, the quality is perfectly acceptable, often in HD. It's a trade-off between absolute fidelity and unparalleled convenience.
-
-### The "Kindle" and Digital Companion Content
-
-While *Serial Experiments Lain* is an anime series and not primarily a manga, there is a short manga series for *Lain* titled *Serial Experiments Lain: The Nightmare of Fabrication*, though it's not widely available in English and is a separate work. However, collectors looking for digital companion content might find official artbooks or guidebooks related to the anime available as **eBooks on Kindle** or similar platforms.
-
-For instance, the artbook "Omnipresence In The Wired: Yoshitoshi ABe's Works of Serial Experiments Lain" is a highly sought-after physical item, and while not always available digitally, it represents the kind of deep dive into the show's aesthetic that digital book platforms *could* offer if official translations become available. For the anime itself, digital purchase platforms mentioned above are the equivalent of a "Kindle" for video content.
+While *Serial Experiments Lain* originated as a 13-episode anime rather than a manga adaptation, **Yoshitoshi ABe's** artbook ***Omnipresence in the Wired*** includes the famous 16-page one-shot comic ***"The Nightmare of Fabrication"***—making physical copies of *Omnipresence in the Wired* and the Blu-ray BOX the crown jewels for print-and-disc collectors.
 
 ## Edition Comparison: Physical vs. Digital for *Serial Experiments Lain*
 
-For collectors navigating the various options, here's a breakdown of key features across different editions:
+For collectors navigating the various options, here is a breakdown of key features across different editions:
 
 | Edition Type | Key Focus | Availability | Price | Language Support |
 | :---------------------------- | :----------------------------------------------- | :------------------------------------------------------------------------ | :------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| **Japanese Blu-ray Box Set** | Ultimate fidelity, exclusive packaging, artbooks | Amazon.co.jp, Rakuten Japan (with international shipping) | Approximately ¥11,566 (Check live listings for current yen pricing) | Original Japanese audio (uncompressed), often includes English subtitles |
-| **Western Blu-ray Release** | Accessible, region-compatible, official English | Local retailers, regional online stores | Check store listing | English subtitles, English dub, Japanese audio |
-| **Digital Streaming/Purchase** | Convenience, portability, instant access | Crunchyroll, Amazon Prime Video, Apple TV, Google Play (regional varies) | Subscription cost or one-time digital purchase | English subtitles, English dub, Japanese audio (platform dependent) |
+| **Japanese Blu-ray Box (`GNXA-1159`)** | Faithful HD transfer, Japanese & English 2.0ch audio | Amazon.co.jp, Rakuten Japan (via proxy) | Approximately ¥11,566 (check cards above) | Japanese 2.0ch & English 2.0ch dub; **NO subtitles (No English subs)** |
+| **Western Blu-ray Releases** | Region-matched discs, official English subtitles & dub | Funimation Classics NA (OOP / secondary market) & MVM UK (Region B) | Varies by secondary/regional stock | **English subtitles**, English dub, Japanese audio |
+| **Digital Streaming/Purchase** | Convenience, portability, instant access | Regional stores (Crunchyroll, Prime Video, Apple TV — varies by region) | Subscription or regional store purchase | English subtitles, English dub, Japanese audio (platform dependent) |
 
 ## Who Should Buy *Serial Experiments Lain*?
 
@@ -147,11 +130,11 @@ While not the easiest entry point into anime, *Lain* offers a uniquely rewarding
 
 ## Final Verdict: Plug In or Log Off?
 
-*Serial Experiments Lain* is more than just an anime; it's a cultural touchstone that continues to challenge perceptions of reality and identity in the digital age. For **international collectors**, the choice between physical and digital comes down to preference:
+*Serial Experiments Lain* is more than just an anime; it's a cultural touchstone that continues to challenge perceptions of reality and identity in the digital age. For **international collectors**, choosing the right disc comes down to how you watch:
 
-*   **For the ultimate collector's experience and pristine quality**, a Japanese Blu-ray Box Set, imported via **Amazon.co.jp** or **Rakuten Japan**, is the definitive choice. The superior build quality, exclusive artbooks, and uncompressed media make it a treasured centerpiece for any serious collection.
-*   **For excellent quality with English language support and regional compatibility**, Western Blu-ray releases from distributors like Discotek Media offer fantastic value and a robust physical product for your shelf.
-*   **For instant gratification and exceptional convenience**, official digital purchases or streaming options on platforms like Crunchyroll, Amazon Prime Video, or Apple TV provide immediate access to Lain's detailed world, perfect for rewatches on the go.
+*   **If you speak Japanese or watch the English 2.0ch dub and want an in-print collector box**, Japan's **`GNXA-1159` Blu-ray BOX** (via Amazon.co.jp or Rakuten Japan via proxy) delivers clean HD mastering in compact Japanese packaging—just remember it has **no subtitles**.
+*   **If you require English subtitles on disc**, hunt down MVM Entertainment's UK Region B Blu-ray or secondary-market Funimation North American sets.
+*   **If you want instant access**, check current regional digital storefronts like Prime Video, Apple TV, or Crunchyroll.
 
 Whichever path you choose, diving into *Serial Experiments Lain* is an essential journey for anyone fascinated by the intersection of technology, philosophy, and the human spirit. Let's all love Lain.
 
@@ -159,8 +142,17 @@ Whichever path you choose, diving into *Serial Experiments Lain* is an essential
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Serial Experiments Lain Blu-ray BOX</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSerial%2520Experiments%2520Lain%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSerial%2520Experiments%2520Lain%2520Blu-ray%2520BOX%2BEnglish%2BEdition%26i%3Ddigital-text%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #0369a1; border: 1px solid #7dd3fc;">Kindle E-Book</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSerial%20Experiments%20Lain%20Blu-ray%20BOX%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
-<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Physical volumes ship internationally via Amazon Japan where supported. Amazon.co.jp Kindle e-books may require a JP region account.</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787932&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSerial%2520Experiments%2520Lain%2520Blu-ray%2520BOX%26language%3Den_US" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">View on Amazon Japan</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSerial%20Experiments%20Lain%20Blu-ray%20BOX%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">Rakuten Japan</a></div>
+<div style="font-size: 0.72rem; color: #64748b; margin-top: 6px; line-height: 1.35;">* Note: Japanese GNXA-1159 Blu-ray BOX includes Japanese & English 2.0ch audio with no subtitles. Eligible physical discs ship internationally via Amazon.co.jp.</div>
 </div>
 
 ### Frequently Asked Questions
+
+**Q1: Does the Japanese `GNXA-1159` Blu-ray BOX include English subtitles?**
+A1: No. Although `GNXA-1159` carries both the original Japanese 2.0ch stereo audio and the English 2.0ch stereo dub, it includes **no subtitles** (neither English nor Japanese). Viewers wanting Japanese audio with English subtitles will need a localized Western Blu-ray release (such as MVM Entertainment UK or secondary-market Funimation North America discs).
+
+**Q2: Is *The Nightmare of Fabrication* a full manga series?**
+A2: It is a concise 16-page one-shot comic by Yoshitoshi ABe originally published inside his artbook *Omnipresence in the Wired*, rather than an ongoing manga serialization.
+
+**Q3: How can overseas collectors buy authentic Japanese *Lain* Blu-rays safely?**
+A3: Look for `GNXA-1159` on **Amazon.co.jp** (requires a separate Amazon Japan account, offers English UI and direct international shipping on eligible stock) or **Rakuten Japan** (domestic listings typically ordered through a Japanese proxy/forwarding service).
